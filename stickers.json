@@ -1,30 +1,215 @@
 {
-  "version": 1,
-  "packs": [
-    {
-      "id": "pack_cyber_y2k",
-      "name": "Y2K Cyberpunk",
-      "description": "Futuristic metallic & aesthetic stickers",
-      "category": "Y2K",
-      "coverUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/packs/pack_cyber_y2k/pack_cover.png",
-      "stickerCount": 8
-    }
-  ],
-  "stickers": [
-    {
-      "id": "mono_star_01",
-      "name": "Minimal Star",
-      "category": "MONOCHROME",
-      "packId": "pack_mono_essential",
-      "imageUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/categories/monochrome/mono_star.png",
-      "tags": ["star", "minimal", "white", "monochrome"]
-    },
-    {
-      "id": "cute_cat_01",
-      "name": "Boba Cat",
-      "category": "CUTE",
-      "imageUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/categories/cute/cute_cat.png",
-      "tags": ["cat", "cute", "animal", "pet"]
-    }
-  ]
+"version": 1,
+"packs": [
+{
+"id": "cute_cats",
+"name": "Cute Cats",
+"description": "Adorable 3D plushie cat stickers for every mood",
+"category": "CUTE",
+"coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
+"stickerCount": 25
+}
+],
+"stickers": [
+{
+"id": "cute_cats_1",
+"name": "Happy Waving Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
+"tags": ["cat", "cute", "happy", "wave", "white"]
+},
+{
+"id": "cute_cats_2",
+"name": "Love Heart Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_2.png",
+"tags": ["cat", "cute", "love", "heart", "orange"]
+},
+{
+"id": "cute_cats_3",
+"name": "Cozy Nap Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_3.png",
+"tags": ["cat", "cute", "sleepy", "nap", "grey"]
+},
+{
+"id": "cute_cats_4",
+"name": "Cool Sunglasses Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_4.png",
+"tags": ["cat", "cute", "cool", "sunglasses", "chill"]
+},
+{
+"id": "cute_cats_5",
+"name": "Playful Black Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_5.png",
+"tags": ["cat", "cute", "playful", "black", "paws"]
+},
+{
+"id": "cute_cats_6",
+"name": "Cheerful Hi Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_6.png",
+"tags": ["cat", "cute", "hi", "smile", "grey"]
+},
+{
+"id": "cute_cats_7",
+"name": "Lovely Blush Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_7.png",
+"tags": ["cat", "cute", "love", "hearts", "blush"]
+},
+{
+"id": "cute_cats_8",
+"name": "Box Peek Orange Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_8.png",
+"tags": ["cat", "cute", "box", "peek", "orange"]
+},
+{
+"id": "cute_cats_9",
+"name": "Sweet Calico Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_9.png",
+"tags": ["cat", "cute", "calico", "smile", "happy"]
+},
+{
+"id": "cute_cats_10",
+"name": "Music Headphones Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_10.png",
+"tags": ["cat", "cute", "music", "headphones", "vibe"]
+},
+{
+"id": "cute_cats_11",
+"name": "Laughing Ginger Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_11.png",
+"tags": ["cat", "cute", "laugh", "joy", "orange"]
+},
+{
+"id": "cute_cats_12",
+"name": "Curious Black Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_12.png",
+"tags": ["cat", "cute", "black", "stare", "eyes"]
+},
+{
+"id": "cute_cats_13",
+"name": "Yummy Fish Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_13.png",
+"tags": ["cat", "cute", "fish", "food", "snack"]
+},
+{
+"id": "cute_cats_14",
+"name": "Pleading Eyes Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_14.png",
+"tags": ["cat", "cute", "please", "begging", "adorable"]
+},
+{
+"id": "cute_cats_15",
+"name": "Boba Tea Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_15.png",
+"tags": ["cat", "cute", "boba", "tea", "drink"]
+},
+{
+"id": "cute_cats_16",
+"name": "Lazy Stretch White Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_16.png",
+"tags": ["cat", "cute", "sleep", "lazy", "white"]
+},
+{
+"id": "cute_cats_17",
+"name": "Waving Calico Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_17.png",
+"tags": ["cat", "cute", "calico", "paw", "wave"]
+},
+{
+"id": "cute_cats_18",
+"name": "Frog Hat Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_18.png",
+"tags": ["cat", "cute", "frog", "hat", "costume"]
+},
+{
+"id": "cute_cats_19",
+"name": "Sleeping Pillow Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_19.png",
+"tags": ["cat", "cute", "sleep", "zzz", "pillow"]
+},
+{
+"id": "cute_cats_20",
+"name": "Hiding Box Black Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_20.png",
+"tags": ["cat", "cute", "box", "black", "shy"]
+},
+{
+"id": "cute_cats_21",
+"name": "Shy Peekaboo Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_21.png",
+"tags": ["cat", "cute", "shy", "blush", "giggle"]
+},
+{
+"id": "cute_cats_22",
+"name": "Hugging Heart White Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_22.png",
+"tags": ["cat", "cute", "heart", "love", "hug"]
+},
+{
+"id": "cute_cats_23",
+"name": "Magic Witch Black Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_23.png",
+"tags": ["cat", "cute", "magic", "witch", "star"]
+},
+{
+"id": "cute_cats_24",
+"name": "Curled Sleeping Ginger Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_24.png",
+"tags": ["cat", "cute", "sleep", "cozy", "ginger"]
+},
+{
+"id": "cute_cats_25",
+"name": "Sprout Wink White Cat",
+"category": "CUTE",
+"packId": "cute_cats",
+"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_25.png",
+"tags": ["cat", "cute", "wink", "leaf", "sprout"]
+}
+]
 }
