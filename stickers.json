@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "pack_cyber_y2k",
+      "name": "Y2K Cyberpunk",
+      "description": "Futuristic metallic & aesthetic stickers",
+      "category": "Y2K",
+      "coverUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/packs/pack_cyber_y2k/pack_cover.png",
+      "stickerCount": 8
+    }
+  ],
+  "stickers": [
+    {
+      "id": "mono_star_01",
+      "name": "Minimal Star",
+      "category": "MONOCHROME",
+      "packId": "pack_mono_essential",
+      "imageUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/categories/monochrome/mono_star.png",
+      "tags": ["star", "minimal", "white", "monochrome"]
+    },
+    {
+      "id": "cute_cat_01",
+      "name": "Boba Cat",
+      "category": "CUTE",
+      "imageUrl": "https://raw.githubusercontent.com/<YOUR_USERNAME>/sticker-assets/main/categories/cute/cute_cat.png",
+      "tags": ["cat", "cute", "animal", "pet"]
+    }
+  ]
+}
