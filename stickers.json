@@ -1,423 +1,479 @@
 {
-"version": 1,
-"packs": [
-{
-"id": "cute_cats",
-"name": "Cute Cats",
-"description": "Adorable 3D plushie cat stickers for every mood",
-"category": "CUTE",
-"coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
-"stickerCount": 25
-},
-{
-"id": "blob",
-"name": "Cute Blobs",
-"description": "Expressive & adorable blob stickers for every reaction",
-"category": "CUTE",
-"coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
-"stickerCount": 25
-}
-],
-"stickers": [
-{
-"id": "cute_cats_1",
-"name": "Happy Waving Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
-"tags": ["cat", "cute", "happy", "wave", "white"]
-},
-{
-"id": "cute_cats_2",
-"name": "Love Heart Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_2.png",
-"tags": ["cat", "cute", "love", "heart", "orange"]
-},
-{
-"id": "cute_cats_3",
-"name": "Cozy Nap Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_3.png",
-"tags": ["cat", "cute", "sleepy", "nap", "grey"]
-},
-{
-"id": "cute_cats_4",
-"name": "Cool Sunglasses Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_4.png",
-"tags": ["cat", "cute", "cool", "sunglasses", "chill"]
-},
-{
-"id": "cute_cats_5",
-"name": "Playful Black Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_5.png",
-"tags": ["cat", "cute", "playful", "black", "paws"]
-},
-{
-"id": "cute_cats_6",
-"name": "Cheerful Hi Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_6.png",
-"tags": ["cat", "cute", "hi", "smile", "grey"]
-},
-{
-"id": "cute_cats_7",
-"name": "Lovely Blush Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_7.png",
-"tags": ["cat", "cute", "love", "hearts", "blush"]
-},
-{
-"id": "cute_cats_8",
-"name": "Box Peek Orange Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_8.png",
-"tags": ["cat", "cute", "box", "peek", "orange"]
-},
-{
-"id": "cute_cats_9",
-"name": "Sweet Calico Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_9.png",
-"tags": ["cat", "cute", "calico", "smile", "happy"]
-},
-{
-"id": "cute_cats_10",
-"name": "Music Headphones Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_10.png",
-"tags": ["cat", "cute", "music", "headphones", "vibe"]
-},
-{
-"id": "cute_cats_11",
-"name": "Laughing Ginger Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_11.png",
-"tags": ["cat", "cute", "laugh", "joy", "orange"]
-},
-{
-"id": "cute_cats_12",
-"name": "Curious Black Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_12.png",
-"tags": ["cat", "cute", "black", "stare", "eyes"]
-},
-{
-"id": "cute_cats_13",
-"name": "Yummy Fish Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_13.png",
-"tags": ["cat", "cute", "fish", "food", "snack"]
-},
-{
-"id": "cute_cats_14",
-"name": "Pleading Eyes Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_14.png",
-"tags": ["cat", "cute", "please", "begging", "adorable"]
-},
-{
-"id": "cute_cats_15",
-"name": "Boba Tea Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_15.png",
-"tags": ["cat", "cute", "boba", "tea", "drink"]
-},
-{
-"id": "cute_cats_16",
-"name": "Lazy Stretch White Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_16.png",
-"tags": ["cat", "cute", "sleep", "lazy", "white"]
-},
-{
-"id": "cute_cats_17",
-"name": "Waving Calico Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_17.png",
-"tags": ["cat", "cute", "calico", "paw", "wave"]
-},
-{
-"id": "cute_cats_18",
-"name": "Frog Hat Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_18.png",
-"tags": ["cat", "cute", "frog", "hat", "costume"]
-},
-{
-"id": "cute_cats_19",
-"name": "Sleeping Pillow Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_19.png",
-"tags": ["cat", "cute", "sleep", "zzz", "pillow"]
-},
-{
-"id": "cute_cats_20",
-"name": "Hiding Box Black Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_20.png",
-"tags": ["cat", "cute", "box", "black", "shy"]
-},
-{
-"id": "cute_cats_21",
-"name": "Shy Peekaboo Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_21.png",
-"tags": ["cat", "cute", "shy", "blush", "giggle"]
-},
-{
-"id": "cute_cats_22",
-"name": "Hugging Heart White Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_22.png",
-"tags": ["cat", "cute", "heart", "love", "hug"]
-},
-{
-"id": "cute_cats_23",
-"name": "Magic Witch Black Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_23.png",
-"tags": ["cat", "cute", "magic", "witch", "star"]
-},
-{
-"id": "cute_cats_24",
-"name": "Curled Sleeping Ginger Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_24.png",
-"tags": ["cat", "cute", "sleep", "cozy", "ginger"]
-},
-{
-"id": "cute_cats_25",
-"name": "Sprout Wink White Cat",
-"category": "CUTE",
-"packId": "cute_cats",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_25.png",
-"tags": ["cat", "cute", "wink", "leaf", "sprout"]
-},
-{
-"id": "blob_1",
-"name": "Cute Blob 1",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_2",
-"name": "Cute Blob 2",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_2.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_3",
-"name": "Cute Blob 3",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_3.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_4",
-"name": "Cute Blob 4",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_4.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_5",
-"name": "Cute Blob 5",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_5.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_6",
-"name": "Cute Blob 6",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_6.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_7",
-"name": "Cute Blob 7",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_7.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_8",
-"name": "Cute Blob 8",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_8.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_9",
-"name": "Cute Blob 9",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_9.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_10",
-"name": "Cute Blob 10",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_10.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_11",
-"name": "Cute Blob 11",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_11.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_12",
-"name": "Cute Blob 12",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_12.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_13",
-"name": "Cute Blob 13",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_13.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_14",
-"name": "Cute Blob 14",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_14.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_15",
-"name": "Cute Blob 15",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_15.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_16",
-"name": "Cute Blob 16",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_16.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_17",
-"name": "Cute Blob 17",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_17.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_18",
-"name": "Cute Blob 18",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_18.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_19",
-"name": "Cute Blob 19",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_19.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_20",
-"name": "Cute Blob 20",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_20.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_21",
-"name": "Cute Blob 21",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_21.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_22",
-"name": "Cute Blob 22",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_22.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_23",
-"name": "Cute Blob 23",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_23.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_24",
-"name": "Cute Blob 24",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_24.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-},
-{
-"id": "blob_25",
-"name": "Cute Blob 25",
-"category": "CUTE",
-"packId": "blob",
-"imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_25.png",
-"tags": ["blob", "cute", "emoji", "reaction", "adorable"]
-}
-]
+  "version": 1,
+  "featured": {
+    "packId": "cute_cats",
+    "stickerIds": ["cute_cats_1", "cute_cats_2", "cute_cats_4", "cute_cats_7", "cute_cats_10", "cute_cats_15", "cute_cats_18", "cute_cats_22", "blob_1", "blob_2", "blob_3", "blob_5"]
+  },
+  "packs": [
+    {
+      "id": "cute_cats",
+      "name": "Cute Cats",
+      "description": "Adorable 3D plushie cat stickers for every mood",
+      "category": "CUTE",
+      "isPremium": false,
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
+      "stickerCount": 25
+    },
+    {
+      "id": "blob",
+      "name": "Cute Blobs",
+      "description": "Expressive & adorable blob stickers for every reaction",
+      "category": "CUTE",
+      "isPremium": true,
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
+      "stickerCount": 25
+    }
+  ],
+  "stickers": [
+    {
+      "id": "cute_cats_1",
+      "name": "Happy Waving Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_1.png",
+      "tags": ["cat", "cute", "happy", "wave", "white"]
+    },
+    {
+      "id": "cute_cats_2",
+      "name": "Love Heart Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_2.png",
+      "tags": ["cat", "cute", "love", "heart", "orange"]
+    },
+    {
+      "id": "cute_cats_3",
+      "name": "Cozy Nap Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_3.png",
+      "tags": ["cat", "cute", "sleepy", "nap", "grey"]
+    },
+    {
+      "id": "cute_cats_4",
+      "name": "Cool Sunglasses Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_4.png",
+      "tags": ["cat", "cute", "cool", "sunglasses", "chill"]
+    },
+    {
+      "id": "cute_cats_5",
+      "name": "Playful Black Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_5.png",
+      "tags": ["cat", "cute", "playful", "black", "paws"]
+    },
+    {
+      "id": "cute_cats_6",
+      "name": "Cheerful Hi Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_6.png",
+      "tags": ["cat", "cute", "hi", "smile", "grey"]
+    },
+    {
+      "id": "cute_cats_7",
+      "name": "Lovely Blush Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_7.png",
+      "tags": ["cat", "cute", "love", "hearts", "blush"]
+    },
+    {
+      "id": "cute_cats_8",
+      "name": "Box Peek Orange Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_8.png",
+      "tags": ["cat", "cute", "box", "peek", "orange"]
+    },
+    {
+      "id": "cute_cats_9",
+      "name": "Sweet Calico Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_9.png",
+      "tags": ["cat", "cute", "calico", "smile", "happy"]
+    },
+    {
+      "id": "cute_cats_10",
+      "name": "Music Headphones Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_10.png",
+      "tags": ["cat", "cute", "music", "headphones", "vibe"]
+    },
+    {
+      "id": "cute_cats_11",
+      "name": "Laughing Ginger Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_11.png",
+      "tags": ["cat", "cute", "laugh", "joy", "orange"]
+    },
+    {
+      "id": "cute_cats_12",
+      "name": "Curious Black Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_12.png",
+      "tags": ["cat", "cute", "black", "stare", "eyes"]
+    },
+    {
+      "id": "cute_cats_13",
+      "name": "Yummy Fish Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_13.png",
+      "tags": ["cat", "cute", "fish", "food", "snack"]
+    },
+    {
+      "id": "cute_cats_14",
+      "name": "Pleading Eyes Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_14.png",
+      "tags": ["cat", "cute", "please", "begging", "adorable"]
+    },
+    {
+      "id": "cute_cats_15",
+      "name": "Boba Tea Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_15.png",
+      "tags": ["cat", "cute", "boba", "tea", "drink"]
+    },
+    {
+      "id": "cute_cats_16",
+      "name": "Lazy Stretch White Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_16.png",
+      "tags": ["cat", "cute", "sleep", "lazy", "white"]
+    },
+    {
+      "id": "cute_cats_17",
+      "name": "Waving Calico Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_17.png",
+      "tags": ["cat", "cute", "calico", "paw", "wave"]
+    },
+    {
+      "id": "cute_cats_18",
+      "name": "Frog Hat Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_18.png",
+      "tags": ["cat", "cute", "frog", "hat", "costume"]
+    },
+    {
+      "id": "cute_cats_19",
+      "name": "Sleeping Pillow Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_19.png",
+      "tags": ["cat", "cute", "sleep", "zzz", "pillow"]
+    },
+    {
+      "id": "cute_cats_20",
+      "name": "Hiding Box Black Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_20.png",
+      "tags": ["cat", "cute", "box", "black", "shy"]
+    },
+    {
+      "id": "cute_cats_21",
+      "name": "Shy Peekaboo Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_21.png",
+      "tags": ["cat", "cute", "shy", "blush", "giggle"]
+    },
+    {
+      "id": "cute_cats_22",
+      "name": "Hugging Heart White Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_22.png",
+      "tags": ["cat", "cute", "heart", "love", "hug"]
+    },
+    {
+      "id": "cute_cats_23",
+      "name": "Magic Witch Black Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_23.png",
+      "tags": ["cat", "cute", "magic", "witch", "star"]
+    },
+    {
+      "id": "cute_cats_24",
+      "name": "Curled Sleeping Ginger Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_24.png",
+      "tags": ["cat", "cute", "sleep", "cozy", "ginger"]
+    },
+    {
+      "id": "cute_cats_25",
+      "name": "Sprout Wink White Cat",
+      "category": "CUTE",
+      "packId": "cute_cats",
+      "isPremium": false,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_cats/cute_cats_25.png",
+      "tags": ["cat", "cute", "wink", "leaf", "sprout"]
+    },
+    {
+      "id": "blob_1",
+      "name": "Cute Blob 1",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_2",
+      "name": "Cute Blob 2",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_2.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_3",
+      "name": "Cute Blob 3",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_3.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_4",
+      "name": "Cute Blob 4",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_4.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_5",
+      "name": "Cute Blob 5",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_5.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_6",
+      "name": "Cute Blob 6",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_6.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_7",
+      "name": "Cute Blob 7",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_7.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_8",
+      "name": "Cute Blob 8",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_8.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_9",
+      "name": "Cute Blob 9",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_9.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_10",
+      "name": "Cute Blob 10",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_10.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_11",
+      "name": "Cute Blob 11",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_11.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_12",
+      "name": "Cute Blob 12",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_12.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_13",
+      "name": "Cute Blob 13",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_13.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_14",
+      "name": "Cute Blob 14",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_14.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_15",
+      "name": "Cute Blob 15",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_15.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_16",
+      "name": "Cute Blob 16",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_16.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_17",
+      "name": "Cute Blob 17",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_17.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_18",
+      "name": "Cute Blob 18",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_18.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_19",
+      "name": "Cute Blob 19",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_19.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_20",
+      "name": "Cute Blob 20",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_20.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_21",
+      "name": "Cute Blob 21",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_21.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_22",
+      "name": "Cute Blob 22",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_22.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_23",
+      "name": "Cute Blob 23",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_23.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_24",
+      "name": "Cute Blob 24",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_24.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    },
+    {
+      "id": "blob_25",
+      "name": "Cute Blob 25",
+      "category": "CUTE",
+      "packId": "blob",
+      "isPremium": true,
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_25.png",
+      "tags": ["blob", "cute", "emoji", "reaction", "adorable"]
+    }
+  ]
 }
