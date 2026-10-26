@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987727565,
+  "lastUpdated": 1792987747567,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -444,9 +444,28 @@
             "nature",
             "budgie"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Woodpecker",
+          "tags": [
+            "bird",
+            "woodpecker",
+            "flying",
+            "wildlife",
+            "red",
+            "black",
+            "white",
+            "nature",
+            "birds"
+          ]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": [
         "birds",
         "animals",
@@ -7609,6 +7628,25 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Woodpecker",
+      "tags": [
+        "bird",
+        "woodpecker",
+        "flying",
+        "wildlife",
+        "red",
+        "black",
+        "white",
+        "nature",
+        "birds"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14126,6 +14164,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 381,
+  "totalStickers": 382,
   "version": 1
 }
