@@ -1,5 +1,6 @@
 {
   "categories": [
+    "GENERAL",
     "SUPERHEROS",
     "NATURE",
     "CUTE",
@@ -8,8 +9,28 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792989116285,
+  "lastUpdated": 1792990745281,
   "packs": [
+    {
+      "category": "GENERAL",
+      "coverUrl": "",
+      "description": "Rev your engines and conquer the asphalt with these high-speed racing stickers.",
+      "id": "apex_racers",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Apex Racers",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": [
+        "racing",
+        "speed",
+        "cars",
+        "drift",
+        "motorsport",
+        "fast",
+        "apex"
+      ]
+    },
     {
       "category": "SUPERHEROS",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/batman/batman_6.png",
@@ -2278,7 +2299,7 @@
     },
     {
       "category": "ANIMAL",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_9.png",
       "description": "Unleash fierce mythical energy with these epic and legendary dragon stickers.",
       "id": "dragons",
       "isFeatured": false,
@@ -14950,7 +14971,7 @@
       ]
     }
   ],
-  "totalPacks": 21,
+  "totalPacks": 22,
   "totalStickers": 401,
   "version": 1
 }
