@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988887933,
+  "lastUpdated": 1792988904845,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2425,9 +2425,28 @@
             "dragons",
             "anime"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Dragon",
+          "tags": [
+            "dragon",
+            "purple",
+            "black",
+            "fierce",
+            "fantasy",
+            "monster",
+            "wings",
+            "dragons",
+            "animal"
+          ]
         }
       ],
-      "stickersCount": 7,
+      "stickersCount": 8,
       "tags": [
         "dragon",
         "mythical",
@@ -9964,6 +9983,25 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Dragon",
+      "tags": [
+        "dragon",
+        "purple",
+        "black",
+        "fierce",
+        "fantasy",
+        "monster",
+        "wings",
+        "dragons",
+        "animal"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14831,6 +14869,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 398,
+  "totalStickers": 399,
   "version": 1
 }
