@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997669595,
+  "lastUpdated": 1792997684467,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6504,9 +6504,30 @@
             "brand",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Card Holder",
+          "tags": [
+            "nothing",
+            "wallet",
+            "card",
+            "holder",
+            "black",
+            "red",
+            "tech",
+            "minimal",
+            "nothing_os",
+            "brand",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": [
         "minimal",
         "monochrome",
@@ -14455,6 +14476,27 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Card Holder",
+      "tags": [
+        "nothing",
+        "wallet",
+        "card",
+        "holder",
+        "black",
+        "red",
+        "tech",
+        "minimal",
+        "nothing_os",
+        "brand",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15356,6 +15398,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 409,
+  "totalStickers": 410,
   "version": 1
 }
