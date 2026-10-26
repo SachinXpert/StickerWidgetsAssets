@@ -4,10 +4,11 @@
     "NATURE",
     "CUTE",
     "AUTOMOTIVE",
+    "ANIMAL",
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987931444,
+  "lastUpdated": 1792988539597,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2273,6 +2274,27 @@
         "kitten",
         "cat",
         "pet"
+      ]
+    },
+    {
+      "category": "ANIMAL",
+      "coverUrl": "",
+      "description": "Unleash fierce mythical energy with these epic and legendary dragon stickers.",
+      "id": "dragons",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Dragons",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": [
+        "dragon",
+        "mythical",
+        "fantasy",
+        "fire",
+        "monster",
+        "beast",
+        "epic",
+        "cute"
       ]
     },
     {
@@ -14525,7 +14547,7 @@
       ]
     }
   ],
-  "totalPacks": 20,
+  "totalPacks": 21,
   "totalStickers": 391,
   "version": 1
 }
