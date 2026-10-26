@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996079792,
+  "lastUpdated": 1792996100410,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6567,9 +6567,30 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "White Headset",
+          "tags": [
+            "headphones",
+            "audio",
+            "music",
+            "white",
+            "tech",
+            "gadget",
+            "modern",
+            "nothing_os",
+            "nothing",
+            "os",
+            "headset"
+          ]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": [
         "minimal",
         "monochrome",
@@ -14581,6 +14602,27 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "White Headset",
+      "tags": [
+        "headphones",
+        "audio",
+        "music",
+        "white",
+        "tech",
+        "gadget",
+        "modern",
+        "nothing_os",
+        "nothing",
+        "os",
+        "headset"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15482,6 +15524,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 412,
+  "totalStickers": 413,
   "version": 1
 }
