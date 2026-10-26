@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987782764,
+  "lastUpdated": 1792987798132,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -503,9 +503,29 @@
             "jay",
             "flight"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Goldfinch Bird",
+          "tags": [
+            "bird",
+            "goldfinch",
+            "yellow",
+            "black",
+            "cute",
+            "wildlife",
+            "animal",
+            "feathers",
+            "birds",
+            "nature"
+          ]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": [
         "birds",
         "animals",
@@ -7727,6 +7747,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Goldfinch Bird",
+      "tags": [
+        "bird",
+        "goldfinch",
+        "yellow",
+        "black",
+        "cute",
+        "wildlife",
+        "animal",
+        "feathers",
+        "birds",
+        "nature"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14244,6 +14284,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 384,
+  "totalStickers": 385,
   "version": 1
 }
