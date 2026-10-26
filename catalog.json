@@ -9,7 +9,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792990773710,
+  "lastUpdated": 1792990789094,
   "packs": [
     {
       "category": "GENERAL",
@@ -42,9 +42,33 @@
             "racers",
             "one"
           ]
+        },
+        {
+          "category": "GENERAL",
+          "id": "apex_racers_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Bull Racing F1",
+          "tags": [
+            "racing",
+            "formula",
+            "car",
+            "speed",
+            "blue",
+            "red",
+            "yellow",
+            "sport",
+            "apex_racers",
+            "automotive",
+            "apex",
+            "racers",
+            "bull",
+            "f1"
+          ]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": [
         "racing",
         "speed",
@@ -7695,6 +7719,30 @@
       ]
     },
     {
+      "category": "GENERAL",
+      "id": "apex_racers_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Bull Racing F1",
+      "tags": [
+        "racing",
+        "formula",
+        "car",
+        "speed",
+        "blue",
+        "red",
+        "yellow",
+        "sport",
+        "apex_racers",
+        "automotive",
+        "apex",
+        "racers",
+        "bull",
+        "f1"
+      ]
+    },
+    {
       "category": "SUPERHEROS",
       "id": "batman_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/batman/batman_1.png",
@@ -15019,6 +15067,6 @@
     }
   ],
   "totalPacks": 22,
-  "totalStickers": 402,
+  "totalStickers": 403,
   "version": 1
 }
