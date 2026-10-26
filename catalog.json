@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792998827075,
+  "lastUpdated": 1793021457877,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6455,7 +6455,7 @@
     },
     {
       "category": "BRAND",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_10.png",
       "description": "Clean, minimalist glyphs and monochrome vibes for your homescreen.",
       "id": "nothing_os",
       "isFeatured": false,
