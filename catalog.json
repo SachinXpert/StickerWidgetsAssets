@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996293232,
+  "lastUpdated": 1792996308893,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6842,9 +6842,31 @@
             "sd",
             "card"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Smart Watch",
+          "tags": [
+            "watch",
+            "smart",
+            "digital",
+            "time",
+            "gadget",
+            "technology",
+            "white",
+            "red",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 18,
+      "stickersCount": 19,
       "tags": [
         "minimal",
         "monochrome",
@@ -15131,6 +15153,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Smart Watch",
+      "tags": [
+        "watch",
+        "smart",
+        "digital",
+        "time",
+        "gadget",
+        "technology",
+        "white",
+        "red",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -16032,6 +16076,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 425,
+  "totalStickers": 426,
   "version": 1
 }
