@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988722474,
+  "lastUpdated": 1792988736414,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2304,9 +2304,29 @@
             "dragons",
             "animal"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Black Dragon",
+          "tags": [
+            "dragon",
+            "fantasy",
+            "red",
+            "black",
+            "fierce",
+            "wings",
+            "monster",
+            "scales",
+            "dragons",
+            "animal"
+          ]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": [
         "dragon",
         "mythical",
@@ -9722,6 +9742,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Black Dragon",
+      "tags": [
+        "dragon",
+        "fantasy",
+        "red",
+        "black",
+        "fierce",
+        "wings",
+        "monster",
+        "scales",
+        "dragons",
+        "animal"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14589,6 +14629,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 392,
+  "totalStickers": 393,
   "version": 1
 }
