@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988904845,
+  "lastUpdated": 1792988919841,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2444,9 +2444,30 @@
             "dragons",
             "animal"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden Dragon",
+          "tags": [
+            "dragon",
+            "fierce",
+            "yellow",
+            "black",
+            "fantasy",
+            "fire",
+            "monster",
+            "beast",
+            "dragons",
+            "animal",
+            "golden"
+          ]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": [
         "dragon",
         "mythical",
@@ -10002,6 +10023,27 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Dragon",
+      "tags": [
+        "dragon",
+        "fierce",
+        "yellow",
+        "black",
+        "fantasy",
+        "fire",
+        "monster",
+        "beast",
+        "dragons",
+        "animal",
+        "golden"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14869,6 +14911,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 399,
+  "totalStickers": 400,
   "version": 1
 }
