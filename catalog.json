@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997783607,
+  "lastUpdated": 1792997798974,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6587,9 +6587,29 @@
             "os",
             "card"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Logo",
+          "tags": [
+            "nothing",
+            "logo",
+            "brand",
+            "tech",
+            "transparent",
+            "minimalist",
+            "white",
+            "black",
+            "nothing_os",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": [
         "minimal",
         "monochrome",
@@ -14621,6 +14641,26 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Logo",
+      "tags": [
+        "nothing",
+        "logo",
+        "brand",
+        "tech",
+        "transparent",
+        "minimalist",
+        "white",
+        "black",
+        "nothing_os",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15522,6 +15562,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 413,
+  "totalStickers": 414,
   "version": 1
 }
