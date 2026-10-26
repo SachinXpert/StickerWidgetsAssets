@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988640537,
+  "lastUpdated": 1792988671568,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -431,7 +431,7 @@
           "id": "birds_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Flying Budgie",
           "tags": [
             "bird",
@@ -7815,7 +7815,7 @@
       "id": "birds_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Flying Budgie",
       "tags": [
         "bird",
