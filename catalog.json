@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996308893,
+  "lastUpdated": 1792996927032,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6464,70 +6464,6 @@
       "stickers": [
         {
           "category": "BRAND",
-          "id": "nothing_os_1",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_1.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Phone Back",
-          "tags": [
-            "phone",
-            "transparent",
-            "tech",
-            "white",
-            "red",
-            "modern",
-            "gadget",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os",
-            "back"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_10",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_10.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Keychain",
-          "tags": [
-            "nothing",
-            "keychain",
-            "tech",
-            "minimalist",
-            "white",
-            "red",
-            "black",
-            "nothing_os",
-            "brand",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_11",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_11.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Charger",
-          "tags": [
-            "charger",
-            "transparent",
-            "tech",
-            "device",
-            "power",
-            "adapter",
-            "minimal",
-            "white",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
           "id": "nothing_os_12",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
           "isFeatured": false,
@@ -6866,7 +6802,7 @@
           ]
         }
       ],
-      "stickersCount": 19,
+      "stickersCount": 16,
       "tags": [
         "minimal",
         "monochrome",
@@ -14773,70 +14709,6 @@
     },
     {
       "category": "BRAND",
-      "id": "nothing_os_1",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_1.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Phone Back",
-      "tags": [
-        "phone",
-        "transparent",
-        "tech",
-        "white",
-        "red",
-        "modern",
-        "gadget",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os",
-        "back"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_10",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_10.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Keychain",
-      "tags": [
-        "nothing",
-        "keychain",
-        "tech",
-        "minimalist",
-        "white",
-        "red",
-        "black",
-        "nothing_os",
-        "brand",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_11",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_11.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Charger",
-      "tags": [
-        "charger",
-        "transparent",
-        "tech",
-        "device",
-        "power",
-        "adapter",
-        "minimal",
-        "white",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
       "id": "nothing_os_12",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
       "isFeatured": false,
@@ -16076,6 +15948,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 426,
+  "totalStickers": 423,
   "version": 1
 }
