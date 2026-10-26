@@ -7,7 +7,7 @@
     "GAMES",
     "NATURE"
   ],
-  "lastUpdated": 1792986607219,
+  "lastUpdated": 1792986620973,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -7973,6 +7973,24 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "butterfly_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Butterfly",
+      "tags": [
+        "butterfly",
+        "insect",
+        "purple",
+        "black",
+        "wings",
+        "nature",
+        "beautiful",
+        "cute"
+      ]
+    },
+    {
       "category": "AUTOMOTIVE",
       "id": "cars_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cars/cars_1.png",
@@ -14007,6 +14025,6 @@
     }
   ],
   "totalPacks": 19,
-  "totalStickers": 378,
+  "totalStickers": 379,
   "version": 1
 }
