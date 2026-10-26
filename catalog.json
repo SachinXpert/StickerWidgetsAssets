@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996027079,
+  "lastUpdated": 1792996045270,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6503,9 +6503,31 @@
             "brand",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Charger",
+          "tags": [
+            "charger",
+            "transparent",
+            "tech",
+            "device",
+            "power",
+            "adapter",
+            "minimal",
+            "white",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": [
         "minimal",
         "monochrome",
@@ -14453,6 +14475,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Charger",
+      "tags": [
+        "charger",
+        "transparent",
+        "tech",
+        "device",
+        "power",
+        "adapter",
+        "minimal",
+        "white",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15354,6 +15398,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 409,
+  "totalStickers": 410,
   "version": 1
 }
