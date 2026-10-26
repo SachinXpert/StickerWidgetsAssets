@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997752637,
+  "lastUpdated": 1792997768998,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6547,9 +6547,29 @@
             "os",
             "case"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Keychain",
+          "tags": [
+            "nothing",
+            "keychain",
+            "tech",
+            "brand",
+            "minimalist",
+            "red",
+            "white",
+            "black",
+            "nothing_os",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": [
         "minimal",
         "monochrome",
@@ -14541,6 +14561,26 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Keychain",
+      "tags": [
+        "nothing",
+        "keychain",
+        "tech",
+        "brand",
+        "minimalist",
+        "red",
+        "white",
+        "black",
+        "nothing_os",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15442,6 +15482,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 411,
+  "totalStickers": 412,
   "version": 1
 }
