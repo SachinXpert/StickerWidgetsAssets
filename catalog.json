@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988539597,
+  "lastUpdated": 1792988562400,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -550,7 +550,7 @@
           "id": "birds_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Peace Dove",
           "tags": [
             "dove",
@@ -7934,7 +7934,7 @@
       "id": "birds_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Peace Dove",
       "tags": [
         "dove",
