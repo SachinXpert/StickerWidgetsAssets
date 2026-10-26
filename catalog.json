@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996946386,
+  "lastUpdated": 1792997597218,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6464,90 +6464,28 @@
       "stickers": [
         {
           "category": "BRAND",
-          "id": "nothing_os_14",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+          "id": "nothing_os_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_10.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "White Headset",
+          "name": "Nothing Controller",
           "tags": [
-            "headphones",
-            "audio",
-            "music",
-            "white",
-            "tech",
-            "gadget",
-            "modern",
-            "nothing_os",
-            "nothing",
-            "os",
-            "headset"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_19",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Wallet",
-          "tags": [
-            "wallet",
-            "nothing",
-            "black",
-            "red",
-            "tech",
-            "brand",
-            "accessory",
-            "nothing_os",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_6",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_6.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Neon Paper Plane",
-          "tags": [
-            "plane",
-            "paper",
-            "neon",
-            "red",
-            "black",
-            "glow",
-            "futuristic",
-            "flight",
-            "nothing_os",
-            "space",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_9",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_9.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Smart Watch",
-          "tags": [
-            "watch",
-            "smart",
-            "digital",
-            "time",
-            "gadget",
-            "technology",
+            "controller",
+            "gaming",
+            "transparent",
             "white",
             "red",
+            "black",
+            "tech",
+            "joystick",
             "nothing_os",
-            "brand",
+            "games",
             "nothing",
             "os"
           ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 1,
       "tags": [
         "minimal",
         "monochrome",
@@ -14454,84 +14392,22 @@
     },
     {
       "category": "BRAND",
-      "id": "nothing_os_14",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
+      "id": "nothing_os_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_10.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "White Headset",
+      "name": "Nothing Controller",
       "tags": [
-        "headphones",
-        "audio",
-        "music",
-        "white",
-        "tech",
-        "gadget",
-        "modern",
-        "nothing_os",
-        "nothing",
-        "os",
-        "headset"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_19",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Wallet",
-      "tags": [
-        "wallet",
-        "nothing",
-        "black",
-        "red",
-        "tech",
-        "brand",
-        "accessory",
-        "nothing_os",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_6",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_6.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Neon Paper Plane",
-      "tags": [
-        "plane",
-        "paper",
-        "neon",
-        "red",
-        "black",
-        "glow",
-        "futuristic",
-        "flight",
-        "nothing_os",
-        "space",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_9",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_9.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Smart Watch",
-      "tags": [
-        "watch",
-        "smart",
-        "digital",
-        "time",
-        "gadget",
-        "technology",
+        "controller",
+        "gaming",
+        "transparent",
         "white",
         "red",
+        "black",
+        "tech",
+        "joystick",
         "nothing_os",
-        "brand",
+        "games",
         "nothing",
         "os"
       ]
@@ -15438,6 +15314,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 411,
+  "totalStickers": 408,
   "version": 1
 }
