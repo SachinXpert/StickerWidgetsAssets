@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988612833,
+  "lastUpdated": 1792988640537,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -530,7 +530,7 @@
           "id": "birds_4",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_4.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Vibrant Hummingbird",
           "tags": [
             "hummingbird",
@@ -7914,7 +7914,7 @@
       "id": "birds_4",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_4.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Vibrant Hummingbird",
       "tags": [
         "hummingbird",
