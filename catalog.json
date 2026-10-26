@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987618139,
+  "lastUpdated": 1792987709959,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -404,8 +404,29 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Birds",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "NATURE",
+          "id": "birds_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Robin",
+          "tags": [
+            "bird",
+            "robin",
+            "flight",
+            "feathers",
+            "orange",
+            "wildlife",
+            "animal",
+            "birds",
+            "nature",
+            "flying"
+          ]
+        }
+      ],
+      "stickersCount": 1,
       "tags": [
         "birds",
         "animals",
@@ -7528,6 +7549,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Robin",
+      "tags": [
+        "bird",
+        "robin",
+        "flight",
+        "feathers",
+        "orange",
+        "wildlife",
+        "animal",
+        "birds",
+        "nature",
+        "flying"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14045,6 +14086,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 379,
+  "totalStickers": 380,
   "version": 1
 }
