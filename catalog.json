@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987798132,
+  "lastUpdated": 1792987812349,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -523,9 +523,29 @@
             "birds",
             "nature"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Vibrant Hummingbird",
+          "tags": [
+            "hummingbird",
+            "bird",
+            "colorful",
+            "flying",
+            "nature",
+            "pink",
+            "green",
+            "blue",
+            "birds",
+            "vibrant"
+          ]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": [
         "birds",
         "animals",
@@ -7767,6 +7787,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Vibrant Hummingbird",
+      "tags": [
+        "hummingbird",
+        "bird",
+        "colorful",
+        "flying",
+        "nature",
+        "pink",
+        "green",
+        "blue",
+        "birds",
+        "vibrant"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14284,6 +14324,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 385,
+  "totalStickers": 386,
   "version": 1
 }
