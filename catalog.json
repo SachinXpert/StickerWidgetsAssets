@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988736414,
+  "lastUpdated": 1792988765573,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2324,9 +2324,29 @@
             "dragons",
             "animal"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Fierce Red Dragon",
+          "tags": [
+            "dragon",
+            "red",
+            "wings",
+            "fantasy",
+            "fierce",
+            "monster",
+            "beast",
+            "illustration",
+            "dragons",
+            "animal"
+          ]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": [
         "dragon",
         "mythical",
@@ -9762,6 +9782,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Fierce Red Dragon",
+      "tags": [
+        "dragon",
+        "red",
+        "wings",
+        "fantasy",
+        "fierce",
+        "monster",
+        "beast",
+        "illustration",
+        "dragons",
+        "animal"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14629,6 +14669,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 393,
+  "totalStickers": 394,
   "version": 1
 }
