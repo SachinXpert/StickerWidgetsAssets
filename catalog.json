@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988812129,
+  "lastUpdated": 1792988844600,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2364,9 +2364,30 @@
             "dragons",
             "animal"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Shadow Dragon",
+          "tags": [
+            "dragon",
+            "black",
+            "wings",
+            "fantasy",
+            "blue",
+            "eyes",
+            "beast",
+            "fierce",
+            "dragons",
+            "animal",
+            "shadow"
+          ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": [
         "dragon",
         "mythical",
@@ -9842,6 +9863,27 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Shadow Dragon",
+      "tags": [
+        "dragon",
+        "black",
+        "wings",
+        "fantasy",
+        "blue",
+        "eyes",
+        "beast",
+        "fierce",
+        "dragons",
+        "animal",
+        "shadow"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14709,6 +14751,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 395,
+  "totalStickers": 396,
   "version": 1
 }
