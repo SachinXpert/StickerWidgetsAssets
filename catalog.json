@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987747567,
+  "lastUpdated": 1792987764689,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -463,9 +463,28 @@
             "nature",
             "birds"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Blue Bird",
+          "tags": [
+            "bird",
+            "pink",
+            "blue",
+            "flying",
+            "cute",
+            "nature",
+            "animal",
+            "wings",
+            "birds"
+          ]
         }
       ],
-      "stickersCount": 3,
+      "stickersCount": 4,
       "tags": [
         "birds",
         "animals",
@@ -7647,6 +7666,25 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Blue Bird",
+      "tags": [
+        "bird",
+        "pink",
+        "blue",
+        "flying",
+        "cute",
+        "nature",
+        "animal",
+        "wings",
+        "birds"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14164,6 +14202,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 382,
+  "totalStickers": 383,
   "version": 1
 }
