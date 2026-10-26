@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996100410,
+  "lastUpdated": 1792996117144,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6588,9 +6588,31 @@
             "os",
             "headset"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Camera",
+          "tags": [
+            "camera",
+            "transparent",
+            "tech",
+            "gadget",
+            "photography",
+            "white",
+            "black",
+            "red",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": [
         "minimal",
         "monochrome",
@@ -14623,6 +14645,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Camera",
+      "tags": [
+        "camera",
+        "transparent",
+        "tech",
+        "gadget",
+        "photography",
+        "white",
+        "black",
+        "red",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15524,6 +15568,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 413,
+  "totalStickers": 414,
   "version": 1
 }
