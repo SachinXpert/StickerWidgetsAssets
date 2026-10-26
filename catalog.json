@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996278188,
+  "lastUpdated": 1792996293232,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6820,9 +6820,31 @@
             "nothing_os",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing SD Card",
+          "tags": [
+            "nothing",
+            "tech",
+            "transparent",
+            "brand",
+            "black",
+            "red",
+            "minimal",
+            "storage",
+            "nothing_os",
+            "os",
+            "sd",
+            "card"
+          ]
         }
       ],
-      "stickersCount": 17,
+      "stickersCount": 18,
       "tags": [
         "minimal",
         "monochrome",
@@ -15087,6 +15109,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing SD Card",
+      "tags": [
+        "nothing",
+        "tech",
+        "transparent",
+        "brand",
+        "black",
+        "red",
+        "minimal",
+        "storage",
+        "nothing_os",
+        "os",
+        "sd",
+        "card"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15988,6 +16032,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 424,
+  "totalStickers": 425,
   "version": 1
 }
