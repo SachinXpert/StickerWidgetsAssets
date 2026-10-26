@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997813255,
+  "lastUpdated": 1792997836447,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6628,9 +6628,32 @@
             "brand",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Neon Jet",
+          "tags": [
+            "airplane",
+            "paper",
+            "black",
+            "red",
+            "neon",
+            "glow",
+            "tech",
+            "fly",
+            "nothing_os",
+            "space",
+            "nothing",
+            "os",
+            "jet"
+          ]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": [
         "minimal",
         "monochrome",
@@ -14703,6 +14726,29 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Neon Jet",
+      "tags": [
+        "airplane",
+        "paper",
+        "black",
+        "red",
+        "neon",
+        "glow",
+        "tech",
+        "fly",
+        "nothing_os",
+        "space",
+        "nothing",
+        "os",
+        "jet"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15604,6 +15650,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 415,
+  "totalStickers": 416,
   "version": 1
 }
