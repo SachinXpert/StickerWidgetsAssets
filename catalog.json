@@ -6,9 +6,10 @@
     "CUTE",
     "ANIMAL",
     "ANIME",
-    "GAMES"
+    "GAMES",
+    "BRAND"
   ],
-  "lastUpdated": 1792991118816,
+  "lastUpdated": 1792995963912,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6450,6 +6451,26 @@
         "manga",
         "hokage",
         "jutsu"
+      ]
+    },
+    {
+      "category": "BRAND",
+      "coverUrl": "",
+      "description": "Clean, minimalist glyphs and monochrome vibes for your homescreen.",
+      "id": "nothing_os",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Os",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": [
+        "minimal",
+        "monochrome",
+        "glyph",
+        "clean",
+        "sleek",
+        "general",
+        "tech"
       ]
     },
     {
@@ -15247,7 +15268,7 @@
       ]
     }
   ],
-  "totalPacks": 22,
+  "totalPacks": 23,
   "totalStickers": 407,
   "version": 1
 }
