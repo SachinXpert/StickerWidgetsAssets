@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996171309,
+  "lastUpdated": 1792996187468,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6675,9 +6675,28 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Wallet",
+          "tags": [
+            "wallet",
+            "nothing",
+            "black",
+            "red",
+            "tech",
+            "brand",
+            "accessory",
+            "nothing_os",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 10,
+      "stickersCount": 11,
       "tags": [
         "minimal",
         "monochrome",
@@ -14797,6 +14816,25 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Wallet",
+      "tags": [
+        "wallet",
+        "nothing",
+        "black",
+        "red",
+        "tech",
+        "brand",
+        "accessory",
+        "nothing_os",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15698,6 +15736,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 417,
+  "totalStickers": 418,
   "version": 1
 }
