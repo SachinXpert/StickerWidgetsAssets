@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987844824,
+  "lastUpdated": 1792987869377,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -582,9 +582,30 @@
             "nature",
             "little"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Kingfisher",
+          "tags": [
+            "bird",
+            "kingfisher",
+            "flight",
+            "blue",
+            "orange",
+            "wildlife",
+            "animal",
+            "wings",
+            "birds",
+            "nature",
+            "flying"
+          ]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": [
         "birds",
         "animals",
@@ -7885,6 +7906,27 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Kingfisher",
+      "tags": [
+        "bird",
+        "kingfisher",
+        "flight",
+        "blue",
+        "orange",
+        "wildlife",
+        "animal",
+        "wings",
+        "birds",
+        "nature",
+        "flying"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14402,6 +14444,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 388,
+  "totalStickers": 389,
   "version": 1
 }
