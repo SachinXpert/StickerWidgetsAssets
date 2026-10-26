@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996154112,
+  "lastUpdated": 1792996171309,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6653,9 +6653,31 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Speaker",
+          "tags": [
+            "speaker",
+            "transparent",
+            "audio",
+            "tech",
+            "gadget",
+            "white",
+            "red",
+            "modern",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": [
         "minimal",
         "monochrome",
@@ -14753,6 +14775,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Speaker",
+      "tags": [
+        "speaker",
+        "transparent",
+        "audio",
+        "tech",
+        "gadget",
+        "white",
+        "red",
+        "modern",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15654,6 +15698,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 416,
+  "totalStickers": 417,
   "version": 1
 }
