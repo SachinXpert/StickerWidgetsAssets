@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987828856,
+  "lastUpdated": 1792987844824,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -562,9 +562,29 @@
             "birds",
             "nature"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Sparrow",
+          "tags": [
+            "bird",
+            "sparrow",
+            "animal",
+            "cute",
+            "brown",
+            "wildlife",
+            "feather",
+            "birds",
+            "nature",
+            "little"
+          ]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": [
         "birds",
         "animals",
@@ -7845,6 +7865,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Sparrow",
+      "tags": [
+        "bird",
+        "sparrow",
+        "animal",
+        "cute",
+        "brown",
+        "wildlife",
+        "feather",
+        "birds",
+        "nature",
+        "little"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14362,6 +14402,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 387,
+  "totalStickers": 388,
   "version": 1
 }
