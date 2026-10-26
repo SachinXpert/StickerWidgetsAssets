@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987869377,
+  "lastUpdated": 1792987897239,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -603,9 +603,29 @@
             "nature",
             "flying"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Cardinal",
+          "tags": [
+            "bird",
+            "cardinal",
+            "red",
+            "flying",
+            "wildlife",
+            "animal",
+            "feathers",
+            "vibrant",
+            "birds",
+            "nature"
+          ]
         }
       ],
-      "stickersCount": 10,
+      "stickersCount": 11,
       "tags": [
         "birds",
         "animals",
@@ -7927,6 +7947,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Cardinal",
+      "tags": [
+        "bird",
+        "cardinal",
+        "red",
+        "flying",
+        "wildlife",
+        "animal",
+        "feathers",
+        "vibrant",
+        "birds",
+        "nature"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14444,6 +14484,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 389,
+  "totalStickers": 390,
   "version": 1
 }
