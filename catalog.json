@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988562400,
+  "lastUpdated": 1792988612833,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -589,7 +589,7 @@
           "id": "birds_7",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_7.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Flying Kingfisher",
           "tags": [
             "bird",
@@ -7973,7 +7973,7 @@
       "id": "birds_7",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_7.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Flying Kingfisher",
       "tags": [
         "bird",
