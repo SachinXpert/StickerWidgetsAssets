@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996117144,
+  "lastUpdated": 1792996135233,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6610,9 +6610,30 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Turntable",
+          "tags": [
+            "turntable",
+            "vinyl",
+            "music",
+            "transparent",
+            "red",
+            "black",
+            "audio",
+            "dj",
+            "nothing_os",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 7,
+      "stickersCount": 8,
       "tags": [
         "minimal",
         "monochrome",
@@ -14667,6 +14688,27 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Turntable",
+      "tags": [
+        "turntable",
+        "vinyl",
+        "music",
+        "transparent",
+        "red",
+        "black",
+        "audio",
+        "dj",
+        "nothing_os",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15568,6 +15610,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 414,
+  "totalStickers": 415,
   "version": 1
 }
