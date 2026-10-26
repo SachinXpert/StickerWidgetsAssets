@@ -7,7 +7,7 @@
     "GAMES",
     "NATURE"
   ],
-  "lastUpdated": 1792986560159,
+  "lastUpdated": 1792986584345,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -7937,6 +7937,24 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "butterfly_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "White Butterfly",
+      "tags": [
+        "butterfly",
+        "insect",
+        "white",
+        "black",
+        "nature",
+        "wings",
+        "elegant",
+        "spring"
+      ]
+    },
+    {
       "category": "AUTOMOTIVE",
       "id": "cars_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cars/cars_1.png",
@@ -13971,6 +13989,6 @@
     }
   ],
   "totalPacks": 19,
-  "totalStickers": 376,
+  "totalStickers": 377,
   "version": 1
 }
