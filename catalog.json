@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996248552,
+  "lastUpdated": 1792996263091,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6778,9 +6778,31 @@
             "nothing_os",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Neon Paper Plane",
+          "tags": [
+            "plane",
+            "paper",
+            "neon",
+            "red",
+            "black",
+            "glow",
+            "futuristic",
+            "flight",
+            "nothing_os",
+            "space",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 15,
+      "stickersCount": 16,
       "tags": [
         "minimal",
         "monochrome",
@@ -15003,6 +15025,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Neon Paper Plane",
+      "tags": [
+        "plane",
+        "paper",
+        "neon",
+        "red",
+        "black",
+        "glow",
+        "futuristic",
+        "flight",
+        "nothing_os",
+        "space",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15904,6 +15948,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 422,
+  "totalStickers": 423,
   "version": 1
 }
