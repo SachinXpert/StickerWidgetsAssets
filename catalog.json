@@ -1,18 +1,17 @@
 {
   "categories": [
-    "GENERAL",
+    "AUTOMOTIVE",
     "SUPERHEROS",
     "NATURE",
     "CUTE",
-    "AUTOMOTIVE",
     "ANIMAL",
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792990850351,
+  "lastUpdated": 1792990932046,
   "packs": [
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "coverUrl": "",
       "description": "Rev your engines and conquer the asphalt with these high-speed racing stickers.",
       "id": "apex_racers",
@@ -21,7 +20,7 @@
       "name": "Apex Racers",
       "stickers": [
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_1.png",
           "isFeatured": false,
@@ -44,7 +43,7 @@
           ]
         },
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_2",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_2.png",
           "isFeatured": false,
@@ -68,7 +67,7 @@
           ]
         },
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_3",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_3.png",
           "isFeatured": false,
@@ -89,7 +88,7 @@
           ]
         },
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_4",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_4.png",
           "isFeatured": false,
@@ -111,7 +110,7 @@
           ]
         },
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_5.png",
           "isFeatured": false,
@@ -135,7 +134,7 @@
           ]
         },
         {
-          "category": "GENERAL",
+          "category": "AUTOMOTIVE",
           "id": "apex_racers_6",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_6.png",
           "isFeatured": false,
@@ -7787,7 +7786,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_1.png",
       "isFeatured": false,
@@ -7810,7 +7809,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_2.png",
       "isFeatured": false,
@@ -7834,7 +7833,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_3",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_3.png",
       "isFeatured": false,
@@ -7855,7 +7854,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_4",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_4.png",
       "isFeatured": false,
@@ -7877,7 +7876,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_5.png",
       "isFeatured": false,
@@ -7901,7 +7900,7 @@
       ]
     },
     {
-      "category": "GENERAL",
+      "category": "AUTOMOTIVE",
       "id": "apex_racers_6",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_6.png",
       "isFeatured": false,
