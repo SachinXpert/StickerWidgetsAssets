@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997925020,
+  "lastUpdated": 1792997939560,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6762,9 +6762,31 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Futuristic Headphones",
+          "tags": [
+            "headphones",
+            "tech",
+            "white",
+            "black",
+            "audio",
+            "music",
+            "modern",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os",
+            "futuristic"
+          ]
         }
       ],
-      "stickersCount": 14,
+      "stickersCount": 15,
       "tags": [
         "minimal",
         "monochrome",
@@ -14971,6 +14993,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Futuristic Headphones",
+      "tags": [
+        "headphones",
+        "tech",
+        "white",
+        "black",
+        "audio",
+        "music",
+        "modern",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os",
+        "futuristic"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15872,6 +15916,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 421,
+  "totalStickers": 422,
   "version": 1
 }
