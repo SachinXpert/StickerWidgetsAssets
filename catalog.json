@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996063658,
+  "lastUpdated": 1792996079792,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6545,9 +6545,31 @@
             "nothing_os",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Lighter",
+          "tags": [
+            "lighter",
+            "transparent",
+            "fire",
+            "flame",
+            "tech",
+            "black",
+            "red",
+            "device",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": [
         "minimal",
         "monochrome",
@@ -14537,6 +14559,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Lighter",
+      "tags": [
+        "lighter",
+        "transparent",
+        "fire",
+        "flame",
+        "tech",
+        "black",
+        "red",
+        "device",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15438,6 +15482,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 411,
+  "totalStickers": 412,
   "version": 1
 }
