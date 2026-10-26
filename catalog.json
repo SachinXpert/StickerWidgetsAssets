@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987897239,
+  "lastUpdated": 1792987931444,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -623,9 +623,30 @@
             "birds",
             "nature"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Swallow",
+          "tags": [
+            "bird",
+            "swallow",
+            "flight",
+            "blue",
+            "orange",
+            "animal",
+            "wings",
+            "graceful",
+            "birds",
+            "nature",
+            "flying"
+          ]
         }
       ],
-      "stickersCount": 11,
+      "stickersCount": 12,
       "tags": [
         "birds",
         "animals",
@@ -7967,6 +7988,27 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Swallow",
+      "tags": [
+        "bird",
+        "swallow",
+        "flight",
+        "blue",
+        "orange",
+        "animal",
+        "wings",
+        "graceful",
+        "birds",
+        "nature",
+        "flying"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14484,6 +14526,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 390,
+  "totalStickers": 391,
   "version": 1
 }
