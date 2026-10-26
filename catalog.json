@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987764689,
+  "lastUpdated": 1792987782764,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -482,9 +482,30 @@
             "wings",
             "birds"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Jay Flight",
+          "tags": [
+            "bird",
+            "bluejay",
+            "flying",
+            "wildlife",
+            "nature",
+            "blue",
+            "feathers",
+            "animal",
+            "birds",
+            "jay",
+            "flight"
+          ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": [
         "birds",
         "animals",
@@ -7685,6 +7706,27 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Jay Flight",
+      "tags": [
+        "bird",
+        "bluejay",
+        "flying",
+        "wildlife",
+        "nature",
+        "blue",
+        "feathers",
+        "animal",
+        "birds",
+        "jay",
+        "flight"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14202,6 +14244,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 383,
+  "totalStickers": 384,
   "version": 1
 }
