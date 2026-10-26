@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988872283,
+  "lastUpdated": 1792988887933,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2405,9 +2405,29 @@
             "dragons",
             "golden"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Dragon",
+          "tags": [
+            "dragon",
+            "blue",
+            "white",
+            "gold",
+            "mythical",
+            "fierce",
+            "fantasy",
+            "creature",
+            "dragons",
+            "anime"
+          ]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": [
         "dragon",
         "mythical",
@@ -9924,6 +9944,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Dragon",
+      "tags": [
+        "dragon",
+        "blue",
+        "white",
+        "gold",
+        "mythical",
+        "fierce",
+        "fantasy",
+        "creature",
+        "dragons",
+        "anime"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14791,6 +14831,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 397,
+  "totalStickers": 398,
   "version": 1
 }
