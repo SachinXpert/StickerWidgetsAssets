@@ -7,7 +7,7 @@
     "GAMES",
     "NATURE"
   ],
-  "lastUpdated": 1792986584345,
+  "lastUpdated": 1792986607219,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -7955,6 +7955,24 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "butterfly_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Ruby Butterfly",
+      "tags": [
+        "butterfly",
+        "red",
+        "insect",
+        "nature",
+        "wings",
+        "bright",
+        "spring",
+        "ruby"
+      ]
+    },
+    {
       "category": "AUTOMOTIVE",
       "id": "cars_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cars/cars_1.png",
@@ -13989,6 +14007,6 @@
     }
   ],
   "totalPacks": 19,
-  "totalStickers": 377,
+  "totalStickers": 378,
   "version": 1
 }
