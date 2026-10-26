@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987709959,
+  "lastUpdated": 1792987727565,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -424,9 +424,29 @@
             "nature",
             "flying"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Budgie",
+          "tags": [
+            "bird",
+            "parakeet",
+            "flying",
+            "green",
+            "yellow",
+            "animal",
+            "cute",
+            "birds",
+            "nature",
+            "budgie"
+          ]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": [
         "birds",
         "animals",
@@ -7569,6 +7589,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Budgie",
+      "tags": [
+        "bird",
+        "parakeet",
+        "flying",
+        "green",
+        "yellow",
+        "animal",
+        "cute",
+        "birds",
+        "nature",
+        "budgie"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14086,6 +14126,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 380,
+  "totalStickers": 381,
   "version": 1
 }
