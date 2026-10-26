@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997836447,
+  "lastUpdated": 1792997851801,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6651,9 +6651,32 @@
             "os",
             "jet"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nothing Phone Back",
+          "tags": [
+            "phone",
+            "mobile",
+            "tech",
+            "black",
+            "white",
+            "glow",
+            "device",
+            "gadget",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os",
+            "back"
+          ]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": [
         "minimal",
         "monochrome",
@@ -14749,6 +14772,29 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nothing Phone Back",
+      "tags": [
+        "phone",
+        "mobile",
+        "tech",
+        "black",
+        "white",
+        "glow",
+        "device",
+        "gadget",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os",
+        "back"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15650,6 +15696,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 416,
+  "totalStickers": 417,
   "version": 1
 }
