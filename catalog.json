@@ -1,13 +1,13 @@
 {
   "categories": [
     "SUPERHEROS",
+    "NATURE",
     "CUTE",
     "AUTOMOTIVE",
     "ANIME",
-    "GAMES",
-    "NATURE"
+    "GAMES"
   ],
-  "lastUpdated": 1792987021016,
+  "lastUpdated": 1792987618139,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -394,6 +394,26 @@
         "dark",
         "comics",
         "vigilante"
+      ]
+    },
+    {
+      "category": "NATURE",
+      "coverUrl": "",
+      "description": "Feathered fun and chirpy vibes.",
+      "id": "birds",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Birds",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": [
+        "birds",
+        "animals",
+        "nature",
+        "cute",
+        "feathers",
+        "flying",
+        "chat"
       ]
     },
     {
@@ -14024,7 +14044,7 @@
       ]
     }
   ],
-  "totalPacks": 19,
+  "totalPacks": 20,
   "totalStickers": 379,
   "version": 1
 }
