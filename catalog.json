@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792998804513,
+  "lastUpdated": 1792998827075,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -9811,6 +9811,26 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "clouds_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/clouds_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Stormy Cloud",
+      "tags": [
+        "cloud",
+        "storm",
+        "sky",
+        "weather",
+        "blue",
+        "fluffy",
+        "grey",
+        "nature",
+        "clouds",
+        "stormy"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "cute_boy_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_boy/cute_boy_1.png",
@@ -16015,6 +16035,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 425,
+  "totalStickers": 426,
   "version": 1
 }
