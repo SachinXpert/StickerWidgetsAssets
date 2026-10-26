@@ -9,7 +9,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792990819597,
+  "lastUpdated": 1792990835163,
   "packs": [
     {
       "category": "GENERAL",
@@ -109,9 +109,33 @@
             "racers",
             "one"
           ]
+        },
+        {
+          "category": "GENERAL",
+          "id": "apex_racers_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Alpine F1 Racing Car",
+          "tags": [
+            "racing",
+            "formula",
+            "car",
+            "speed",
+            "blue",
+            "pink",
+            "sports",
+            "vehicle",
+            "apex_racers",
+            "automotive",
+            "apex",
+            "racers",
+            "alpine",
+            "f1"
+          ]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": [
         "racing",
         "speed",
@@ -7829,6 +7853,30 @@
       ]
     },
     {
+      "category": "GENERAL",
+      "id": "apex_racers_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Alpine F1 Racing Car",
+      "tags": [
+        "racing",
+        "formula",
+        "car",
+        "speed",
+        "blue",
+        "pink",
+        "sports",
+        "vehicle",
+        "apex_racers",
+        "automotive",
+        "apex",
+        "racers",
+        "alpine",
+        "f1"
+      ]
+    },
+    {
       "category": "SUPERHEROS",
       "id": "batman_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/batman/batman_1.png",
@@ -15153,6 +15201,6 @@
     }
   ],
   "totalPacks": 22,
-  "totalStickers": 405,
+  "totalStickers": 406,
   "version": 1
 }
