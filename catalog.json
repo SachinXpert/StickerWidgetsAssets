@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997867631,
+  "lastUpdated": 1792997894067,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6696,9 +6696,31 @@
             "nothing",
             "os"
           ]
+        },
+        {
+          "category": "BRAND",
+          "id": "nothing_os_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Wireless Earbuds",
+          "tags": [
+            "earbuds",
+            "wireless",
+            "audio",
+            "black",
+            "red",
+            "tech",
+            "music",
+            "gadget",
+            "nothing_os",
+            "brand",
+            "nothing",
+            "os"
+          ]
         }
       ],
-      "stickersCount": 11,
+      "stickersCount": 12,
       "tags": [
         "minimal",
         "monochrome",
@@ -14839,6 +14861,28 @@
       ]
     },
     {
+      "category": "BRAND",
+      "id": "nothing_os_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Wireless Earbuds",
+      "tags": [
+        "earbuds",
+        "wireless",
+        "audio",
+        "black",
+        "red",
+        "tech",
+        "music",
+        "gadget",
+        "nothing_os",
+        "brand",
+        "nothing",
+        "os"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "ps5_controller",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/ps5_controller.png",
@@ -15740,6 +15784,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 418,
+  "totalStickers": 419,
   "version": 1
 }
