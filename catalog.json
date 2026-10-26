@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792996927032,
+  "lastUpdated": 1792996944157,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -6464,48 +6464,6 @@
       "stickers": [
         {
           "category": "BRAND",
-          "id": "nothing_os_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Case",
-          "tags": [
-            "nothing",
-            "brand",
-            "tech",
-            "transparent",
-            "case",
-            "red",
-            "white",
-            "black",
-            "nothing_os",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_13",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_13.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Lighter",
-          "tags": [
-            "lighter",
-            "transparent",
-            "fire",
-            "flame",
-            "tech",
-            "black",
-            "red",
-            "device",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
           "id": "nothing_os_14",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
           "isFeatured": false,
@@ -6523,49 +6481,6 @@
             "nothing",
             "os",
             "headset"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_15",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_15.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Camera",
-          "tags": [
-            "camera",
-            "transparent",
-            "tech",
-            "gadget",
-            "photography",
-            "white",
-            "black",
-            "red",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_16",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Turntable",
-          "tags": [
-            "turntable",
-            "vinyl",
-            "music",
-            "transparent",
-            "red",
-            "black",
-            "audio",
-            "dj",
-            "nothing_os",
-            "nothing",
-            "os"
           ]
         },
         {
@@ -6592,28 +6507,6 @@
         },
         {
           "category": "BRAND",
-          "id": "nothing_os_18",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Speaker",
-          "tags": [
-            "speaker",
-            "transparent",
-            "audio",
-            "tech",
-            "gadget",
-            "white",
-            "red",
-            "modern",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
           "id": "nothing_os_19",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
           "isFeatured": false,
@@ -6627,90 +6520,6 @@
             "tech",
             "brand",
             "accessory",
-            "nothing_os",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_2",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_2.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Phone",
-          "tags": [
-            "phone",
-            "mobile",
-            "tech",
-            "gadget",
-            "black",
-            "glow",
-            "futuristic",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_3",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_3.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Wireless Earbuds",
-          "tags": [
-            "earbuds",
-            "wireless",
-            "audio",
-            "music",
-            "gadget",
-            "tech",
-            "black",
-            "red",
-            "nothing_os",
-            "brand",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_4",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_4.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Wireless Earbuds",
-          "tags": [
-            "earbuds",
-            "headphones",
-            "audio",
-            "wireless",
-            "black",
-            "red",
-            "tech",
-            "music",
-            "nothing_os",
-            "nothing",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_5",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_5.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Folder",
-          "tags": [
-            "nothing",
-            "folder",
-            "tech",
-            "black",
-            "white",
-            "minimal",
-            "brand",
-            "digital",
             "nothing_os",
             "os"
           ]
@@ -6739,48 +6548,6 @@
         },
         {
           "category": "BRAND",
-          "id": "nothing_os_7",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_7.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing Logo",
-          "tags": [
-            "nothing",
-            "logo",
-            "brand",
-            "tech",
-            "minimalist",
-            "monochrome",
-            "modern",
-            "device",
-            "nothing_os",
-            "os"
-          ]
-        },
-        {
-          "category": "BRAND",
-          "id": "nothing_os_8",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_8.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Nothing SD Card",
-          "tags": [
-            "nothing",
-            "tech",
-            "transparent",
-            "brand",
-            "black",
-            "red",
-            "minimal",
-            "storage",
-            "nothing_os",
-            "os",
-            "sd",
-            "card"
-          ]
-        },
-        {
-          "category": "BRAND",
           "id": "nothing_os_9",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_9.png",
           "isFeatured": false,
@@ -6802,7 +6569,7 @@
           ]
         }
       ],
-      "stickersCount": 16,
+      "stickersCount": 5,
       "tags": [
         "minimal",
         "monochrome",
@@ -14709,48 +14476,6 @@
     },
     {
       "category": "BRAND",
-      "id": "nothing_os_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Case",
-      "tags": [
-        "nothing",
-        "brand",
-        "tech",
-        "transparent",
-        "case",
-        "red",
-        "white",
-        "black",
-        "nothing_os",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_13",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_13.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Lighter",
-      "tags": [
-        "lighter",
-        "transparent",
-        "fire",
-        "flame",
-        "tech",
-        "black",
-        "red",
-        "device",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
       "id": "nothing_os_14",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_14.png",
       "isFeatured": false,
@@ -14768,49 +14493,6 @@
         "nothing",
         "os",
         "headset"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_15",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_15.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Camera",
-      "tags": [
-        "camera",
-        "transparent",
-        "tech",
-        "gadget",
-        "photography",
-        "white",
-        "black",
-        "red",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_16",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_16.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Turntable",
-      "tags": [
-        "turntable",
-        "vinyl",
-        "music",
-        "transparent",
-        "red",
-        "black",
-        "audio",
-        "dj",
-        "nothing_os",
-        "nothing",
-        "os"
       ]
     },
     {
@@ -14837,28 +14519,6 @@
     },
     {
       "category": "BRAND",
-      "id": "nothing_os_18",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_18.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Speaker",
-      "tags": [
-        "speaker",
-        "transparent",
-        "audio",
-        "tech",
-        "gadget",
-        "white",
-        "red",
-        "modern",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
       "id": "nothing_os_19",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_19.png",
       "isFeatured": false,
@@ -14872,90 +14532,6 @@
         "tech",
         "brand",
         "accessory",
-        "nothing_os",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_2",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_2.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Phone",
-      "tags": [
-        "phone",
-        "mobile",
-        "tech",
-        "gadget",
-        "black",
-        "glow",
-        "futuristic",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_3",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_3.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Wireless Earbuds",
-      "tags": [
-        "earbuds",
-        "wireless",
-        "audio",
-        "music",
-        "gadget",
-        "tech",
-        "black",
-        "red",
-        "nothing_os",
-        "brand",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_4",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_4.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Wireless Earbuds",
-      "tags": [
-        "earbuds",
-        "headphones",
-        "audio",
-        "wireless",
-        "black",
-        "red",
-        "tech",
-        "music",
-        "nothing_os",
-        "nothing",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_5",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_5.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Folder",
-      "tags": [
-        "nothing",
-        "folder",
-        "tech",
-        "black",
-        "white",
-        "minimal",
-        "brand",
-        "digital",
         "nothing_os",
         "os"
       ]
@@ -14980,48 +14556,6 @@
         "space",
         "nothing",
         "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_7",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_7.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing Logo",
-      "tags": [
-        "nothing",
-        "logo",
-        "brand",
-        "tech",
-        "minimalist",
-        "monochrome",
-        "modern",
-        "device",
-        "nothing_os",
-        "os"
-      ]
-    },
-    {
-      "category": "BRAND",
-      "id": "nothing_os_8",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/nothing_os/nothing_os_8.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Nothing SD Card",
-      "tags": [
-        "nothing",
-        "tech",
-        "transparent",
-        "brand",
-        "black",
-        "red",
-        "minimal",
-        "storage",
-        "nothing_os",
-        "os",
-        "sd",
-        "card"
       ]
     },
     {
@@ -15948,6 +15482,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 423,
+  "totalStickers": 412,
   "version": 1
 }
