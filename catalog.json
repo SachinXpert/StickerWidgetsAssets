@@ -9,7 +9,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792990835163,
+  "lastUpdated": 1792990850351,
   "packs": [
     {
       "category": "GENERAL",
@@ -133,9 +133,33 @@
             "alpine",
             "f1"
           ]
+        },
+        {
+          "category": "GENERAL",
+          "id": "apex_racers_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Aston Martin F1",
+          "tags": [
+            "racing",
+            "formula",
+            "car",
+            "green",
+            "speed",
+            "sport",
+            "vehicle",
+            "apex_racers",
+            "automotive",
+            "apex",
+            "racers",
+            "aston",
+            "martin",
+            "f1"
+          ]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": [
         "racing",
         "speed",
@@ -7877,6 +7901,30 @@
       ]
     },
     {
+      "category": "GENERAL",
+      "id": "apex_racers_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Aston Martin F1",
+      "tags": [
+        "racing",
+        "formula",
+        "car",
+        "green",
+        "speed",
+        "sport",
+        "vehicle",
+        "apex_racers",
+        "automotive",
+        "apex",
+        "racers",
+        "aston",
+        "martin",
+        "f1"
+      ]
+    },
+    {
       "category": "SUPERHEROS",
       "id": "batman_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/batman/batman_1.png",
@@ -15201,6 +15249,6 @@
     }
   ],
   "totalPacks": 22,
-  "totalStickers": 406,
+  "totalStickers": 407,
   "version": 1
 }
