@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988933947,
+  "lastUpdated": 1792989116285,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -399,7 +399,7 @@
     },
     {
       "category": "NATURE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_5.png",
       "description": "Feathered fun and chirpy vibes.",
       "id": "birds",
       "isFeatured": false,
