@@ -7,7 +7,7 @@
     "GAMES",
     "NATURE"
   ],
-  "lastUpdated": 1792986539724,
+  "lastUpdated": 1792986560159,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -7919,6 +7919,24 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "butterfly_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Butterfly",
+      "tags": [
+        "butterfly",
+        "yellow",
+        "insect",
+        "golden",
+        "wings",
+        "nature",
+        "spring",
+        "bright"
+      ]
+    },
+    {
       "category": "AUTOMOTIVE",
       "id": "cars_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cars/cars_1.png",
@@ -13953,6 +13971,6 @@
     }
   ],
   "totalPacks": 19,
-  "totalStickers": 375,
+  "totalStickers": 376,
   "version": 1
 }
