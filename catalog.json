@@ -7,7 +7,7 @@
     "GAMES",
     "NATURE"
   ],
-  "lastUpdated": 1792986522319,
+  "lastUpdated": 1792986539724,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -7901,6 +7901,24 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "butterfly_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Morpho",
+      "tags": [
+        "butterfly",
+        "blue",
+        "insect",
+        "wings",
+        "nature",
+        "bright",
+        "beautiful",
+        "morpho"
+      ]
+    },
+    {
       "category": "AUTOMOTIVE",
       "id": "cars_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cars/cars_1.png",
@@ -13935,6 +13953,6 @@
     }
   ],
   "totalPacks": 19,
-  "totalStickers": 374,
+  "totalStickers": 375,
   "version": 1
 }
