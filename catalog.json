@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988919841,
+  "lastUpdated": 1792988933947,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2465,9 +2465,29 @@
             "animal",
             "golden"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Frost Dragon",
+          "tags": [
+            "dragon",
+            "blue",
+            "fantasy",
+            "fierce",
+            "wings",
+            "ice",
+            "beast",
+            "dragons",
+            "animal",
+            "frost"
+          ]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": [
         "dragon",
         "mythical",
@@ -10044,6 +10064,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Frost Dragon",
+      "tags": [
+        "dragon",
+        "blue",
+        "fantasy",
+        "fierce",
+        "wings",
+        "ice",
+        "beast",
+        "dragons",
+        "animal",
+        "frost"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14911,6 +14951,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 400,
+  "totalStickers": 401,
   "version": 1
 }
