@@ -9,7 +9,7 @@
     "GAMES",
     "BRAND"
   ],
-  "lastUpdated": 1792997979304,
+  "lastUpdated": 1792998804513,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -9792,6 +9792,25 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "clouds_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/clouds_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Fluffy Blue Cloud",
+      "tags": [
+        "cloud",
+        "fluffy",
+        "sky",
+        "nature",
+        "white",
+        "blue",
+        "cumulus",
+        "soft",
+        "clouds"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "cute_boy_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_boy/cute_boy_1.png",
@@ -15996,6 +16015,6 @@
     }
   ],
   "totalPacks": 23,
-  "totalStickers": 424,
+  "totalStickers": 425,
   "version": 1
 }
