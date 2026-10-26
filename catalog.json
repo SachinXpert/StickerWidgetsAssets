@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988844600,
+  "lastUpdated": 1792988872283,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2385,9 +2385,29 @@
             "animal",
             "shadow"
           ]
+        },
+        {
+          "category": "ANIMAL",
+          "id": "dragons_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden White Dragon",
+          "tags": [
+            "dragon",
+            "fantasy",
+            "fierce",
+            "white",
+            "gold",
+            "mythical",
+            "animal",
+            "horns",
+            "dragons",
+            "golden"
+          ]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": [
         "dragon",
         "mythical",
@@ -9884,6 +9904,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden White Dragon",
+      "tags": [
+        "dragon",
+        "fantasy",
+        "fierce",
+        "white",
+        "gold",
+        "mythical",
+        "animal",
+        "horns",
+        "dragons",
+        "golden"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14751,6 +14791,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 396,
+  "totalStickers": 397,
   "version": 1
 }
