@@ -9,7 +9,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792990804129,
+  "lastUpdated": 1792990819597,
   "packs": [
     {
       "category": "GENERAL",
@@ -87,9 +87,31 @@
             "apex",
             "racers"
           ]
+        },
+        {
+          "category": "GENERAL",
+          "id": "apex_racers_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Formula One Racing Car",
+          "tags": [
+            "racing",
+            "car",
+            "speed",
+            "formula",
+            "motorsport",
+            "black",
+            "cyan",
+            "apex_racers",
+            "automotive",
+            "apex",
+            "racers",
+            "one"
+          ]
         }
       ],
-      "stickersCount": 3,
+      "stickersCount": 4,
       "tags": [
         "racing",
         "speed",
@@ -7785,6 +7807,28 @@
       ]
     },
     {
+      "category": "GENERAL",
+      "id": "apex_racers_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/apex_racers/apex_racers_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Formula One Racing Car",
+      "tags": [
+        "racing",
+        "car",
+        "speed",
+        "formula",
+        "motorsport",
+        "black",
+        "cyan",
+        "apex_racers",
+        "automotive",
+        "apex",
+        "racers",
+        "one"
+      ]
+    },
+    {
       "category": "SUPERHEROS",
       "id": "batman_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/batman/batman_1.png",
@@ -15109,6 +15153,6 @@
     }
   ],
   "totalPacks": 22,
-  "totalStickers": 404,
+  "totalStickers": 405,
   "version": 1
 }
