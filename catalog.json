@@ -7,7 +7,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792987812349,
+  "lastUpdated": 1792987828856,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -543,9 +543,28 @@
             "birds",
             "vibrant"
           ]
+        },
+        {
+          "category": "NATURE",
+          "id": "birds_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Peace Dove",
+          "tags": [
+            "dove",
+            "bird",
+            "peace",
+            "white",
+            "flying",
+            "freedom",
+            "gentle",
+            "birds",
+            "nature"
+          ]
         }
       ],
-      "stickersCount": 7,
+      "stickersCount": 8,
       "tags": [
         "birds",
         "animals",
@@ -7807,6 +7826,25 @@
       ]
     },
     {
+      "category": "NATURE",
+      "id": "birds_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/birds/birds_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Peace Dove",
+      "tags": [
+        "dove",
+        "bird",
+        "peace",
+        "white",
+        "flying",
+        "freedom",
+        "gentle",
+        "birds",
+        "nature"
+      ]
+    },
+    {
       "category": "CUTE",
       "id": "blob_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/blob/blob_1.png",
@@ -14324,6 +14362,6 @@
     }
   ],
   "totalPacks": 20,
-  "totalStickers": 386,
+  "totalStickers": 387,
   "version": 1
 }
