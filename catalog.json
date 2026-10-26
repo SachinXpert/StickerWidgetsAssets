@@ -8,7 +8,7 @@
     "ANIME",
     "GAMES"
   ],
-  "lastUpdated": 1792988671568,
+  "lastUpdated": 1792988722474,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -2284,8 +2284,29 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Dragons",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "ANIMAL",
+          "id": "dragons_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Dragon",
+          "tags": [
+            "dragon",
+            "red",
+            "black",
+            "fierce",
+            "monster",
+            "scales",
+            "fantasy",
+            "aggressive",
+            "dragons",
+            "animal"
+          ]
+        }
+      ],
+      "stickersCount": 1,
       "tags": [
         "dragon",
         "mythical",
@@ -9681,6 +9702,26 @@
       ]
     },
     {
+      "category": "ANIMAL",
+      "id": "dragons_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/dragons/dragons_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Dragon",
+      "tags": [
+        "dragon",
+        "red",
+        "black",
+        "fierce",
+        "monster",
+        "scales",
+        "fantasy",
+        "aggressive",
+        "dragons",
+        "animal"
+      ]
+    },
+    {
       "category": "GAMES",
       "id": "games_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/games_1.png",
@@ -14548,6 +14589,6 @@
     }
   ],
   "totalPacks": 21,
-  "totalStickers": 391,
+  "totalStickers": 392,
   "version": 1
 }
