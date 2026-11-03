@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710727183,
+  "lastUpdated": 1793710758308,
   "packs": [
     {
       "category": "WEAR",
@@ -30,9 +30,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_8.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 8",
+          "name": "Black Cargo Pants",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["pants", "cargo", "black", "clothing", "fashion", "pockets", "streetwear", "clothes", "wear"]
         },
         {
           "category": "WEAR",
@@ -6553,9 +6553,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_8.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 8",
+      "name": "Black Cargo Pants",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["pants", "cargo", "black", "clothing", "fashion", "pockets", "streetwear", "clothes", "wear"]
     },
     {
       "category": "WEAR",
