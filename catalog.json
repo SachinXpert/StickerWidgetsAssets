@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703628733,
+  "lastUpdated": 1793703640315,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703639970,
+          "id": "garden_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pruning Shears",
+          "packId": "garden",
+          "tags": ["pruner", "gardening", "clippers", "orange", "silver", "tool", "equipment", "metal", "garden", "tools", "pruning", "shears"]
+        },
         {
           "category": "TOOLS",
           "createdAt": 1793703628390,
@@ -233,7 +244,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 20,
+      "stickersCount": 21,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6257,6 +6268,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703639970,
+      "id": "garden_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pruning Shears",
+      "packId": "garden",
+      "tags": ["pruner", "gardening", "clippers", "orange", "silver", "tool", "equipment", "metal", "garden", "tools", "pruning", "shears"]
+    },
     {
       "category": "TOOLS",
       "createdAt": 1793703628390,
@@ -12639,6 +12661,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 580,
+  "totalStickers": 581,
   "version": 1
 }
