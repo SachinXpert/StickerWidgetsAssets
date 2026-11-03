@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703433141,
+  "lastUpdated": 1793703446611,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703446285,
+          "id": "garden_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Tulip",
+          "packId": "garden",
+          "tags": ["flower", "tulip", "plant", "red", "green", "soil", "spring", "cute", "garden", "nature"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703432842,
@@ -90,7 +101,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 7,
+      "stickersCount": 8,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6114,6 +6125,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703446285,
+      "id": "garden_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Tulip",
+      "packId": "garden",
+      "tags": ["flower", "tulip", "plant", "red", "green", "soil", "spring", "cute", "garden", "nature"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703432842,
@@ -12353,6 +12375,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 567,
+  "totalStickers": 568,
   "version": 1
 }
