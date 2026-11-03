@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703603339,
+  "lastUpdated": 1793703616622,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703616298,
+          "id": "garden_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Watering Can",
+          "packId": "garden",
+          "tags": ["watering", "can", "garden", "flower", "blue", "plant", "cute", "tool", "tools"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703603016,
@@ -211,7 +222,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 18,
+      "stickersCount": 19,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6235,6 +6246,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703616298,
+      "id": "garden_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Watering Can",
+      "packId": "garden",
+      "tags": ["watering", "can", "garden", "flower", "blue", "plant", "cute", "tool", "tools"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703603016,
@@ -12595,6 +12617,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 578,
+  "totalStickers": 579,
   "version": 1
 }
