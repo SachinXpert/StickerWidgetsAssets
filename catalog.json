@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703247624,
+  "lastUpdated": 1793703262958,
   "packs": [
     {
       "category": "NATURE",
@@ -220,64 +220,9 @@
           "name": "Garden 14",
           "packId": "garden",
           "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703032294,
-          "id": "garden_13",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_13.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 13",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703025563,
-          "id": "garden_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 12",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703017893,
-          "id": "garden_11",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_11.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 11",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703010685,
-          "id": "garden_10",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_10.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Rain Boots",
-          "packId": "garden",
-          "tags": ["boots", "rain", "green", "footwear", "weather", "cute", "waterproof", "garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703004133,
-          "id": "garden_1",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_1.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 1",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
         }
       ],
-      "stickersCount": 24,
+      "stickersCount": 19,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6511,61 +6456,6 @@
       "tags": ["garden", "nature"]
     },
     {
-      "category": "NATURE",
-      "createdAt": 1793703032294,
-      "id": "garden_13",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_13.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 13",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703025563,
-      "id": "garden_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 12",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703017893,
-      "id": "garden_11",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_11.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 11",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703010685,
-      "id": "garden_10",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_10.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Rain Boots",
-      "packId": "garden",
-      "tags": ["boots", "rain", "green", "footwear", "weather", "cute", "waterproof", "garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703004133,
-      "id": "garden_1",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_1.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 1",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
       "category": "ANIMAL",
       "createdAt": 1793363642741,
       "id": "birds_v2_16",
@@ -12727,6 +12617,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 584,
+  "totalStickers": 579,
   "version": 1
 }
