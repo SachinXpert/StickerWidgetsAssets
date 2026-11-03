@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703446611,
+  "lastUpdated": 1793703462134,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703461810,
+          "id": "garden_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Potted Cactus",
+          "packId": "garden",
+          "tags": ["cactus", "plant", "pot", "green", "succulent", "nature", "cute", "garden", "potted"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703446285,
@@ -101,7 +112,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6125,6 +6136,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703461810,
+      "id": "garden_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Potted Cactus",
+      "packId": "garden",
+      "tags": ["cactus", "plant", "pot", "green", "succulent", "nature", "cute", "garden", "potted"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703446285,
@@ -12375,6 +12397,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 568,
+  "totalStickers": 569,
   "version": 1
 }
