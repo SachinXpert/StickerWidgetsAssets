@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793704922412,
+  "lastUpdated": 1793704927633,
   "packs": [
     {
       "category": "WEAR",
@@ -11,42 +11,8 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Clothes",
-      "stickers": [
-        {
-          "category": "WEAR",
-          "createdAt": 1793704744521,
-          "id": "clothes_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Clothes 12",
-          "packId": "clothes",
-          "tags": ["clothes", "wear"]
-        },
-        {
-          "category": "WEAR",
-          "createdAt": 1793704729484,
-          "id": "clothes_10",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_10.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Clothes 10",
-          "packId": "clothes",
-          "tags": ["clothes", "wear"]
-        },
-        {
-          "category": "WEAR",
-          "createdAt": 1793704719629,
-          "id": "clothes_1",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_1.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Clothes 1",
-          "packId": "clothes",
-          "tags": ["clothes", "wear"]
-        }
-      ],
-      "stickersCount": 3,
+      "stickers": [],
+      "stickersCount": 0,
       "tags": ["widget", "homescreen", "aesthetic", "fashion", "clothes", "decor", "style"]
     },
     {
@@ -6348,39 +6314,6 @@
     }
   ],
   "stickers": [
-    {
-      "category": "WEAR",
-      "createdAt": 1793704744521,
-      "id": "clothes_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Clothes 12",
-      "packId": "clothes",
-      "tags": ["clothes", "wear"]
-    },
-    {
-      "category": "WEAR",
-      "createdAt": 1793704729484,
-      "id": "clothes_10",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_10.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Clothes 10",
-      "packId": "clothes",
-      "tags": ["clothes", "wear"]
-    },
-    {
-      "category": "WEAR",
-      "createdAt": 1793704719629,
-      "id": "clothes_1",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_1.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Clothes 1",
-      "packId": "clothes",
-      "tags": ["clothes", "wear"]
-    },
     {
       "category": "TOOLS",
       "createdAt": 1793703673663,
@@ -12807,6 +12740,6 @@
     }
   ],
   "totalPacks": 32,
-  "totalStickers": 587,
+  "totalStickers": 584,
   "version": 1
 }
