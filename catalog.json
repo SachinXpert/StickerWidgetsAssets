@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703517219,
+  "lastUpdated": 1793703549000,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703548687,
+          "id": "garden_21",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_21.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Flower Bloom",
+          "packId": "garden",
+          "tags": ["flower", "pink", "plant", "nature", "green", "bloom", "garden", "cute"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703516904,
@@ -156,7 +167,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 13,
+      "stickersCount": 14,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6180,6 +6191,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703548687,
+      "id": "garden_21",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_21.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Flower Bloom",
+      "packId": "garden",
+      "tags": ["flower", "pink", "plant", "nature", "green", "bloom", "garden", "cute"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703516904,
@@ -12485,6 +12507,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 573,
+  "totalStickers": 574,
   "version": 1
 }
