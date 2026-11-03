@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703640315,
+  "lastUpdated": 1793703650217,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703649895,
+          "id": "garden_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Garden Trowel",
+          "packId": "garden",
+          "tags": ["trowel", "gardening", "tool", "metal", "orange", "equipment", "repair", "garden", "tools"]
+        },
         {
           "category": "TOOLS",
           "createdAt": 1793703639970,
@@ -244,7 +255,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 21,
+      "stickersCount": 22,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6268,6 +6279,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703649895,
+      "id": "garden_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Garden Trowel",
+      "packId": "garden",
+      "tags": ["trowel", "gardening", "tool", "metal", "orange", "equipment", "repair", "garden", "tools"]
+    },
     {
       "category": "TOOLS",
       "createdAt": 1793703639970,
@@ -12661,6 +12683,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 581,
+  "totalStickers": 582,
   "version": 1
 }
