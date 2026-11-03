@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703407918,
+  "lastUpdated": 1793703422737,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703422440,
+          "id": "garden_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Potted Leafy Greens",
+          "packId": "garden",
+          "tags": ["plant", "green", "pot", "lettuce", "gardening", "nature", "fresh", "garden", "potted", "leafy", "greens"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703407566,
@@ -68,7 +79,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6092,6 +6103,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703422440,
+      "id": "garden_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Potted Leafy Greens",
+      "packId": "garden",
+      "tags": ["plant", "green", "pot", "lettuce", "gardening", "nature", "fresh", "garden", "potted", "leafy", "greens"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703407566,
@@ -12309,6 +12331,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 565,
+  "totalStickers": 566,
   "version": 1
 }
