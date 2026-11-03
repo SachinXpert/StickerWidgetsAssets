@@ -1,7 +1,20 @@
 {
-  "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710993919,
+  "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793711368874,
   "packs": [
+    {
+      "category": "AUTOMOTIVE",
+      "coverUrl": "",
+      "createdAt": 1793711367950,
+      "description": "Electrify your phone screen with high-voltage automotive sticker widget aesthetics.",
+      "id": "electric_mobility",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Mobility",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
+    },
     {
       "category": "WEAR",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_12.png",
@@ -13180,7 +13193,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 32,
+  "totalPacks": 33,
   "totalStickers": 604,
   "version": 1
 }
