@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703462134,
+  "lastUpdated": 1793703474614,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703474288,
+          "id": "garden_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cozy Hanging Plant",
+          "packId": "garden",
+          "tags": ["plant", "green", "hanging", "leaves", "pot", "nature", "cozy", "botanical", "garden"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703461810,
@@ -112,7 +123,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6136,6 +6147,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703474288,
+      "id": "garden_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cozy Hanging Plant",
+      "packId": "garden",
+      "tags": ["plant", "green", "hanging", "leaves", "pot", "nature", "cozy", "botanical", "garden"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703461810,
@@ -12397,6 +12419,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 569,
+  "totalStickers": 570,
   "version": 1
 }
