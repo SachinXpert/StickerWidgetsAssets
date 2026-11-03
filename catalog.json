@@ -1,7 +1,20 @@
 {
-  "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703732588,
+  "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793704217641,
   "packs": [
+    {
+      "category": "WEAR",
+      "coverUrl": "",
+      "createdAt": 1793704216803,
+      "description": "Transform your phone home screen with stylish clothing aesthetic widgets.",
+      "id": "clothes",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Clothes",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "fashion", "clothes", "decor", "style"]
+    },
     {
       "category": "NATURE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
@@ -12726,7 +12739,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 31,
+  "totalPacks": 32,
   "totalStickers": 584,
   "version": 1
 }
