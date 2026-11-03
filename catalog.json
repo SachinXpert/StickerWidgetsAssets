@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703589115,
+  "lastUpdated": 1793703603339,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703603016,
+          "id": "garden_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Seed Packets",
+          "packId": "garden",
+          "tags": ["seeds", "gardening", "flower", "plants", "green", "yellow", "cute", "nature", "garden", "seed", "packets"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703588769,
@@ -200,7 +211,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 17,
+      "stickersCount": 18,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6224,6 +6235,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703603016,
+      "id": "garden_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Seed Packets",
+      "packId": "garden",
+      "tags": ["seeds", "gardening", "flower", "plants", "green", "yellow", "cute", "nature", "garden", "seed", "packets"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703588769,
@@ -12573,6 +12595,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 577,
+  "totalStickers": 578,
   "version": 1
 }
