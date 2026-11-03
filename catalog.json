@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793705279423,
+  "lastUpdated": 1793705305616,
   "packs": [
     {
       "category": "WEAR",
@@ -184,9 +184,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_13.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 13",
+          "name": "Blue Denim Jeans",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["jeans", "pants", "denim", "clothing", "blue", "fashion", "apparel", "casual", "clothes", "wear"]
         },
         {
           "category": "WEAR",
@@ -6707,9 +6707,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_13.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 13",
+      "name": "Blue Denim Jeans",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["jeans", "pants", "denim", "clothing", "blue", "fashion", "apparel", "casual", "clothes", "wear"]
     },
     {
       "category": "WEAR",
