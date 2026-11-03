@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710789137,
+  "lastUpdated": 1793710810241,
   "packs": [
     {
       "category": "WEAR",
@@ -41,9 +41,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_7.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 7",
+          "name": "Xox Flame Tee",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["shirt", "clothing", "flame", "pink", "cream", "xox", "fashion", "style", "clothes", "wear", "tee"]
         },
         {
           "category": "WEAR",
@@ -6564,9 +6564,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_7.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 7",
+      "name": "Xox Flame Tee",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["shirt", "clothing", "flame", "pink", "cream", "xox", "fashion", "style", "clothes", "wear", "tee"]
     },
     {
       "category": "WEAR",
