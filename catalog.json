@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793711425705,
+  "lastUpdated": 1793711435551,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793711435201,
+          "id": "electric_mobility_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Mobility 11",
+          "packId": "electric_mobility",
+          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+        },
         {
           "category": "AUTOMOTIVE",
           "createdAt": 1793711425316,
@@ -35,7 +46,7 @@
           "tags": ["electric_mobility", "automotive", "electric", "mobility"]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6571,6 +6582,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793711435201,
+      "id": "electric_mobility_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Mobility 11",
+      "packId": "electric_mobility",
+      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793711425316,
@@ -13239,6 +13261,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 606,
+  "totalStickers": 607,
   "version": 1
 }
