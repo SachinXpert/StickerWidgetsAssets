@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703422737,
+  "lastUpdated": 1793703433141,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703432842,
+          "id": "garden_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sunflower Plant",
+          "packId": "garden",
+          "tags": ["sunflower", "flower", "plant", "yellow", "green", "nature", "cute", "bloom", "garden"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703422440,
@@ -79,7 +90,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6103,6 +6114,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703432842,
+      "id": "garden_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sunflower Plant",
+      "packId": "garden",
+      "tags": ["sunflower", "flower", "plant", "yellow", "green", "nature", "cute", "bloom", "garden"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703422440,
@@ -12331,6 +12353,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 566,
+  "totalStickers": 567,
   "version": 1
 }
