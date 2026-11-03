@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793704971968,
+  "lastUpdated": 1793704998253,
   "packs": [
     {
       "category": "WEAR",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Clothes",
       "stickers": [
+        {
+          "category": "WEAR",
+          "createdAt": 1793704997882,
+          "id": "clothes_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "White T Shirt",
+          "packId": "clothes",
+          "tags": ["clothing", "shirt", "white", "casual", "fashion", "apparel", "style", "clothes", "wear"]
+        },
         {
           "category": "WEAR",
           "createdAt": 1793704971537,
@@ -46,7 +57,7 @@
           "tags": ["sweatshirt", "blue", "clothing", "nike", "fashion", "casual", "apparel", "clothes", "wear"]
         }
       ],
-      "stickersCount": 3,
+      "stickersCount": 4,
       "tags": ["widget", "homescreen", "aesthetic", "fashion", "clothes", "decor", "style"]
     },
     {
@@ -6348,6 +6359,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "WEAR",
+      "createdAt": 1793704997882,
+      "id": "clothes_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "White T Shirt",
+      "packId": "clothes",
+      "tags": ["clothing", "shirt", "white", "casual", "fashion", "apparel", "style", "clothes", "wear"]
+    },
     {
       "category": "WEAR",
       "createdAt": 1793704971537,
@@ -12807,6 +12829,6 @@
     }
   ],
   "totalPacks": 32,
-  "totalStickers": 587,
+  "totalStickers": 588,
   "version": 1
 }
