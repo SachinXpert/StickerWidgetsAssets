@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703394950,
+  "lastUpdated": 1793703407918,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703407566,
+          "id": "garden_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blooming Flower Pot",
+          "packId": "garden",
+          "tags": ["flower", "plant", "pot", "pink", "green", "cute", "nature", "blossom", "garden", "blooming"]
+        },
         {
           "category": "TOOLS",
           "createdAt": 1793703394611,
@@ -57,7 +68,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6081,6 +6092,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703407566,
+      "id": "garden_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blooming Flower Pot",
+      "packId": "garden",
+      "tags": ["flower", "plant", "pot", "pink", "green", "cute", "nature", "blossom", "garden", "blooming"]
+    },
     {
       "category": "TOOLS",
       "createdAt": 1793703394611,
@@ -12287,6 +12309,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 564,
+  "totalStickers": 565,
   "version": 1
 }
