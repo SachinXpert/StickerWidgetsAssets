@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793705328293,
+  "lastUpdated": 1793705362788,
   "packs": [
     {
       "category": "WEAR",
@@ -151,9 +151,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_16.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 16",
+          "name": "Black Beanie",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["beanie", "hat", "winter", "clothing", "black", "warm", "accessory", "clothes", "wear"]
         },
         {
           "category": "WEAR",
@@ -6674,9 +6674,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_16.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 16",
+      "name": "Black Beanie",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["beanie", "hat", "winter", "clothing", "black", "warm", "accessory", "clothes", "wear"]
     },
     {
       "category": "WEAR",
