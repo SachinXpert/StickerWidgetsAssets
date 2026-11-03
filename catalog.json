@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703276130,
+  "lastUpdated": 1793703287990,
   "packs": [
     {
       "category": "NATURE",
@@ -25,100 +25,12 @@
         },
         {
           "category": "NATURE",
-          "createdAt": 1793703156125,
-          "id": "garden_8",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_8.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 8",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703149247,
-          "id": "garden_7",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_7.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 7",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703141885,
-          "id": "garden_6",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_6.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 6",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703134845,
-          "id": "garden_5",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_5.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 5",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
           "createdAt": 1793703128295,
           "id": "garden_4",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_4.png",
           "isFeatured": false,
           "isPremium": false,
           "name": "Garden 4",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703113897,
-          "id": "garden_24",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_24.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 24",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703107648,
-          "id": "garden_23",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_23.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 23",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703100764,
-          "id": "garden_22",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_22.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 22",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703088133,
-          "id": "garden_20",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_20.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 20",
           "packId": "garden",
           "tags": ["garden", "nature"]
         },
@@ -132,31 +44,9 @@
           "name": "Garden 2",
           "packId": "garden",
           "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703059817,
-          "id": "garden_17",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 17",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793703052768,
-          "id": "garden_16",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_16.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Garden 16",
-          "packId": "garden",
-          "tags": ["garden", "nature"]
         }
       ],
-      "stickersCount": 13,
+      "stickersCount": 3,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6193,50 +6083,6 @@
     },
     {
       "category": "NATURE",
-      "createdAt": 1793703156125,
-      "id": "garden_8",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_8.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 8",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703149247,
-      "id": "garden_7",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_7.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 7",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703141885,
-      "id": "garden_6",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_6.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 6",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703134845,
-      "id": "garden_5",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_5.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 5",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
       "createdAt": 1793703128295,
       "id": "garden_4",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_4.png",
@@ -6248,78 +6094,12 @@
     },
     {
       "category": "NATURE",
-      "createdAt": 1793703113897,
-      "id": "garden_24",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_24.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 24",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703107648,
-      "id": "garden_23",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_23.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 23",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703100764,
-      "id": "garden_22",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_22.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 22",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703088133,
-      "id": "garden_20",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_20.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 20",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
       "createdAt": 1793703081723,
       "id": "garden_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_2.png",
       "isFeatured": false,
       "isPremium": false,
       "name": "Garden 2",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703059817,
-      "id": "garden_17",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 17",
-      "packId": "garden",
-      "tags": ["garden", "nature"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793703052768,
-      "id": "garden_16",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_16.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Garden 16",
       "packId": "garden",
       "tags": ["garden", "nature"]
     },
@@ -12485,6 +12265,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 573,
+  "totalStickers": 563,
   "version": 1
 }
