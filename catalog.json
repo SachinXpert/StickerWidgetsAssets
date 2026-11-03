@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710810241,
+  "lastUpdated": 1793710825897,
   "packs": [
     {
       "category": "WEAR",
@@ -52,9 +52,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_6.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 6",
+          "name": "Blue High Top Sneaker",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["sneaker", "shoe", "fashion", "blue", "black", "white", "footwear", "style", "clothes", "wear", "high", "top"]
         },
         {
           "category": "WEAR",
@@ -6575,9 +6575,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_6.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 6",
+      "name": "Blue High Top Sneaker",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["sneaker", "shoe", "fashion", "blue", "black", "white", "footwear", "style", "clothes", "wear", "high", "top"]
     },
     {
       "category": "WEAR",
