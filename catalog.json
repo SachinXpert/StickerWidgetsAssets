@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703474614,
+  "lastUpdated": 1793703493154,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "CUTE",
+          "createdAt": 1793703492841,
+          "id": "garden_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sunny Flower Hat",
+          "packId": "garden",
+          "tags": ["hat", "yellow", "flower", "summer", "cute", "accessory", "floral", "garden", "sunny"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703474288,
@@ -123,7 +134,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 10,
+      "stickersCount": 11,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6147,6 +6158,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "CUTE",
+      "createdAt": 1793703492841,
+      "id": "garden_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sunny Flower Hat",
+      "packId": "garden",
+      "tags": ["hat", "yellow", "flower", "summer", "cute", "accessory", "floral", "garden", "sunny"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703474288,
@@ -12419,6 +12441,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 570,
+  "totalStickers": 571,
   "version": 1
 }
