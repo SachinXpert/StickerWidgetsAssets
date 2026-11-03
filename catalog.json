@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703561738,
+  "lastUpdated": 1793703576956,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703576614,
+          "id": "garden_23",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_23.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Red Bucket",
+          "packId": "garden",
+          "tags": ["bucket", "red", "plastic", "container", "handle", "tool", "illustration", "garden", "tools", "little"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703561414,
@@ -178,7 +189,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 15,
+      "stickersCount": 16,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6202,6 +6213,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703576614,
+      "id": "garden_23",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_23.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Red Bucket",
+      "packId": "garden",
+      "tags": ["bucket", "red", "plastic", "container", "handle", "tool", "illustration", "garden", "tools", "little"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703561414,
@@ -12529,6 +12551,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 575,
+  "totalStickers": 576,
   "version": 1
 }
