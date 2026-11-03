@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793705305616,
+  "lastUpdated": 1793705328293,
   "packs": [
     {
       "category": "WEAR",
@@ -162,9 +162,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_15.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 15",
+          "name": "Chunky Sneakers",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["shoes", "sneakers", "fashion", "footwear", "beige", "stylish", "casual", "clothes", "wear", "chunky"]
         },
         {
           "category": "WEAR",
@@ -6685,9 +6685,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_15.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 15",
+      "name": "Chunky Sneakers",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["shoes", "sneakers", "fashion", "footwear", "beige", "stylish", "casual", "clothes", "wear", "chunky"]
     },
     {
       "category": "WEAR",
