@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793705362788,
+  "lastUpdated": 1793705425476,
   "packs": [
     {
       "category": "WEAR",
@@ -140,9 +140,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_17.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 17",
+          "name": "Striped Socks",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["socks", "striped", "white", "black", "clothing", "fashion", "comfort", "cartoon", "clothes", "wear"]
         },
         {
           "category": "WEAR",
@@ -6663,9 +6663,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_17.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 17",
+      "name": "Striped Socks",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["socks", "striped", "white", "black", "clothing", "fashion", "comfort", "cartoon", "clothes", "wear"]
     },
     {
       "category": "WEAR",
