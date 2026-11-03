@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793705007363,
+  "lastUpdated": 1793705026008,
   "packs": [
     {
       "category": "WEAR",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Clothes",
       "stickers": [
+        {
+          "category": "WEAR",
+          "createdAt": 1793705025640,
+          "id": "clothes_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Black Crossbody Bag",
+          "packId": "clothes",
+          "tags": ["bag", "accessory", "black", "fashion", "strap", "pocket", "style", "clothes", "wear", "crossbody"]
+        },
         {
           "category": "WEAR",
           "createdAt": 1793705006999,
@@ -68,7 +79,7 @@
           "tags": ["sweatshirt", "blue", "clothing", "nike", "fashion", "casual", "apparel", "clothes", "wear"]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": ["widget", "homescreen", "aesthetic", "fashion", "clothes", "decor", "style"]
     },
     {
@@ -6370,6 +6381,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "WEAR",
+      "createdAt": 1793705025640,
+      "id": "clothes_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Black Crossbody Bag",
+      "packId": "clothes",
+      "tags": ["bag", "accessory", "black", "fashion", "strap", "pocket", "style", "clothes", "wear", "crossbody"]
+    },
     {
       "category": "WEAR",
       "createdAt": 1793705006999,
@@ -12851,6 +12873,6 @@
     }
   ],
   "totalPacks": 32,
-  "totalStickers": 589,
+  "totalStickers": 590,
   "version": 1
 }
