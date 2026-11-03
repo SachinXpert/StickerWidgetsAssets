@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710886505,
+  "lastUpdated": 1793710923138,
   "packs": [
     {
       "category": "WEAR",
@@ -96,9 +96,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_20.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 20",
+          "name": "Black Sweatpants",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["clothing", "pants", "black", "comfortable", "casual", "apparel", "fashion", "clothes", "wear", "sweatpants"]
         },
         {
           "category": "WEAR",
@@ -6619,9 +6619,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_20.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 20",
+      "name": "Black Sweatpants",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["clothing", "pants", "black", "comfortable", "casual", "apparel", "fashion", "clothes", "wear", "sweatpants"]
     },
     {
       "category": "WEAR",
