@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793717518484,
+  "lastUpdated": 1793717522904,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -135,28 +135,6 @@
         },
         {
           "category": "AUTOMOTIVE",
-          "createdAt": 1793711508201,
-          "id": "electric_mobility_17",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Electric Mobility 17",
-          "packId": "electric_mobility",
-          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-        },
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793711487727,
-          "id": "electric_mobility_16",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_16.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Electric Mobility 16",
-          "packId": "electric_mobility",
-          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-        },
-        {
-          "category": "AUTOMOTIVE",
           "createdAt": 1793711468213,
           "id": "electric_mobility_14",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
@@ -200,7 +178,7 @@
           "tags": ["electric_mobility", "automotive", "electric", "mobility"]
         }
       ],
-      "stickersCount": 17,
+      "stickersCount": 15,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6854,28 +6832,6 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Electric Mobility 18",
-      "packId": "electric_mobility",
-      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793711508201,
-      "id": "electric_mobility_17",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Electric Mobility 17",
-      "packId": "electric_mobility",
-      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793711487727,
-      "id": "electric_mobility_16",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_16.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Electric Mobility 16",
       "packId": "electric_mobility",
       "tags": ["electric_mobility", "automotive", "electric", "mobility"]
     },
@@ -13569,6 +13525,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 621,
+  "totalStickers": 619,
   "version": 1
 }
