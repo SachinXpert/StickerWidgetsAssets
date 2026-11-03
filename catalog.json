@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703650217,
+  "lastUpdated": 1793703663992,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703663650,
+          "id": "garden_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Garden Fork",
+          "packId": "garden",
+          "tags": ["gardening", "tool", "metal", "orange", "gray", "equipment", "agriculture", "garden", "tools", "fork"]
+        },
         {
           "category": "TOOLS",
           "createdAt": 1793703649895,
@@ -255,7 +266,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 22,
+      "stickersCount": 23,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6279,6 +6290,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703663650,
+      "id": "garden_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Garden Fork",
+      "packId": "garden",
+      "tags": ["gardening", "tool", "metal", "orange", "gray", "equipment", "agriculture", "garden", "tools", "fork"]
+    },
     {
       "category": "TOOLS",
       "createdAt": 1793703649895,
@@ -12683,6 +12705,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 582,
+  "totalStickers": 583,
   "version": 1
 }
