@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703350138,
+  "lastUpdated": 1793703394950,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,28 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703394611,
+          "id": "garden_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Garden Hose",
+          "packId": "garden",
+          "tags": ["hose", "garden", "water", "tool", "green", "orange", "equipment", "yard", "tools"]
+        },
+        {
+          "category": "TOOLS",
+          "createdAt": 1793703360983,
+          "id": "garden_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Garden Wheelbarrow",
+          "packId": "garden",
+          "tags": ["wheelbarrow", "gardening", "soil", "plant", "orange", "brown", "green", "equipment", "garden", "tools"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703349777,
@@ -35,7 +57,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 4,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6059,6 +6081,28 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703394611,
+      "id": "garden_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Garden Hose",
+      "packId": "garden",
+      "tags": ["hose", "garden", "water", "tool", "green", "orange", "equipment", "yard", "tools"]
+    },
+    {
+      "category": "TOOLS",
+      "createdAt": 1793703360983,
+      "id": "garden_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Garden Wheelbarrow",
+      "packId": "garden",
+      "tags": ["wheelbarrow", "gardening", "soil", "plant", "orange", "brown", "green", "equipment", "garden", "tools"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703349777,
@@ -12243,6 +12287,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 562,
+  "totalStickers": 564,
   "version": 1
 }
