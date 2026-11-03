@@ -1,6 +1,6 @@
 {
   "categories": ["WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793710693894,
+  "lastUpdated": 1793710727183,
   "packs": [
     {
       "category": "WEAR",
@@ -118,9 +118,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_19.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Clothes 19",
+          "name": "XOX Black Tee",
           "packId": "clothes",
-          "tags": ["clothes", "wear"]
+          "tags": ["clothing", "shirt", "pink", "black", "style", "fashion", "flame", "clothes", "wear", "xox", "tee"]
         },
         {
           "category": "WEAR",
@@ -6641,9 +6641,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_19.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Clothes 19",
+      "name": "XOX Black Tee",
       "packId": "clothes",
-      "tags": ["clothes", "wear"]
+      "tags": ["clothing", "shirt", "pink", "black", "style", "fashion", "flame", "clothes", "wear", "xox", "tee"]
     },
     {
       "category": "WEAR",
