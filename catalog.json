@@ -1,10 +1,10 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703677997,
+  "lastUpdated": 1793703732588,
   "packs": [
     {
       "category": "NATURE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
       "createdAt": 1793702979488,
       "description": "Transform your phone display with charming botanical widgets and aesthetic floral decor.",
       "id": "garden",
