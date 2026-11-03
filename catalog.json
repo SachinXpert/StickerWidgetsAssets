@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703493154,
+  "lastUpdated": 1793703505168,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703504847,
+          "id": "garden_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Sprout",
+          "packId": "garden",
+          "tags": ["plant", "seedling", "green", "pot", "nature", "growth", "cute", "garden", "little", "sprout"]
+        },
         {
           "category": "CUTE",
           "createdAt": 1793703492841,
@@ -134,7 +145,7 @@
           "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
         }
       ],
-      "stickersCount": 11,
+      "stickersCount": 12,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6158,6 +6169,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703504847,
+      "id": "garden_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Sprout",
+      "packId": "garden",
+      "tags": ["plant", "seedling", "green", "pot", "nature", "growth", "cute", "garden", "little", "sprout"]
+    },
     {
       "category": "CUTE",
       "createdAt": 1793703492841,
@@ -12441,6 +12463,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 571,
+  "totalStickers": 572,
   "version": 1
 }
