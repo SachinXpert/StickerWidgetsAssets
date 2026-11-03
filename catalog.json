@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703167032,
+  "lastUpdated": 1793703247624,
   "packs": [
     {
       "category": "NATURE",
@@ -261,9 +261,9 @@
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_10.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "Garden 10",
+          "name": "Rain Boots",
           "packId": "garden",
-          "tags": ["garden", "nature"]
+          "tags": ["boots", "rain", "green", "footwear", "weather", "cute", "waterproof", "garden", "nature"]
         },
         {
           "category": "NATURE",
@@ -6550,9 +6550,9 @@
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_10.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "Garden 10",
+      "name": "Rain Boots",
       "packId": "garden",
-      "tags": ["garden", "nature"]
+      "tags": ["boots", "rain", "green", "footwear", "weather", "cute", "waterproof", "garden", "nature"]
     },
     {
       "category": "NATURE",
