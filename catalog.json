@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703053116,
+  "lastUpdated": 1793703060177,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Garden",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703059817,
+          "id": "garden_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Garden 17",
+          "packId": "garden",
+          "tags": ["garden", "nature"]
+        },
         {
           "category": "NATURE",
           "createdAt": 1793703052768,
@@ -101,7 +112,7 @@
           "tags": ["garden", "nature"]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6125,6 +6136,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703059817,
+      "id": "garden_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Garden 17",
+      "packId": "garden",
+      "tags": ["garden", "nature"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793703052768,
@@ -12375,6 +12397,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 568,
+  "totalStickers": 569,
   "version": 1
 }
