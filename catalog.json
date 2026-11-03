@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793703301923,
+  "lastUpdated": 1793703337491,
   "packs": [
     {
       "category": "NATURE",
@@ -11,8 +11,20 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Garden",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793703337139,
+          "id": "garden_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Sprout",
+          "packId": "garden",
+          "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
+        }
+      ],
+      "stickersCount": 1,
       "tags": ["widget", "homescreen", "aesthetic", "garden", "floral", "decor", "customization"]
     },
     {
@@ -6036,6 +6048,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793703337139,
+      "id": "garden_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Sprout",
+      "packId": "garden",
+      "tags": ["plant", "sprout", "soil", "green", "brown", "growth", "nature", "garden"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1793363642741,
@@ -12198,6 +12221,6 @@
     }
   ],
   "totalPacks": 31,
-  "totalStickers": 560,
+  "totalStickers": 561,
   "version": 1
 }
