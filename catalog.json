@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793763900737,
+  "lastUpdated": 1793763930812,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793763928291,
+          "id": "electric_mobility_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Mobility 14",
+          "packId": "electric_mobility",
+          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+        },
         {
           "category": "AUTOMOTIVE",
           "createdAt": 1793763898362,
@@ -68,7 +79,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 5,
+      "stickersCount": 6,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6604,6 +6615,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793763928291,
+      "id": "electric_mobility_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Mobility 14",
+      "packId": "electric_mobility",
+      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793763898362,
@@ -13305,6 +13327,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 609,
+  "totalStickers": 610,
   "version": 1
 }
