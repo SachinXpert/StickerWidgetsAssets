@@ -1,6 +1,6 @@
 {
   "categories": ["CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793813226260,
+  "lastUpdated": 1793813268433,
   "packs": [
     {
       "category": "CUTE",
@@ -11,8 +11,20 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Origami",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "CUTE",
+          "createdAt": 1793813251431,
+          "id": "origami_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Origami 1",
+          "packId": "origami",
+          "tags": ["origami", "cute"]
+        }
+      ],
+      "stickersCount": 1,
       "tags": ["widget", "homescreen", "aesthetic", "origami", "cute", "decor", "customization"]
     },
     {
@@ -6548,6 +6560,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "CUTE",
+      "createdAt": 1793813251431,
+      "id": "origami_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Origami 1",
+      "packId": "origami",
+      "tags": ["origami", "cute"]
+    },
     {
       "category": "UNUSUAL",
       "createdAt": 1793801444176,
@@ -13238,6 +13261,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 608,
+  "totalStickers": 609,
   "version": 1
 }
