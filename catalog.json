@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793763930812,
+  "lastUpdated": 1793766180780,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -14,58 +14,14 @@
       "stickers": [
         {
           "category": "AUTOMOTIVE",
-          "createdAt": 1793763928291,
-          "id": "electric_mobility_14",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Electric Mobility 14",
-          "packId": "electric_mobility",
-          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-        },
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793763898362,
-          "id": "electric_mobility_13",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_13.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Electric Mobility 13",
-          "packId": "electric_mobility",
-          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-        },
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793763867806,
-          "id": "electric_mobility_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Power Locker",
-          "packId": "electric_mobility",
-          "tags": ["locker", "charging", "station", "power", "pink", "blue", "battery", "electricity", "electric_mobility", "automotive", "electric", "mobility"]
-        },
-        {
-          "category": "TOOLS",
-          "createdAt": 1793763785265,
-          "id": "electric_mobility_11",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Power Bank",
-          "packId": "electric_mobility",
-          "tags": ["battery", "power", "energy", "device", "charger", "blue", "yellow", "electrical", "electric_mobility", "tools", "electric", "mobility", "bank"]
-        },
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793763714381,
+          "createdAt": 1793766178348,
           "id": "electric_mobility_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
           "isFeatured": false,
           "isPremium": false,
-          "name": "EV Charger",
+          "name": "Ev Charger",
           "packId": "electric_mobility",
-          "tags": ["electric", "charger", "plug", "car", "energy", "power", "blue", "green", "electric_mobility", "automotive", "mobility", "ev"]
+          "tags": ["charger", "electric", "vehicle", "energy", "power", "plug", "teal", "blue", "electric_mobility", "automotive", "mobility", "ev"]
         },
         {
           "category": "AUTOMOTIVE",
@@ -79,7 +35,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6617,58 +6573,14 @@
   "stickers": [
     {
       "category": "AUTOMOTIVE",
-      "createdAt": 1793763928291,
-      "id": "electric_mobility_14",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Electric Mobility 14",
-      "packId": "electric_mobility",
-      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793763898362,
-      "id": "electric_mobility_13",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_13.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Electric Mobility 13",
-      "packId": "electric_mobility",
-      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793763867806,
-      "id": "electric_mobility_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Power Locker",
-      "packId": "electric_mobility",
-      "tags": ["locker", "charging", "station", "power", "pink", "blue", "battery", "electricity", "electric_mobility", "automotive", "electric", "mobility"]
-    },
-    {
-      "category": "TOOLS",
-      "createdAt": 1793763785265,
-      "id": "electric_mobility_11",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Power Bank",
-      "packId": "electric_mobility",
-      "tags": ["battery", "power", "energy", "device", "charger", "blue", "yellow", "electrical", "electric_mobility", "tools", "electric", "mobility", "bank"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793763714381,
+      "createdAt": 1793766178348,
       "id": "electric_mobility_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
       "isFeatured": false,
       "isPremium": false,
-      "name": "EV Charger",
+      "name": "Ev Charger",
       "packId": "electric_mobility",
-      "tags": ["electric", "charger", "plug", "car", "energy", "power", "blue", "green", "electric_mobility", "automotive", "mobility", "ev"]
+      "tags": ["charger", "electric", "vehicle", "energy", "power", "plug", "teal", "blue", "electric_mobility", "automotive", "mobility", "ev"]
     },
     {
       "category": "AUTOMOTIVE",
@@ -13327,6 +13239,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 610,
+  "totalStickers": 606,
   "version": 1
 }
