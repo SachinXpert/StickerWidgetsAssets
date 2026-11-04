@@ -1,6 +1,6 @@
 {
   "categories": ["CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "ART", "TRAVEL", "SPACE", "MUSIC"],
-  "lastUpdated": 1793813021439,
+  "lastUpdated": 1793813138246,
   "packs": [
     {
       "category": "CUTE",
@@ -167,28 +167,6 @@
           "tags": ["flower", "origami", "paper", "pink", "green", "craft", "tulip", "nature"]
         },
         {
-          "category": "CUTE",
-          "createdAt": 1793801217259,
-          "id": "origami_14",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_14.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Pink Origami Heart",
-          "packId": "origami",
-          "tags": ["heart", "origami", "pink", "love", "paper", "craft", "folded", "cute"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793801194448,
-          "id": "origami_13",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_13.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Lotus",
-          "packId": "origami",
-          "tags": ["origami", "flower", "lotus", "pink", "paper", "craft", "nature"]
-        },
-        {
           "category": "ANIMAL",
           "createdAt": 1793801147336,
           "id": "origami_12",
@@ -220,20 +198,9 @@
           "name": "Origami Fish",
           "packId": "origami",
           "tags": ["origami", "fish", "pink", "paper", "craft", "geometric", "cute", "animal"]
-        },
-        {
-          "category": "ANIMAL",
-          "createdAt": 1793801077587,
-          "id": "origami_1",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_1.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Crane",
-          "packId": "origami",
-          "tags": ["origami", "bird", "paper", "yellow", "craft", "peace", "cute", "animal", "crane"]
         }
       ],
-      "stickersCount": 20,
+      "stickersCount": 17,
       "tags": ["widget", "homescreen", "aesthetic", "origami", "cute", "decor", "customization"]
     },
     {
@@ -6935,28 +6902,6 @@
       "tags": ["flower", "origami", "paper", "pink", "green", "craft", "tulip", "nature"]
     },
     {
-      "category": "CUTE",
-      "createdAt": 1793801217259,
-      "id": "origami_14",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_14.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Pink Origami Heart",
-      "packId": "origami",
-      "tags": ["heart", "origami", "pink", "love", "paper", "craft", "folded", "cute"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793801194448,
-      "id": "origami_13",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_13.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Lotus",
-      "packId": "origami",
-      "tags": ["origami", "flower", "lotus", "pink", "paper", "craft", "nature"]
-    },
-    {
       "category": "ANIMAL",
       "createdAt": 1793801147336,
       "id": "origami_12",
@@ -6988,17 +6933,6 @@
       "name": "Origami Fish",
       "packId": "origami",
       "tags": ["origami", "fish", "pink", "paper", "craft", "geometric", "cute", "animal"]
-    },
-    {
-      "category": "ANIMAL",
-      "createdAt": 1793801077587,
-      "id": "origami_1",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_1.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Crane",
-      "packId": "origami",
-      "tags": ["origami", "bird", "paper", "yellow", "craft", "peace", "cute", "animal", "crane"]
     },
     {
       "category": "AUTOMOTIVE",
@@ -13679,6 +13613,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 628,
+  "totalStickers": 625,
   "version": 1
 }
