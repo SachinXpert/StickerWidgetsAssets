@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793766245260,
+  "lastUpdated": 1793766255283,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,28 +12,6 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793766212798,
-          "id": "electric_mobility_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Power Locker",
-          "packId": "electric_mobility",
-          "tags": ["locker", "charging", "station", "pink", "electric", "storage", "technology", "device", "electric_mobility", "automotive", "mobility", "power"]
-        },
-        {
-          "category": "TOOLS",
-          "createdAt": 1793766195354,
-          "id": "electric_mobility_11",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Power Bank",
-          "packId": "electric_mobility",
-          "tags": ["battery", "power", "energy", "charging", "blue", "yellow", "electric", "device", "electric_mobility", "tools", "mobility", "bank"]
-        },
         {
           "category": "AUTOMOTIVE",
           "createdAt": 1793766178348,
@@ -57,7 +35,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6593,28 +6571,6 @@
     }
   ],
   "stickers": [
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793766212798,
-      "id": "electric_mobility_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Power Locker",
-      "packId": "electric_mobility",
-      "tags": ["locker", "charging", "station", "pink", "electric", "storage", "technology", "device", "electric_mobility", "automotive", "mobility", "power"]
-    },
-    {
-      "category": "TOOLS",
-      "createdAt": 1793766195354,
-      "id": "electric_mobility_11",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Power Bank",
-      "packId": "electric_mobility",
-      "tags": ["battery", "power", "energy", "charging", "blue", "yellow", "electric", "device", "electric_mobility", "tools", "mobility", "bank"]
-    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793766178348,
@@ -13283,6 +13239,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 608,
+  "totalStickers": 606,
   "version": 1
 }
