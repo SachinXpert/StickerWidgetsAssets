@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793719610763,
+  "lastUpdated": 1793763035211,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -14,7 +14,18 @@
       "stickers": [
         {
           "category": "AUTOMOTIVE",
-          "createdAt": 1793719610101,
+          "createdAt": 1793763032653,
+          "id": "electric_mobility_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Mobility 10",
+          "packId": "electric_mobility",
+          "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793762933294,
           "id": "electric_mobility_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_1.png",
           "isFeatured": false,
@@ -24,7 +35,7 @@
           "tags": ["electric_mobility", "automotive", "electric", "mobility"]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6562,7 +6573,18 @@
   "stickers": [
     {
       "category": "AUTOMOTIVE",
-      "createdAt": 1793719610101,
+      "createdAt": 1793763032653,
+      "id": "electric_mobility_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Mobility 10",
+      "packId": "electric_mobility",
+      "tags": ["electric_mobility", "automotive", "electric", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793762933294,
       "id": "electric_mobility_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_1.png",
       "isFeatured": false,
@@ -13217,6 +13239,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 605,
+  "totalStickers": 606,
   "version": 1
 }
