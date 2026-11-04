@@ -1,6 +1,6 @@
 {
   "categories": ["CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "ART", "TRAVEL", "SPACE", "MUSIC"],
-  "lastUpdated": 1793813141344,
+  "lastUpdated": 1793813152496,
   "packs": [
     {
       "category": "CUTE",
@@ -22,28 +22,6 @@
           "name": "Origami Swan",
           "packId": "origami",
           "tags": ["swan", "origami", "paper", "bird", "white", "orange", "craft", "minimal", "art"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793802394331,
-          "id": "origami_8",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_8.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Pink Origami Butterfly",
-          "packId": "origami",
-          "tags": ["butterfly", "origami", "paper", "pink", "craft", "cute", "insect", "nature"]
-        },
-        {
-          "category": "TRAVEL",
-          "createdAt": 1793802365535,
-          "id": "origami_7",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_7.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Boat",
-          "packId": "origami",
-          "tags": ["boat", "paper", "origami", "blue", "travel", "ship", "folded"]
         },
         {
           "category": "TRAVEL",
@@ -69,28 +47,6 @@
         },
         {
           "category": "ANIMAL",
-          "createdAt": 1793802255929,
-          "id": "origami_4",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_4.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Rabbit",
-          "packId": "origami",
-          "tags": ["rabbit", "origami", "paper", "cute", "purple", "art", "craft", "animal"]
-        },
-        {
-          "category": "ANIMAL",
-          "createdAt": 1793802225623,
-          "id": "origami_3",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_3.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Dog",
-          "packId": "origami",
-          "tags": ["origami", "dog", "puppy", "orange", "happy", "paper", "cute", "animal"]
-        },
-        {
-          "category": "ANIMAL",
           "createdAt": 1793802203218,
           "id": "origami_20",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_20.png",
@@ -99,50 +55,6 @@
           "name": "Origami Fox",
           "packId": "origami",
           "tags": ["fox", "origami", "paper", "cute", "orange", "animal", "sleepy", "art"]
-        },
-        {
-          "category": "ANIMAL",
-          "createdAt": 1793801523941,
-          "id": "origami_2",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_2.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Smiling Fox",
-          "packId": "origami",
-          "tags": ["origami", "fox", "happy", "yellow", "orange", "paper", "geometric", "cute", "animal", "smiling"]
-        },
-        {
-          "category": "ANIMAL",
-          "createdAt": 1793801497523,
-          "id": "origami_19",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_19.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Blue Whale",
-          "packId": "origami",
-          "tags": ["origami", "whale", "blue", "paper", "cute", "ocean", "happy", "geometric", "animal"]
-        },
-        {
-          "category": "NATURE",
-          "createdAt": 1793801417261,
-          "id": "origami_18",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_18.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Pine Tree",
-          "packId": "origami",
-          "tags": ["origami", "tree", "pine", "paper", "green", "folded", "nature", "craft"]
-        },
-        {
-          "category": "ART",
-          "createdAt": 1793801393418,
-          "id": "origami_17",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_17.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Purple Origami",
-          "packId": "origami",
-          "tags": ["origami", "paper", "purple", "geometric", "craft", "art", "folded"]
         },
         {
           "category": "NATURE",
@@ -178,7 +90,7 @@
           "tags": ["origami", "fish", "pink", "paper", "craft", "geometric", "cute", "animal"]
         }
       ],
-      "stickersCount": 15,
+      "stickersCount": 7,
       "tags": ["widget", "homescreen", "aesthetic", "origami", "cute", "decor", "customization"]
     },
     {
@@ -6726,28 +6638,6 @@
       "tags": ["swan", "origami", "paper", "bird", "white", "orange", "craft", "minimal", "art"]
     },
     {
-      "category": "NATURE",
-      "createdAt": 1793802394331,
-      "id": "origami_8",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_8.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Pink Origami Butterfly",
-      "packId": "origami",
-      "tags": ["butterfly", "origami", "paper", "pink", "craft", "cute", "insect", "nature"]
-    },
-    {
-      "category": "TRAVEL",
-      "createdAt": 1793802365535,
-      "id": "origami_7",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_7.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Boat",
-      "packId": "origami",
-      "tags": ["boat", "paper", "origami", "blue", "travel", "ship", "folded"]
-    },
-    {
       "category": "TRAVEL",
       "createdAt": 1793802345372,
       "id": "origami_6",
@@ -6771,28 +6661,6 @@
     },
     {
       "category": "ANIMAL",
-      "createdAt": 1793802255929,
-      "id": "origami_4",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_4.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Rabbit",
-      "packId": "origami",
-      "tags": ["rabbit", "origami", "paper", "cute", "purple", "art", "craft", "animal"]
-    },
-    {
-      "category": "ANIMAL",
-      "createdAt": 1793802225623,
-      "id": "origami_3",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_3.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Dog",
-      "packId": "origami",
-      "tags": ["origami", "dog", "puppy", "orange", "happy", "paper", "cute", "animal"]
-    },
-    {
-      "category": "ANIMAL",
       "createdAt": 1793802203218,
       "id": "origami_20",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_20.png",
@@ -6801,28 +6669,6 @@
       "name": "Origami Fox",
       "packId": "origami",
       "tags": ["fox", "origami", "paper", "cute", "orange", "animal", "sleepy", "art"]
-    },
-    {
-      "category": "ANIMAL",
-      "createdAt": 1793801523941,
-      "id": "origami_2",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_2.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Smiling Fox",
-      "packId": "origami",
-      "tags": ["origami", "fox", "happy", "yellow", "orange", "paper", "geometric", "cute", "animal", "smiling"]
-    },
-    {
-      "category": "ANIMAL",
-      "createdAt": 1793801497523,
-      "id": "origami_19",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_19.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Blue Whale",
-      "packId": "origami",
-      "tags": ["origami", "whale", "blue", "paper", "cute", "ocean", "happy", "geometric", "animal"]
     },
     {
       "category": "UNUSUAL",
@@ -6834,28 +6680,6 @@
       "name": "Power Swap Station",
       "packId": "electric_mobility",
       "tags": ["charging", "battery", "power", "locker", "station", "pink", "teal", "electric_mobility", "unusual", "electric", "mobility", "swap"]
-    },
-    {
-      "category": "NATURE",
-      "createdAt": 1793801417261,
-      "id": "origami_18",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_18.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Pine Tree",
-      "packId": "origami",
-      "tags": ["origami", "tree", "pine", "paper", "green", "folded", "nature", "craft"]
-    },
-    {
-      "category": "ART",
-      "createdAt": 1793801393418,
-      "id": "origami_17",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_17.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Purple Origami",
-      "packId": "origami",
-      "tags": ["origami", "paper", "purple", "geometric", "craft", "art", "folded"]
     },
     {
       "category": "NATURE",
@@ -13569,6 +13393,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 623,
+  "totalStickers": 615,
   "version": 1
 }
