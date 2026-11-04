@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793766265815,
+  "lastUpdated": 1793766316739,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -14,6 +14,17 @@
       "stickers": [
         {
           "category": "AUTOMOTIVE",
+          "createdAt": 1793766314465,
+          "id": "electric_mobility_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "EV Charger",
+          "packId": "electric_mobility",
+          "tags": ["charger", "electric", "car", "plug", "automotive", "teal", "purple", "energy", "electric_mobility", "mobility", "ev"]
+        },
+        {
+          "category": "AUTOMOTIVE",
           "createdAt": 1793763574980,
           "id": "electric_mobility_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_1.png",
@@ -24,7 +35,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6560,6 +6571,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793766314465,
+      "id": "electric_mobility_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "EV Charger",
+      "packId": "electric_mobility",
+      "tags": ["charger", "electric", "car", "plug", "automotive", "teal", "purple", "energy", "electric_mobility", "mobility", "ev"]
+    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793763574980,
@@ -13217,6 +13239,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 605,
+  "totalStickers": 606,
   "version": 1
 }
