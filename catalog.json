@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793763719149,
+  "lastUpdated": 1793763787923,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
+        {
+          "category": "TOOLS",
+          "createdAt": 1793763785265,
+          "id": "electric_mobility_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Power Bank",
+          "packId": "electric_mobility",
+          "tags": ["battery", "power", "energy", "device", "charger", "blue", "yellow", "electrical", "electric_mobility", "tools", "electric", "mobility", "bank"]
+        },
         {
           "category": "AUTOMOTIVE",
           "createdAt": 1793763714381,
@@ -35,7 +46,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6571,6 +6582,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "TOOLS",
+      "createdAt": 1793763785265,
+      "id": "electric_mobility_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Power Bank",
+      "packId": "electric_mobility",
+      "tags": ["battery", "power", "energy", "device", "charger", "blue", "yellow", "electrical", "electric_mobility", "tools", "electric", "mobility", "bank"]
+    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793763714381,
@@ -13239,6 +13261,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 606,
+  "totalStickers": 607,
   "version": 1
 }
