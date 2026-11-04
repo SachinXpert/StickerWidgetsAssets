@@ -1,6 +1,6 @@
 {
   "categories": ["CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "ART", "TRAVEL", "SPACE", "MUSIC"],
-  "lastUpdated": 1793813138246,
+  "lastUpdated": 1793813141344,
   "packs": [
     {
       "category": "CUTE",
@@ -145,17 +145,6 @@
           "tags": ["origami", "paper", "purple", "geometric", "craft", "art", "folded"]
         },
         {
-          "category": "SPACE",
-          "createdAt": 1793801302708,
-          "id": "origami_16",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_16.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Golden Star",
-          "packId": "origami",
-          "tags": ["star", "golden", "yellow", "shiny", "bright", "shape", "symbol", "origami", "space"]
-        },
-        {
           "category": "NATURE",
           "createdAt": 1793801255656,
           "id": "origami_15",
@@ -179,17 +168,6 @@
         },
         {
           "category": "ANIMAL",
-          "createdAt": 1793801123017,
-          "id": "origami_11",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_11.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Origami Turtle",
-          "packId": "origami",
-          "tags": ["origami", "turtle", "green", "paper", "craft", "geometric", "folded", "animal"]
-        },
-        {
-          "category": "ANIMAL",
           "createdAt": 1793801102536,
           "id": "origami_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_10.png",
@@ -200,7 +178,7 @@
           "tags": ["origami", "fish", "pink", "paper", "craft", "geometric", "cute", "animal"]
         }
       ],
-      "stickersCount": 17,
+      "stickersCount": 15,
       "tags": ["widget", "homescreen", "aesthetic", "origami", "cute", "decor", "customization"]
     },
     {
@@ -6880,17 +6858,6 @@
       "tags": ["origami", "paper", "purple", "geometric", "craft", "art", "folded"]
     },
     {
-      "category": "SPACE",
-      "createdAt": 1793801302708,
-      "id": "origami_16",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_16.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Golden Star",
-      "packId": "origami",
-      "tags": ["star", "golden", "yellow", "shiny", "bright", "shape", "symbol", "origami", "space"]
-    },
-    {
       "category": "NATURE",
       "createdAt": 1793801255656,
       "id": "origami_15",
@@ -6911,17 +6878,6 @@
       "name": "Origami Frog",
       "packId": "origami",
       "tags": ["origami", "frog", "green", "paper", "craft", "folded", "cute", "animal"]
-    },
-    {
-      "category": "ANIMAL",
-      "createdAt": 1793801123017,
-      "id": "origami_11",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_11.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Origami Turtle",
-      "packId": "origami",
-      "tags": ["origami", "turtle", "green", "paper", "craft", "geometric", "folded", "animal"]
     },
     {
       "category": "ANIMAL",
@@ -13613,6 +13569,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 625,
+  "totalStickers": 623,
   "version": 1
 }
