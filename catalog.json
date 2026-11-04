@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "CUTE", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793766197838,
+  "lastUpdated": 1793766215318,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793766212798,
+          "id": "electric_mobility_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Power Locker",
+          "packId": "electric_mobility",
+          "tags": ["locker", "charging", "station", "pink", "electric", "storage", "technology", "device", "electric_mobility", "automotive", "mobility", "power"]
+        },
         {
           "category": "TOOLS",
           "createdAt": 1793766195354,
@@ -46,7 +57,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 3,
+      "stickersCount": 4,
       "tags": ["widget", "homescreen", "automotive", "electric", "aesthetic", "customization", "decor", "cars"]
     },
     {
@@ -6582,6 +6593,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793766212798,
+      "id": "electric_mobility_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Power Locker",
+      "packId": "electric_mobility",
+      "tags": ["locker", "charging", "station", "pink", "electric", "storage", "technology", "device", "electric_mobility", "automotive", "mobility", "power"]
+    },
     {
       "category": "TOOLS",
       "createdAt": 1793766195354,
@@ -13261,6 +13283,6 @@
     }
   ],
   "totalPacks": 33,
-  "totalStickers": 607,
+  "totalStickers": 608,
   "version": 1
 }
