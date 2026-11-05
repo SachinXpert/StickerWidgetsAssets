@@ -1,10 +1,10 @@
 {
   "categories": ["ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793872579637,
+  "lastUpdated": 1793872619068,
   "packs": [
     {
       "category": "ANIMAL",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
       "createdAt": 1793872287679,
       "description": "Transform your home screen widgets with adorable coastal aesthetic animal stickers.",
       "id": "coastal_creatures",
