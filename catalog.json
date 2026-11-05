@@ -1,10 +1,10 @@
 {
   "categories": ["AUTOMOTIVE", "CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793866026608,
+  "lastUpdated": 1793866072072,
   "packs": [
     {
       "category": "AUTOMOTIVE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
       "createdAt": 1793865684542,
       "description": "Electrify your phone home screen with high-voltage aesthetic decor widgets.",
       "id": "electric_mobility",
