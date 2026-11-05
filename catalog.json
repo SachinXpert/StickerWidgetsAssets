@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793865691778,
+  "lastUpdated": 1793865731196,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -12,28 +12,6 @@
       "isPremium": false,
       "name": "Electric Mobility",
       "stickers": [
-        {
-          "category": "UNUSUAL",
-          "createdAt": 1793801444176,
-          "id": "electric_mobility_12",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Power Swap Station",
-          "packId": "electric_mobility",
-          "tags": ["charging", "battery", "power", "locker", "station", "pink", "teal", "electric_mobility", "unusual", "electric", "mobility", "swap"]
-        },
-        {
-          "category": "AUTOMOTIVE",
-          "createdAt": 1793800680331,
-          "id": "electric_mobility_10",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "EV Charger Plug",
-          "packId": "electric_mobility",
-          "tags": ["charger", "electric", "plug", "teal", "blue", "power", "cable", "tech", "electric_mobility", "automotive", "mobility", "ev"]
-        },
         {
           "category": "TOOLS",
           "createdAt": 1793800491223,
@@ -57,7 +35,7 @@
           "tags": ["car", "pink", "vehicle", "cute", "automobile", "compact", "transport", "electric_mobility", "automotive", "electric", "mobility", "micro"]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "electric", "mobility", "aesthetic", "customization", "decor"]
     },
     {
@@ -7048,28 +7026,6 @@
       "tags": ["origami", "bird", "paper", "yellow", "craft", "japanese", "art", "animal", "crane"]
     },
     {
-      "category": "UNUSUAL",
-      "createdAt": 1793801444176,
-      "id": "electric_mobility_12",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Power Swap Station",
-      "packId": "electric_mobility",
-      "tags": ["charging", "battery", "power", "locker", "station", "pink", "teal", "electric_mobility", "unusual", "electric", "mobility", "swap"]
-    },
-    {
-      "category": "AUTOMOTIVE",
-      "createdAt": 1793800680331,
-      "id": "electric_mobility_10",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "EV Charger Plug",
-      "packId": "electric_mobility",
-      "tags": ["charger", "electric", "plug", "teal", "blue", "power", "cable", "tech", "electric_mobility", "automotive", "mobility", "ev"]
-    },
-    {
       "category": "TOOLS",
       "createdAt": 1793800491223,
       "id": "electric_mobility_11",
@@ -13737,6 +13693,6 @@
     }
   ],
   "totalPacks": 34,
-  "totalStickers": 628,
+  "totalStickers": 626,
   "version": 1
 }
