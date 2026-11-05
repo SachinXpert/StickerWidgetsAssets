@@ -1,6 +1,6 @@
 {
   "categories": ["ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793872295043,
+  "lastUpdated": 1793872579637,
   "packs": [
     {
       "category": "ANIMAL",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Coastal Creatures",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793872575051,
+          "id": "coastal_creatures_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nautilus Shell",
+          "packId": "coastal_creatures",
+          "tags": ["shell", "spiral", "ocean", "marine", "brown", "cream", "striped", "coastal_creatures", "nature", "coastal", "creatures", "nautilus"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872569692,
+          "id": "coastal_creatures_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Scallop Shell",
+          "packId": "coastal_creatures",
+          "tags": ["shell", "scallop", "ocean", "beach", "red", "orange", "marine", "sea", "coastal_creatures", "nature", "coastal", "creatures"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872563287,
+          "id": "coastal_creatures_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Seashell",
+          "packId": "coastal_creatures",
+          "tags": ["shell", "ocean", "beach", "sea", "brown", "cream", "spiral", "coastal_creatures", "nature", "coastal", "creatures", "seashell"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872552087,
+          "id": "coastal_creatures_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Octopus",
+          "packId": "coastal_creatures",
+          "tags": ["octopus", "sea", "ocean", "red", "tentacles", "creature", "marine", "curled", "coastal_creatures", "animal", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872546964,
+          "id": "coastal_creatures_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden Seahorse",
+          "packId": "coastal_creatures",
+          "tags": ["seahorse", "ocean", "marine", "gold", "nature", "aquatic", "wildlife", "coastal_creatures", "animal", "coastal", "creatures", "golden"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872511308,
+          "id": "coastal_creatures_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sea Turtle Swimmer",
+          "packId": "coastal_creatures",
+          "tags": ["turtle", "ocean", "swimming", "blue", "brown", "nature", "reptile", "serene", "coastal_creatures", "animal", "coastal", "creatures", "sea", "swimmer"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872496736,
+          "id": "coastal_creatures_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Clownfish",
+          "packId": "coastal_creatures",
+          "tags": ["fish", "clownfish", "orange", "ocean", "marine", "cute", "water", "animal", "coastal_creatures", "coastal", "creatures"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872490810,
+          "id": "coastal_creatures_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spiral Sea Shell",
+          "packId": "coastal_creatures",
+          "tags": ["shell", "spiral", "ocean", "sea", "nature", "green", "brown", "coastal_creatures", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872485380,
+          "id": "coastal_creatures_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Orange Starfish",
+          "packId": "coastal_creatures",
+          "tags": ["starfish", "sea", "ocean", "orange", "nature", "marine", "animal", "coastal_creatures", "coastal", "creatures"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793872479771,
+          "id": "coastal_creatures_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Mussels",
+          "packId": "coastal_creatures",
+          "tags": ["mussel", "seafood", "shellfish", "blue", "orange", "ocean", "fresh", "coastal_creatures", "food", "coastal", "creatures", "mussels"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872470973,
+          "id": "coastal_creatures_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Coral",
+          "packId": "coastal_creatures",
+          "tags": ["coral", "ocean", "sea", "marine", "red", "nature", "underwater", "coastal_creatures", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872466145,
+          "id": "coastal_creatures_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Lobster",
+          "packId": "coastal_creatures",
+          "tags": ["lobster", "crustacean", "sea", "ocean", "red", "seafood", "realistic", "marine", "coastal_creatures", "animal", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872458652,
+          "id": "coastal_creatures_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Vibrant Blue Crab",
+          "packId": "coastal_creatures",
+          "tags": ["crab", "blue", "orange", "realistic", "ocean", "marine", "shellfish", "coastal_creatures", "animal", "coastal", "creatures", "vibrant"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872444248,
+          "id": "coastal_creatures_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spiky Seashell",
+          "packId": "coastal_creatures",
+          "tags": ["seashell", "ocean", "beach", "spiky", "brown", "marine", "shell", "coastal_creatures", "nature", "coastal", "creatures"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793872437689,
+          "id": "coastal_creatures_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sand Dollar",
+          "packId": "coastal_creatures",
+          "tags": ["seashell", "ocean", "beach", "marine", "beige", "shell", "sea", "nature", "coastal_creatures", "coastal", "creatures", "sand", "dollar"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872432259,
+          "id": "coastal_creatures_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Sea Urchin",
+          "packId": "coastal_creatures",
+          "tags": ["urchin", "spiky", "purple", "ocean", "marine", "animal", "nature", "sharp", "coastal_creatures", "coastal", "creatures", "sea"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872427447,
+          "id": "coastal_creatures_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Manta Ray",
+          "packId": "coastal_creatures",
+          "tags": ["ray", "ocean", "marine", "blue", "swimming", "wildlife", "graceful", "coastal_creatures", "animal", "coastal", "creatures", "manta"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793872418328,
+          "id": "coastal_creatures_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Fresh Shrimp",
+          "packId": "coastal_creatures",
+          "tags": ["shrimp", "seafood", "orange", "prawn", "fresh", "crustacean", "realistic", "coastal_creatures", "food", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872413159,
+          "id": "coastal_creatures_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blue Jellyfish",
+          "packId": "coastal_creatures",
+          "tags": ["jellyfish", "blue", "ocean", "aquatic", "glowing", "ethereal", "nature", "coastal_creatures", "animal", "coastal", "creatures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793872387830,
+          "id": "coastal_creatures_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Crab",
+          "packId": "coastal_creatures",
+          "tags": ["crab", "crustacean", "red", "ocean", "marine", "claws", "animal", "coastal_creatures", "coastal", "creatures"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "aesthetic", "coastal", "ocean", "decor", "customization"]
     },
     {
@@ -7718,6 +7939,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793872575051,
+      "id": "coastal_creatures_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nautilus Shell",
+      "packId": "coastal_creatures",
+      "tags": ["shell", "spiral", "ocean", "marine", "brown", "cream", "striped", "coastal_creatures", "nature", "coastal", "creatures", "nautilus"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872569692,
+      "id": "coastal_creatures_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Scallop Shell",
+      "packId": "coastal_creatures",
+      "tags": ["shell", "scallop", "ocean", "beach", "red", "orange", "marine", "sea", "coastal_creatures", "nature", "coastal", "creatures"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872563287,
+      "id": "coastal_creatures_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Seashell",
+      "packId": "coastal_creatures",
+      "tags": ["shell", "ocean", "beach", "sea", "brown", "cream", "spiral", "coastal_creatures", "nature", "coastal", "creatures", "seashell"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872552087,
+      "id": "coastal_creatures_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Octopus",
+      "packId": "coastal_creatures",
+      "tags": ["octopus", "sea", "ocean", "red", "tentacles", "creature", "marine", "curled", "coastal_creatures", "animal", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872546964,
+      "id": "coastal_creatures_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Seahorse",
+      "packId": "coastal_creatures",
+      "tags": ["seahorse", "ocean", "marine", "gold", "nature", "aquatic", "wildlife", "coastal_creatures", "animal", "coastal", "creatures", "golden"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872511308,
+      "id": "coastal_creatures_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sea Turtle Swimmer",
+      "packId": "coastal_creatures",
+      "tags": ["turtle", "ocean", "swimming", "blue", "brown", "nature", "reptile", "serene", "coastal_creatures", "animal", "coastal", "creatures", "sea", "swimmer"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872496736,
+      "id": "coastal_creatures_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Clownfish",
+      "packId": "coastal_creatures",
+      "tags": ["fish", "clownfish", "orange", "ocean", "marine", "cute", "water", "animal", "coastal_creatures", "coastal", "creatures"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872490810,
+      "id": "coastal_creatures_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spiral Sea Shell",
+      "packId": "coastal_creatures",
+      "tags": ["shell", "spiral", "ocean", "sea", "nature", "green", "brown", "coastal_creatures", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872485380,
+      "id": "coastal_creatures_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Orange Starfish",
+      "packId": "coastal_creatures",
+      "tags": ["starfish", "sea", "ocean", "orange", "nature", "marine", "animal", "coastal_creatures", "coastal", "creatures"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793872479771,
+      "id": "coastal_creatures_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Mussels",
+      "packId": "coastal_creatures",
+      "tags": ["mussel", "seafood", "shellfish", "blue", "orange", "ocean", "fresh", "coastal_creatures", "food", "coastal", "creatures", "mussels"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872470973,
+      "id": "coastal_creatures_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Coral",
+      "packId": "coastal_creatures",
+      "tags": ["coral", "ocean", "sea", "marine", "red", "nature", "underwater", "coastal_creatures", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872466145,
+      "id": "coastal_creatures_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Lobster",
+      "packId": "coastal_creatures",
+      "tags": ["lobster", "crustacean", "sea", "ocean", "red", "seafood", "realistic", "marine", "coastal_creatures", "animal", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872458652,
+      "id": "coastal_creatures_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Vibrant Blue Crab",
+      "packId": "coastal_creatures",
+      "tags": ["crab", "blue", "orange", "realistic", "ocean", "marine", "shellfish", "coastal_creatures", "animal", "coastal", "creatures", "vibrant"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872444248,
+      "id": "coastal_creatures_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spiky Seashell",
+      "packId": "coastal_creatures",
+      "tags": ["seashell", "ocean", "beach", "spiky", "brown", "marine", "shell", "coastal_creatures", "nature", "coastal", "creatures"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793872437689,
+      "id": "coastal_creatures_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sand Dollar",
+      "packId": "coastal_creatures",
+      "tags": ["seashell", "ocean", "beach", "marine", "beige", "shell", "sea", "nature", "coastal_creatures", "coastal", "creatures", "sand", "dollar"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872432259,
+      "id": "coastal_creatures_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Sea Urchin",
+      "packId": "coastal_creatures",
+      "tags": ["urchin", "spiky", "purple", "ocean", "marine", "animal", "nature", "sharp", "coastal_creatures", "coastal", "creatures", "sea"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872427447,
+      "id": "coastal_creatures_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Manta Ray",
+      "packId": "coastal_creatures",
+      "tags": ["ray", "ocean", "marine", "blue", "swimming", "wildlife", "graceful", "coastal_creatures", "animal", "coastal", "creatures", "manta"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793872418328,
+      "id": "coastal_creatures_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Fresh Shrimp",
+      "packId": "coastal_creatures",
+      "tags": ["shrimp", "seafood", "orange", "prawn", "fresh", "crustacean", "realistic", "coastal_creatures", "food", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872413159,
+      "id": "coastal_creatures_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blue Jellyfish",
+      "packId": "coastal_creatures",
+      "tags": ["jellyfish", "blue", "ocean", "aquatic", "glowing", "ethereal", "nature", "coastal_creatures", "animal", "coastal", "creatures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793872387830,
+      "id": "coastal_creatures_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Crab",
+      "packId": "coastal_creatures",
+      "tags": ["crab", "crustacean", "red", "ocean", "marine", "claws", "animal", "coastal_creatures", "coastal", "creatures"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793871943449,
@@ -15464,6 +15905,6 @@
     }
   ],
   "totalPacks": 38,
-  "totalStickers": 704,
+  "totalStickers": 724,
   "version": 1
 }
