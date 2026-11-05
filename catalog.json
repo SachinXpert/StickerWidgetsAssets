@@ -1,7 +1,20 @@
 {
-  "categories": ["CUTE", "NATURE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793867320350,
+  "categories": ["NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
+  "lastUpdated": 1793871666394,
   "packs": [
+    {
+      "category": "NATURE",
+      "coverUrl": "",
+      "createdAt": 1793871660793,
+      "description": "Transform your phone home screen with adorable botanical sticker widgets.",
+      "id": "pot_plants",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "pot_plants",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "plants", "aesthetic", "decor", "cute", "personalization"]
+    },
     {
       "category": "CUTE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_1.png",
@@ -14996,7 +15009,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 36,
+  "totalPacks": 37,
   "totalStickers": 684,
   "version": 1
 }
