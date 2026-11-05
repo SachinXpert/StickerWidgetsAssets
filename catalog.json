@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "AUTOMOTIVE", "CUTE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793866421389,
+  "lastUpdated": 1793866615404,
   "packs": [
     {
       "category": "NATURE",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Desert Life",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866611326,
+          "id": "desert_life_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Jerboa",
+          "packId": "desert_life",
+          "tags": ["jerboa", "cute", "rodent", "brown", "happy", "animal", "ears", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866606232,
+          "id": "desert_life_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Turtle",
+          "packId": "desert_life",
+          "tags": ["turtle", "cute", "happy", "brown", "animal", "cartoon", "reptile", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866601246,
+          "id": "desert_life_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Red Scorpion",
+          "packId": "desert_life",
+          "tags": ["scorpion", "red", "cute", "cartoon", "friendly", "insect", "arachnid", "happy", "desert_life", "animal", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866594240,
+          "id": "desert_life_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Friendly Snake",
+          "packId": "desert_life",
+          "tags": ["snake", "cute", "reptile", "brown", "cartoon", "happy", "slither", "desert_life", "animal", "desert", "life", "friendly"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866589252,
+          "id": "desert_life_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Camel",
+          "packId": "desert_life",
+          "tags": ["camel", "cute", "cartoon", "brown", "desert", "happy", "animal", "desert_life", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866570607,
+          "id": "desert_life_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Brown Bunny",
+          "packId": "desert_life",
+          "tags": ["rabbit", "cute", "brown", "pink", "animal", "cartoon", "happy", "desert_life", "desert", "life", "bunny"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866565582,
+          "id": "desert_life_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Meerkat",
+          "packId": "desert_life",
+          "tags": ["meerkat", "cute", "happy", "brown", "pink", "animal", "cartoon", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793866542462,
+          "id": "desert_life_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Cactus",
+          "packId": "desert_life",
+          "tags": ["cactus", "plant", "desert", "green", "nature", "spiky", "cute", "desert_life", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866536566,
+          "id": "desert_life_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Fennec Fox",
+          "packId": "desert_life",
+          "tags": ["fox", "cute", "animal", "wildlife", "orange", "ears", "kawaii", "desert_life", "desert", "life", "fennec"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793866530746,
+          "id": "desert_life_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Blooming Cactus",
+          "packId": "desert_life",
+          "tags": ["cactus", "plant", "flower", "green", "red", "cute", "desert", "spring", "desert_life", "nature", "life", "blooming"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866524501,
+          "id": "desert_life_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Roadrunner",
+          "packId": "desert_life",
+          "tags": ["bird", "cute", "brown", "running", "cartoon", "wildlife", "fast", "desert_life", "animal", "desert", "life", "roadrunner"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866518885,
+          "id": "desert_life_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Wise Little Owl",
+          "packId": "desert_life",
+          "tags": ["owl", "cute", "bird", "brown", "wise", "cartoon", "animal", "orange", "desert_life", "desert", "life", "little"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866512200,
+          "id": "desert_life_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Oryx",
+          "packId": "desert_life",
+          "tags": ["oryx", "antelope", "cute", "cartoon", "tan", "brown", "happy", "wildlife", "desert_life", "animal", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866499367,
+          "id": "desert_life_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Antelope",
+          "packId": "desert_life",
+          "tags": ["antelope", "cute", "animal", "horns", "brown", "beige", "happy", "cartoon", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866494728,
+          "id": "desert_life_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Little Hedgehog",
+          "packId": "desert_life",
+          "tags": ["hedgehog", "cute", "animal", "spiky", "happy", "brown", "kawaii", "desert_life", "desert", "life", "little"]
+        },
+        {
+          "category": "CUTE",
+          "createdAt": 1793866490083,
+          "id": "desert_life_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Dinosaur",
+          "packId": "desert_life",
+          "tags": ["dinosaur", "cute", "brown", "animal", "happy", "cartoon", "spikes", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866484965,
+          "id": "desert_life_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Vulture",
+          "packId": "desert_life",
+          "tags": ["vulture", "bird", "cute", "cartoon", "pink", "black", "orange", "animal", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866478600,
+          "id": "desert_life_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Friendly Hyena",
+          "packId": "desert_life",
+          "tags": ["hyena", "cute", "animal", "brown", "spots", "wild", "friendly", "cartoon", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866470598,
+          "id": "desert_life_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Tabby Cat",
+          "packId": "desert_life",
+          "tags": ["cat", "cute", "tabby", "pet", "orange", "happy", "cartoon", "animal", "desert_life", "desert", "life"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793866463364,
+          "id": "desert_life_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Camel",
+          "packId": "desert_life",
+          "tags": ["camel", "cute", "brown", "happy", "cartoon", "animal", "desert", "friendly", "desert_life", "life"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "aesthetic", "desert", "decor", "customization", "nature"]
     },
     {
@@ -7016,6 +7237,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866611326,
+      "id": "desert_life_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Jerboa",
+      "packId": "desert_life",
+      "tags": ["jerboa", "cute", "rodent", "brown", "happy", "animal", "ears", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866606232,
+      "id": "desert_life_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Turtle",
+      "packId": "desert_life",
+      "tags": ["turtle", "cute", "happy", "brown", "animal", "cartoon", "reptile", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866601246,
+      "id": "desert_life_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Red Scorpion",
+      "packId": "desert_life",
+      "tags": ["scorpion", "red", "cute", "cartoon", "friendly", "insect", "arachnid", "happy", "desert_life", "animal", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866594240,
+      "id": "desert_life_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Friendly Snake",
+      "packId": "desert_life",
+      "tags": ["snake", "cute", "reptile", "brown", "cartoon", "happy", "slither", "desert_life", "animal", "desert", "life", "friendly"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866589252,
+      "id": "desert_life_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Camel",
+      "packId": "desert_life",
+      "tags": ["camel", "cute", "cartoon", "brown", "desert", "happy", "animal", "desert_life", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866570607,
+      "id": "desert_life_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Brown Bunny",
+      "packId": "desert_life",
+      "tags": ["rabbit", "cute", "brown", "pink", "animal", "cartoon", "happy", "desert_life", "desert", "life", "bunny"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866565582,
+      "id": "desert_life_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Meerkat",
+      "packId": "desert_life",
+      "tags": ["meerkat", "cute", "happy", "brown", "pink", "animal", "cartoon", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793866542462,
+      "id": "desert_life_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Cactus",
+      "packId": "desert_life",
+      "tags": ["cactus", "plant", "desert", "green", "nature", "spiky", "cute", "desert_life", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866536566,
+      "id": "desert_life_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Fennec Fox",
+      "packId": "desert_life",
+      "tags": ["fox", "cute", "animal", "wildlife", "orange", "ears", "kawaii", "desert_life", "desert", "life", "fennec"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793866530746,
+      "id": "desert_life_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Blooming Cactus",
+      "packId": "desert_life",
+      "tags": ["cactus", "plant", "flower", "green", "red", "cute", "desert", "spring", "desert_life", "nature", "life", "blooming"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866524501,
+      "id": "desert_life_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Roadrunner",
+      "packId": "desert_life",
+      "tags": ["bird", "cute", "brown", "running", "cartoon", "wildlife", "fast", "desert_life", "animal", "desert", "life", "roadrunner"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866518885,
+      "id": "desert_life_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Wise Little Owl",
+      "packId": "desert_life",
+      "tags": ["owl", "cute", "bird", "brown", "wise", "cartoon", "animal", "orange", "desert_life", "desert", "life", "little"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866512200,
+      "id": "desert_life_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Oryx",
+      "packId": "desert_life",
+      "tags": ["oryx", "antelope", "cute", "cartoon", "tan", "brown", "happy", "wildlife", "desert_life", "animal", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866499367,
+      "id": "desert_life_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Antelope",
+      "packId": "desert_life",
+      "tags": ["antelope", "cute", "animal", "horns", "brown", "beige", "happy", "cartoon", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866494728,
+      "id": "desert_life_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Little Hedgehog",
+      "packId": "desert_life",
+      "tags": ["hedgehog", "cute", "animal", "spiky", "happy", "brown", "kawaii", "desert_life", "desert", "life", "little"]
+    },
+    {
+      "category": "CUTE",
+      "createdAt": 1793866490083,
+      "id": "desert_life_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Dinosaur",
+      "packId": "desert_life",
+      "tags": ["dinosaur", "cute", "brown", "animal", "happy", "cartoon", "spikes", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866484965,
+      "id": "desert_life_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Vulture",
+      "packId": "desert_life",
+      "tags": ["vulture", "bird", "cute", "cartoon", "pink", "black", "orange", "animal", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866478600,
+      "id": "desert_life_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Friendly Hyena",
+      "packId": "desert_life",
+      "tags": ["hyena", "cute", "animal", "brown", "spots", "wild", "friendly", "cartoon", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866470598,
+      "id": "desert_life_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Tabby Cat",
+      "packId": "desert_life",
+      "tags": ["cat", "cute", "tabby", "pet", "orange", "happy", "cartoon", "animal", "desert_life", "desert", "life"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793866463364,
+      "id": "desert_life_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Camel",
+      "packId": "desert_life",
+      "tags": ["camel", "cute", "brown", "happy", "cartoon", "animal", "desert", "friendly", "desert_life", "life"]
+    },
     {
       "category": "AUTOMOTIVE",
       "createdAt": 1793866022485,
@@ -14102,6 +14543,6 @@
     }
   ],
   "totalPacks": 35,
-  "totalStickers": 644,
+  "totalStickers": 664,
   "version": 1
 }
