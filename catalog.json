@@ -1,10 +1,10 @@
 {
   "categories": ["CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "AUTOMOTIVE", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793865465060,
+  "lastUpdated": 1793865531756,
   "packs": [
     {
       "category": "CUTE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_10.png",
       "createdAt": 1793813013552,
       "description": "Transform your phone screen with adorable paper art home screen widgets.",
       "id": "origami",
