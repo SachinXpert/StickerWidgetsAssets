@@ -1,7 +1,20 @@
 {
-  "categories": ["NATURE", "AUTOMOTIVE", "CUTE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793866663230,
+  "categories": ["CUTE", "NATURE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
+  "lastUpdated": 1793867022095,
   "packs": [
+    {
+      "category": "CUTE",
+      "coverUrl": "",
+      "createdAt": 1793867015071,
+      "description": "Sweeten your phone aesthetic with these adorable fruit stickers for your home screen.",
+      "id": "cute_fruits",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Fruits",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["fruit", "aesthetic", "widget", "homescreen", "cute", "decor", "kawaii"]
+    },
     {
       "category": "NATURE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_1.png",
@@ -14542,7 +14555,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 35,
+  "totalPacks": 36,
   "totalStickers": 664,
   "version": 1
 }
