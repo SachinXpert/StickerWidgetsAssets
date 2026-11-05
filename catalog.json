@@ -1,7 +1,20 @@
 {
-  "categories": ["NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793871990702,
+  "categories": ["ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
+  "lastUpdated": 1793872295043,
   "packs": [
+    {
+      "category": "ANIMAL",
+      "coverUrl": "",
+      "createdAt": 1793872287679,
+      "description": "Transform your home screen widgets with adorable coastal aesthetic animal stickers.",
+      "id": "coastal_creatures",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Coastal Creatures",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "coastal", "ocean", "decor", "customization"]
+    },
     {
       "category": "NATURE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_1.png",
@@ -15450,7 +15463,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 37,
+  "totalPacks": 38,
   "totalStickers": 704,
   "version": 1
 }
