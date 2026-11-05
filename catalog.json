@@ -1,6 +1,6 @@
 {
   "categories": ["CUTE", "NATURE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793867022095,
+  "lastUpdated": 1793867250571,
   "packs": [
     {
       "category": "CUTE",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Cute Fruits",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "FOOD",
+          "createdAt": 1793867245355,
+          "id": "cute_fruits_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Cherries",
+          "packId": "cute_fruits",
+          "tags": ["cherry", "fruit", "cute", "happy", "red", "green", "kawaii", "cute_fruits", "food", "fruits", "cherries"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867240735,
+          "id": "cute_fruits_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Mango",
+          "packId": "cute_fruits",
+          "tags": ["mango", "fruit", "cute", "happy", "yellow", "sweet", "smile", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867230638,
+          "id": "cute_fruits_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Pineapple",
+          "packId": "cute_fruits",
+          "tags": ["pineapple", "cute", "fruit", "yellow", "green", "happy", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867225849,
+          "id": "cute_fruits_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Watermelon",
+          "packId": "cute_fruits",
+          "tags": ["watermelon", "cute", "fruit", "happy", "green", "red", "smile", "sweet", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867217046,
+          "id": "cute_fruits_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Grape",
+          "packId": "cute_fruits",
+          "tags": ["grape", "fruit", "cute", "happy", "purple", "green", "kawaii", "sweet", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867207769,
+          "id": "cute_fruits_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Strawberry",
+          "packId": "cute_fruits",
+          "tags": ["strawberry", "fruit", "cute", "happy", "red", "green", "sweet", "cartoon", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867203000,
+          "id": "cute_fruits_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Orange",
+          "packId": "cute_fruits",
+          "tags": ["orange", "fruit", "cute", "happy", "smile", "cartoon", "sweet", "fresh", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867198245,
+          "id": "cute_fruits_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Raspberry",
+          "packId": "cute_fruits",
+          "tags": ["raspberry", "fruit", "cute", "happy", "red", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867193206,
+          "id": "cute_fruits_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Banana",
+          "packId": "cute_fruits",
+          "tags": ["banana", "fruit", "cute", "happy", "smile", "yellow", "kawaii", "cartoon", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867187290,
+          "id": "cute_fruits_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Melon",
+          "packId": "cute_fruits",
+          "tags": ["melon", "fruit", "cute", "happy", "sweet", "orange", "green", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867181843,
+          "id": "cute_fruits_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Green Grapes",
+          "packId": "cute_fruits",
+          "tags": ["grapes", "fruit", "cute", "happy", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867176484,
+          "id": "cute_fruits_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Avocado",
+          "packId": "cute_fruits",
+          "tags": ["avocado", "cute", "happy", "fruit", "green", "smiling", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867147625,
+          "id": "cute_fruits_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Coconut",
+          "packId": "cute_fruits",
+          "tags": ["coconut", "cute", "fruit", "happy", "brown", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867142013,
+          "id": "cute_fruits_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Dragon Fruit",
+          "packId": "cute_fruits",
+          "tags": ["dragonfruit", "pitaya", "pink", "fruit", "smiley", "cute", "tropical", "cute_fruits", "food", "fruits", "happy", "dragon"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867127767,
+          "id": "cute_fruits_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Pomegranate",
+          "packId": "cute_fruits",
+          "tags": ["pomegranate", "fruit", "cute", "happy", "red", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867121040,
+          "id": "cute_fruits_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Blueberries",
+          "packId": "cute_fruits",
+          "tags": ["blueberry", "fruit", "cute", "happy", "blue", "green", "kawaii", "sweet", "cute_fruits", "food", "fruits", "blueberries"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867116080,
+          "id": "cute_fruits_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Kiwi Fruit",
+          "packId": "cute_fruits",
+          "tags": ["kiwi", "fruit", "cute", "happy", "green", "brown", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867110321,
+          "id": "cute_fruits_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Lemon",
+          "packId": "cute_fruits",
+          "tags": ["lemon", "fruit", "cute", "yellow", "happy", "smile", "kawaii", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867105367,
+          "id": "cute_fruits_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Peach",
+          "packId": "cute_fruits",
+          "tags": ["peach", "cute", "fruit", "happy", "pink", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1793867094821,
+          "id": "cute_fruits_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Happy Apple",
+          "packId": "cute_fruits",
+          "tags": ["apple", "fruit", "cute", "happy", "red", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["fruit", "aesthetic", "widget", "homescreen", "cute", "decor", "kawaii"]
     },
     {
@@ -7250,6 +7471,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "FOOD",
+      "createdAt": 1793867245355,
+      "id": "cute_fruits_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Cherries",
+      "packId": "cute_fruits",
+      "tags": ["cherry", "fruit", "cute", "happy", "red", "green", "kawaii", "cute_fruits", "food", "fruits", "cherries"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867240735,
+      "id": "cute_fruits_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Mango",
+      "packId": "cute_fruits",
+      "tags": ["mango", "fruit", "cute", "happy", "yellow", "sweet", "smile", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867230638,
+      "id": "cute_fruits_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Pineapple",
+      "packId": "cute_fruits",
+      "tags": ["pineapple", "cute", "fruit", "yellow", "green", "happy", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867225849,
+      "id": "cute_fruits_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Watermelon",
+      "packId": "cute_fruits",
+      "tags": ["watermelon", "cute", "fruit", "happy", "green", "red", "smile", "sweet", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867217046,
+      "id": "cute_fruits_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Grape",
+      "packId": "cute_fruits",
+      "tags": ["grape", "fruit", "cute", "happy", "purple", "green", "kawaii", "sweet", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867207769,
+      "id": "cute_fruits_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Strawberry",
+      "packId": "cute_fruits",
+      "tags": ["strawberry", "fruit", "cute", "happy", "red", "green", "sweet", "cartoon", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867203000,
+      "id": "cute_fruits_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Orange",
+      "packId": "cute_fruits",
+      "tags": ["orange", "fruit", "cute", "happy", "smile", "cartoon", "sweet", "fresh", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867198245,
+      "id": "cute_fruits_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Raspberry",
+      "packId": "cute_fruits",
+      "tags": ["raspberry", "fruit", "cute", "happy", "red", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867193206,
+      "id": "cute_fruits_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Banana",
+      "packId": "cute_fruits",
+      "tags": ["banana", "fruit", "cute", "happy", "smile", "yellow", "kawaii", "cartoon", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867187290,
+      "id": "cute_fruits_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Melon",
+      "packId": "cute_fruits",
+      "tags": ["melon", "fruit", "cute", "happy", "sweet", "orange", "green", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867181843,
+      "id": "cute_fruits_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Green Grapes",
+      "packId": "cute_fruits",
+      "tags": ["grapes", "fruit", "cute", "happy", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867176484,
+      "id": "cute_fruits_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Avocado",
+      "packId": "cute_fruits",
+      "tags": ["avocado", "cute", "happy", "fruit", "green", "smiling", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867147625,
+      "id": "cute_fruits_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Coconut",
+      "packId": "cute_fruits",
+      "tags": ["coconut", "cute", "fruit", "happy", "brown", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867142013,
+      "id": "cute_fruits_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Dragon Fruit",
+      "packId": "cute_fruits",
+      "tags": ["dragonfruit", "pitaya", "pink", "fruit", "smiley", "cute", "tropical", "cute_fruits", "food", "fruits", "happy", "dragon"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867127767,
+      "id": "cute_fruits_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Pomegranate",
+      "packId": "cute_fruits",
+      "tags": ["pomegranate", "fruit", "cute", "happy", "red", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867121040,
+      "id": "cute_fruits_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Blueberries",
+      "packId": "cute_fruits",
+      "tags": ["blueberry", "fruit", "cute", "happy", "blue", "green", "kawaii", "sweet", "cute_fruits", "food", "fruits", "blueberries"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867116080,
+      "id": "cute_fruits_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Kiwi Fruit",
+      "packId": "cute_fruits",
+      "tags": ["kiwi", "fruit", "cute", "happy", "green", "brown", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867110321,
+      "id": "cute_fruits_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Lemon",
+      "packId": "cute_fruits",
+      "tags": ["lemon", "fruit", "cute", "yellow", "happy", "smile", "kawaii", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867105367,
+      "id": "cute_fruits_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Peach",
+      "packId": "cute_fruits",
+      "tags": ["peach", "cute", "fruit", "happy", "pink", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1793867094821,
+      "id": "cute_fruits_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Happy Apple",
+      "packId": "cute_fruits",
+      "tags": ["apple", "fruit", "cute", "happy", "red", "kawaii", "smile", "cute_fruits", "food", "fruits"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1793866611326,
@@ -14556,6 +14997,6 @@
     }
   ],
   "totalPacks": 36,
-  "totalStickers": 664,
+  "totalStickers": 684,
   "version": 1
 }
