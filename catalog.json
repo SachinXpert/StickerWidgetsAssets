@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793871666394,
+  "lastUpdated": 1793871723990,
   "packs": [
     {
       "category": "NATURE",
@@ -10,7 +10,7 @@
       "id": "pot_plants",
       "isFeatured": false,
       "isPremium": false,
-      "name": "pot_plants",
+      "name": "Pot Plants",
       "stickers": [],
       "stickersCount": 0,
       "tags": ["widget", "homescreen", "plants", "aesthetic", "decor", "cute", "personalization"]
