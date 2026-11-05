@@ -1,10 +1,10 @@
 {
   "categories": ["NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793871946278,
+  "lastUpdated": 1793871990702,
   "packs": [
     {
       "category": "NATURE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_1.png",
       "createdAt": 1793871660793,
       "description": "Transform your phone home screen with adorable botanical sticker widgets.",
       "id": "pot_plants",
