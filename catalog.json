@@ -1,7 +1,20 @@
 {
-  "categories": ["AUTOMOTIVE", "CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793866072072,
+  "categories": ["NATURE", "AUTOMOTIVE", "CUTE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
+  "lastUpdated": 1793866421389,
   "packs": [
+    {
+      "category": "NATURE",
+      "coverUrl": "",
+      "createdAt": 1793866414670,
+      "description": "Transform your phone display with aesthetic desert landscape home screen widgets.",
+      "id": "desert_life",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Desert Life",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "desert", "decor", "customization", "nature"]
+    },
     {
       "category": "AUTOMOTIVE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
@@ -14088,7 +14101,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 34,
+  "totalPacks": 35,
   "totalStickers": 644,
   "version": 1
 }
