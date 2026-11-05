@@ -1,6 +1,6 @@
 {
   "categories": ["AUTOMOTIVE", "CUTE", "WEAR", "NATURE", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793865769398,
+  "lastUpdated": 1793866026608,
   "packs": [
     {
       "category": "AUTOMOTIVE",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Electric Mobility",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793866022485,
+          "id": "electric_mobility_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "EV Charger",
+          "packId": "electric_mobility",
+          "tags": ["charger", "electric", "energy", "power", "station", "blue", "green", "technology", "electric_mobility", "automotive", "mobility", "ev"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793866016814,
+          "id": "electric_mobility_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Ev Charger",
+          "packId": "electric_mobility",
+          "tags": ["charger", "electric", "power", "battery", "blue", "car", "energy", "electric_mobility", "automotive", "mobility", "ev"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793866003896,
+          "id": "electric_mobility_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Car Charger",
+          "packId": "electric_mobility",
+          "tags": ["charger", "electric", "car", "energy", "power", "station", "pink", "purple", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865997746,
+          "id": "electric_mobility_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Hoverboard",
+          "packId": "electric_mobility",
+          "tags": ["hoverboard", "scooter", "transport", "purple", "teal", "modern", "ride", "electric_mobility", "automotive", "electric", "mobility"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793865988251,
+          "id": "electric_mobility_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Skateboard",
+          "packId": "electric_mobility",
+          "tags": ["skateboard", "purple", "pink", "yellow", "sport", "skate", "wheels", "active", "electric_mobility", "travel", "electric", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865982850,
+          "id": "electric_mobility_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Scooter",
+          "packId": "electric_mobility",
+          "tags": ["scooter", "vehicle", "transport", "colorful", "moped", "ride", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865960277,
+          "id": "electric_mobility_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Bicycle",
+          "packId": "electric_mobility",
+          "tags": ["bicycle", "bike", "pink", "transportation", "ride", "sport", "illustration", "vehicle", "electric_mobility", "automotive", "electric", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865950066,
+          "id": "electric_mobility_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Delivery Tricycle",
+          "packId": "electric_mobility",
+          "tags": ["tricycle", "delivery", "pink", "yellow", "vehicle", "transport", "cartoon", "electric_mobility", "automotive", "electric", "mobility"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793865936576,
+          "id": "electric_mobility_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Vibrant Kick Scooter",
+          "packId": "electric_mobility",
+          "tags": ["scooter", "electric", "colorful", "transport", "ride", "pink", "teal", "minimalist", "electric_mobility", "travel", "mobility", "vibrant", "kick"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865883534,
+          "id": "electric_mobility_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Tuk Tuk",
+          "packId": "electric_mobility",
+          "tags": ["vehicle", "transport", "pink", "cute", "colorful", "auto", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility", "tuk"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865876603,
+          "id": "electric_mobility_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Parking Sign",
+          "packId": "electric_mobility",
+          "tags": ["parking", "electric", "sign", "green", "white", "charging", "car", "symbol", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865865026,
+          "id": "electric_mobility_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Map Pin",
+          "packId": "electric_mobility",
+          "tags": ["map", "pin", "electric", "charging", "station", "navigation", "green", "location", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "WEAR",
+          "createdAt": 1793865856183,
+          "id": "electric_mobility_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Bike Helmet",
+          "packId": "electric_mobility",
+          "tags": ["helmet", "safety", "bicycle", "sport", "teal", "protective", "gear", "ride", "electric_mobility", "wear", "electric", "mobility", "bike"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865846897,
+          "id": "electric_mobility_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "E Bike Battery",
+          "packId": "electric_mobility",
+          "tags": ["battery", "electric", "power", "bike", "energy", "blue", "green", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865838045,
+          "id": "electric_mobility_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Delivery Van",
+          "packId": "electric_mobility",
+          "tags": ["van", "delivery", "electric", "vehicle", "transport", "pink", "blue", "car", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865831420,
+          "id": "electric_mobility_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Bus",
+          "packId": "electric_mobility",
+          "tags": ["bus", "electric", "vehicle", "transport", "colorful", "modern", "transit", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "TOOLS",
+          "createdAt": 1793865825537,
+          "id": "electric_mobility_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Power Locker",
+          "packId": "electric_mobility",
+          "tags": ["locker", "charging", "station", "electric", "pink", "blue", "storage", "device", "electric_mobility", "tools", "mobility", "power"]
+        },
+        {
+          "category": "TOOLS",
+          "createdAt": 1793865820097,
+          "id": "electric_mobility_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Portable Power Pack",
+          "packId": "electric_mobility",
+          "tags": ["battery", "electric", "purple", "teal", "energy", "power", "flat", "minimalist", "electric_mobility", "tools", "mobility", "portable", "pack"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865799825,
+          "id": "electric_mobility_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Electric Car Charger",
+          "packId": "electric_mobility",
+          "tags": ["charger", "electric", "car", "vehicle", "energy", "plug", "green", "blue", "electric_mobility", "automotive", "mobility"]
+        },
+        {
+          "category": "AUTOMOTIVE",
+          "createdAt": 1793865794638,
+          "id": "electric_mobility_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Pink Microcar",
+          "packId": "electric_mobility",
+          "tags": ["car", "pink", "yellow", "cute", "vehicle", "toy", "transport", "cartoon", "electric_mobility", "automotive", "electric", "mobility", "microcar"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "electric", "mobility", "aesthetic", "customization", "decor"]
     },
     {
@@ -6782,6 +7003,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793866022485,
+      "id": "electric_mobility_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "EV Charger",
+      "packId": "electric_mobility",
+      "tags": ["charger", "electric", "energy", "power", "station", "blue", "green", "technology", "electric_mobility", "automotive", "mobility", "ev"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793866016814,
+      "id": "electric_mobility_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Ev Charger",
+      "packId": "electric_mobility",
+      "tags": ["charger", "electric", "power", "battery", "blue", "car", "energy", "electric_mobility", "automotive", "mobility", "ev"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793866003896,
+      "id": "electric_mobility_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Car Charger",
+      "packId": "electric_mobility",
+      "tags": ["charger", "electric", "car", "energy", "power", "station", "pink", "purple", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865997746,
+      "id": "electric_mobility_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Hoverboard",
+      "packId": "electric_mobility",
+      "tags": ["hoverboard", "scooter", "transport", "purple", "teal", "modern", "ride", "electric_mobility", "automotive", "electric", "mobility"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793865988251,
+      "id": "electric_mobility_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Skateboard",
+      "packId": "electric_mobility",
+      "tags": ["skateboard", "purple", "pink", "yellow", "sport", "skate", "wheels", "active", "electric_mobility", "travel", "electric", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865982850,
+      "id": "electric_mobility_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Scooter",
+      "packId": "electric_mobility",
+      "tags": ["scooter", "vehicle", "transport", "colorful", "moped", "ride", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865960277,
+      "id": "electric_mobility_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Bicycle",
+      "packId": "electric_mobility",
+      "tags": ["bicycle", "bike", "pink", "transportation", "ride", "sport", "illustration", "vehicle", "electric_mobility", "automotive", "electric", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865950066,
+      "id": "electric_mobility_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Delivery Tricycle",
+      "packId": "electric_mobility",
+      "tags": ["tricycle", "delivery", "pink", "yellow", "vehicle", "transport", "cartoon", "electric_mobility", "automotive", "electric", "mobility"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793865936576,
+      "id": "electric_mobility_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Vibrant Kick Scooter",
+      "packId": "electric_mobility",
+      "tags": ["scooter", "electric", "colorful", "transport", "ride", "pink", "teal", "minimalist", "electric_mobility", "travel", "mobility", "vibrant", "kick"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865883534,
+      "id": "electric_mobility_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Tuk Tuk",
+      "packId": "electric_mobility",
+      "tags": ["vehicle", "transport", "pink", "cute", "colorful", "auto", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility", "tuk"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865876603,
+      "id": "electric_mobility_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Parking Sign",
+      "packId": "electric_mobility",
+      "tags": ["parking", "electric", "sign", "green", "white", "charging", "car", "symbol", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865865026,
+      "id": "electric_mobility_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Map Pin",
+      "packId": "electric_mobility",
+      "tags": ["map", "pin", "electric", "charging", "station", "navigation", "green", "location", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "WEAR",
+      "createdAt": 1793865856183,
+      "id": "electric_mobility_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Bike Helmet",
+      "packId": "electric_mobility",
+      "tags": ["helmet", "safety", "bicycle", "sport", "teal", "protective", "gear", "ride", "electric_mobility", "wear", "electric", "mobility", "bike"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865846897,
+      "id": "electric_mobility_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "E Bike Battery",
+      "packId": "electric_mobility",
+      "tags": ["battery", "electric", "power", "bike", "energy", "blue", "green", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865838045,
+      "id": "electric_mobility_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Delivery Van",
+      "packId": "electric_mobility",
+      "tags": ["van", "delivery", "electric", "vehicle", "transport", "pink", "blue", "car", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865831420,
+      "id": "electric_mobility_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Bus",
+      "packId": "electric_mobility",
+      "tags": ["bus", "electric", "vehicle", "transport", "colorful", "modern", "transit", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "TOOLS",
+      "createdAt": 1793865825537,
+      "id": "electric_mobility_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Power Locker",
+      "packId": "electric_mobility",
+      "tags": ["locker", "charging", "station", "electric", "pink", "blue", "storage", "device", "electric_mobility", "tools", "mobility", "power"]
+    },
+    {
+      "category": "TOOLS",
+      "createdAt": 1793865820097,
+      "id": "electric_mobility_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Portable Power Pack",
+      "packId": "electric_mobility",
+      "tags": ["battery", "electric", "purple", "teal", "energy", "power", "flat", "minimalist", "electric_mobility", "tools", "mobility", "portable", "pack"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865799825,
+      "id": "electric_mobility_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Electric Car Charger",
+      "packId": "electric_mobility",
+      "tags": ["charger", "electric", "car", "vehicle", "energy", "plug", "green", "blue", "electric_mobility", "automotive", "mobility"]
+    },
+    {
+      "category": "AUTOMOTIVE",
+      "createdAt": 1793865794638,
+      "id": "electric_mobility_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Pink Microcar",
+      "packId": "electric_mobility",
+      "tags": ["car", "pink", "yellow", "cute", "vehicle", "toy", "transport", "cartoon", "electric_mobility", "automotive", "electric", "mobility", "microcar"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1793865460804,
@@ -13648,6 +14089,6 @@
     }
   ],
   "totalPacks": 34,
-  "totalStickers": 624,
+  "totalStickers": 644,
   "version": 1
 }
