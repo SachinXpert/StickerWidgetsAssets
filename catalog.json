@@ -1,10 +1,10 @@
 {
   "categories": ["CUTE", "NATURE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793867250571,
+  "lastUpdated": 1793867320350,
   "packs": [
     {
       "category": "CUTE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_1.png",
       "createdAt": 1793867015071,
       "description": "Sweeten your phone aesthetic with these adorable fruit stickers for your home screen.",
       "id": "cute_fruits",
