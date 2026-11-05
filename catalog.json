@@ -1,10 +1,10 @@
 {
   "categories": ["NATURE", "AUTOMOTIVE", "CUTE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793866615404,
+  "lastUpdated": 1793866663230,
   "packs": [
     {
       "category": "NATURE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_1.png",
       "createdAt": 1793866414670,
       "description": "Transform your phone display with aesthetic desert landscape home screen widgets.",
       "id": "desert_life",
