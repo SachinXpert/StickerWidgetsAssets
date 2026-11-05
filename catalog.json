@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "ANIMAL", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793871723990,
+  "lastUpdated": 1793871946278,
   "packs": [
     {
       "category": "NATURE",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Pot Plants",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1793871943449,
+          "id": "pot_plants_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Wandering Jew Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "purple", "green", "white", "botanical", "foliage", "pot_plants", "nature", "pot", "plants", "wandering", "jew"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871933531,
+          "id": "pot_plants_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Leaves",
+          "packId": "pot_plants",
+          "tags": ["leaves", "green", "plant", "nature", "botanical", "fresh", "vibrant", "pot_plants", "pot", "plants"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871898016,
+          "id": "pot_plants_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "String Of Pearls",
+          "packId": "pot_plants",
+          "tags": ["plant", "succulent", "pearls", "green", "botanical", "vine", "nature", "round", "pot_plants", "pot", "plants", "string", "of"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871885054,
+          "id": "pot_plants_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Nerve Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "pink", "green", "botanical", "floral", "nature", "pot_plants", "pot", "plants", "nerve"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871878647,
+          "id": "pot_plants_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "green", "leaves", "nature", "botanical", "foliage", "striped", "pot_plants", "pot", "plants", "spider"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871871449,
+          "id": "pot_plants_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Succulent",
+          "packId": "pot_plants",
+          "tags": ["succulent", "plant", "purple", "pink", "botanical", "flower", "nature", "floral", "pot_plants", "pot", "plants"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871856751,
+          "id": "pot_plants_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spiky Aloe Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "succulent", "green", "spiky", "botanical", "nature", "leaf", "pot_plants", "pot", "plants", "aloe"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871850880,
+          "id": "pot_plants_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Marble Pothos",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "white", "botanical", "nature", "vibrant", "pot_plants", "pot", "plants", "marble", "pothos"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871844896,
+          "id": "pot_plants_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Vibrant Green Leaves",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "yellow", "botanical", "tropical", "foliage", "nature", "pot_plants", "pot", "plants", "vibrant"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871835372,
+          "id": "pot_plants_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Succulent Plant",
+          "packId": "pot_plants",
+          "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "flora", "nature", "pot_plants", "pot", "plants"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871826972,
+          "id": "pot_plants_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Leaves",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "botanical", "foliage", "fresh", "nature", "pot_plants", "pot", "plants"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871818331,
+          "id": "pot_plants_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Purple Wandering Jew",
+          "packId": "pot_plants",
+          "tags": ["plant", "purple", "leaves", "botanical", "nature", "vibrant", "foliage", "pot_plants", "pot", "plants", "wandering", "jew"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871812974,
+          "id": "pot_plants_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Silver Leaf Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "silver", "botanical", "nature", "foliage", "pot_plants", "pot", "plants", "leaf"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871805974,
+          "id": "pot_plants_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Silver Pothos Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "silver", "botanical", "nature", "vine", "pot_plants", "pot", "plants", "pothos"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871798168,
+          "id": "pot_plants_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Nerve Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaf", "fittonia", "green", "white", "botanical", "nature", "tropical", "pot_plants", "pot", "plants", "nerve"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871792372,
+          "id": "pot_plants_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Snake Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "succulent", "green", "yellow", "botanical", "leaf", "flora", "nature", "pot_plants", "pot", "plants", "snake"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871779095,
+          "id": "pot_plants_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Succulent Rose",
+          "packId": "pot_plants",
+          "tags": ["plant", "succulent", "green", "pink", "botanical", "nature", "leaf", "pot_plants", "pot", "plants", "rose"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871772060,
+          "id": "pot_plants_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Calathea Plant",
+          "packId": "pot_plants",
+          "tags": ["plant", "leaves", "green", "botanical", "nature", "tropical", "pattern", "vibrant", "pot_plants", "pot", "plants", "calathea"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871764216,
+          "id": "pot_plants_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Succulent",
+          "packId": "pot_plants",
+          "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "nature", "cute", "pot_plants", "pot", "plants"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793871758883,
+          "id": "pot_plants_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Green Succulent",
+          "packId": "pot_plants",
+          "tags": ["succulent", "plant", "green", "nature", "botanical", "leaf", "cute", "pot_plants", "pot", "plants"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "plants", "aesthetic", "decor", "cute", "personalization"]
     },
     {
@@ -7484,6 +7705,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1793871943449,
+      "id": "pot_plants_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Wandering Jew Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "purple", "green", "white", "botanical", "foliage", "pot_plants", "nature", "pot", "plants", "wandering", "jew"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871933531,
+      "id": "pot_plants_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Leaves",
+      "packId": "pot_plants",
+      "tags": ["leaves", "green", "plant", "nature", "botanical", "fresh", "vibrant", "pot_plants", "pot", "plants"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871898016,
+      "id": "pot_plants_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "String Of Pearls",
+      "packId": "pot_plants",
+      "tags": ["plant", "succulent", "pearls", "green", "botanical", "vine", "nature", "round", "pot_plants", "pot", "plants", "string", "of"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871885054,
+      "id": "pot_plants_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Nerve Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "pink", "green", "botanical", "floral", "nature", "pot_plants", "pot", "plants", "nerve"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871878647,
+      "id": "pot_plants_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "green", "leaves", "nature", "botanical", "foliage", "striped", "pot_plants", "pot", "plants", "spider"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871871449,
+      "id": "pot_plants_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Succulent",
+      "packId": "pot_plants",
+      "tags": ["succulent", "plant", "purple", "pink", "botanical", "flower", "nature", "floral", "pot_plants", "pot", "plants"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871856751,
+      "id": "pot_plants_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spiky Aloe Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "succulent", "green", "spiky", "botanical", "nature", "leaf", "pot_plants", "pot", "plants", "aloe"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871850880,
+      "id": "pot_plants_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Marble Pothos",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "white", "botanical", "nature", "vibrant", "pot_plants", "pot", "plants", "marble", "pothos"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871844896,
+      "id": "pot_plants_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Vibrant Green Leaves",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "yellow", "botanical", "tropical", "foliage", "nature", "pot_plants", "pot", "plants", "vibrant"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871835372,
+      "id": "pot_plants_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Succulent Plant",
+      "packId": "pot_plants",
+      "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "flora", "nature", "pot_plants", "pot", "plants"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871826972,
+      "id": "pot_plants_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Leaves",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "botanical", "foliage", "fresh", "nature", "pot_plants", "pot", "plants"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871818331,
+      "id": "pot_plants_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Purple Wandering Jew",
+      "packId": "pot_plants",
+      "tags": ["plant", "purple", "leaves", "botanical", "nature", "vibrant", "foliage", "pot_plants", "pot", "plants", "wandering", "jew"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871812974,
+      "id": "pot_plants_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Silver Leaf Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "silver", "botanical", "nature", "foliage", "pot_plants", "pot", "plants", "leaf"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871805974,
+      "id": "pot_plants_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Silver Pothos Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "silver", "botanical", "nature", "vine", "pot_plants", "pot", "plants", "pothos"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871798168,
+      "id": "pot_plants_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Nerve Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaf", "fittonia", "green", "white", "botanical", "nature", "tropical", "pot_plants", "pot", "plants", "nerve"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871792372,
+      "id": "pot_plants_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Snake Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "succulent", "green", "yellow", "botanical", "leaf", "flora", "nature", "pot_plants", "pot", "plants", "snake"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871779095,
+      "id": "pot_plants_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Succulent Rose",
+      "packId": "pot_plants",
+      "tags": ["plant", "succulent", "green", "pink", "botanical", "nature", "leaf", "pot_plants", "pot", "plants", "rose"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871772060,
+      "id": "pot_plants_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Calathea Plant",
+      "packId": "pot_plants",
+      "tags": ["plant", "leaves", "green", "botanical", "nature", "tropical", "pattern", "vibrant", "pot_plants", "pot", "plants", "calathea"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871764216,
+      "id": "pot_plants_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Succulent",
+      "packId": "pot_plants",
+      "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "nature", "cute", "pot_plants", "pot", "plants"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793871758883,
+      "id": "pot_plants_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Green Succulent",
+      "packId": "pot_plants",
+      "tags": ["succulent", "plant", "green", "nature", "botanical", "leaf", "cute", "pot_plants", "pot", "plants"]
+    },
     {
       "category": "FOOD",
       "createdAt": 1793867245355,
@@ -15010,6 +15451,6 @@
     }
   ],
   "totalPacks": 37,
-  "totalStickers": 684,
+  "totalStickers": 704,
   "version": 1
 }
