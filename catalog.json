@@ -1,6 +1,6 @@
 {
   "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793954552245,
+  "lastUpdated": 1793955850639,
   "packs": [
     {
       "category": "SPORTS",
@@ -12,6 +12,28 @@
       "isPremium": false,
       "name": "Racket Sports",
       "stickers": [
+        {
+          "category": "SPORTS",
+          "createdAt": 1793955846638,
+          "id": "racket_sports_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Badminton Play",
+          "packId": "racket_sports",
+          "tags": ["badminton", "racket", "shuttlecock", "sports", "yellow", "blue", "game", "active", "racket_sports", "play"]
+        },
+        {
+          "category": "SPORTS",
+          "createdAt": 1793954565518,
+          "id": "racket_sports_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Tennis Racket",
+          "packId": "racket_sports",
+          "tags": ["tennis", "racket", "ball", "sport", "blue", "yellow", "game", "play", "racket_sports", "sports"]
+        },
         {
           "category": "SPORTS",
           "createdAt": 1793954548104,
@@ -46,7 +68,7 @@
           "tags": ["pingpong", "paddle", "tennis", "sport", "red", "yellow", "ball", "game", "racket_sports", "sports", "racket", "ping", "pong"]
         }
       ],
-      "stickersCount": 3,
+      "stickersCount": 5,
       "tags": ["widget", "sports", "tennis", "racket", "aesthetic", "homescreen", "decor"]
     },
     {
@@ -8622,6 +8644,28 @@
     }
   ],
   "stickers": [
+    {
+      "category": "SPORTS",
+      "createdAt": 1793955846638,
+      "id": "racket_sports_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Badminton Play",
+      "packId": "racket_sports",
+      "tags": ["badminton", "racket", "shuttlecock", "sports", "yellow", "blue", "game", "active", "racket_sports", "play"]
+    },
+    {
+      "category": "SPORTS",
+      "createdAt": 1793954565518,
+      "id": "racket_sports_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Tennis Racket",
+      "packId": "racket_sports",
+      "tags": ["tennis", "racket", "ball", "sport", "blue", "yellow", "game", "play", "racket_sports", "sports"]
+    },
     {
       "category": "SPORTS",
       "createdAt": 1793954548104,
@@ -17215,6 +17259,6 @@
     }
   ],
   "totalPacks": 42,
-  "totalStickers": 781,
+  "totalStickers": 783,
   "version": 1
 }
