@@ -1,6 +1,6 @@
 {
   "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793956073933,
+  "lastUpdated": 1793956110891,
   "packs": [
     {
       "category": "SPORTS",
@@ -84,7 +84,7 @@
     },
     {
       "category": "HISTORICAL",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_1.png",
       "createdAt": 1793953998939,
       "description": "Transform your phone home screen with aesthetic pirate treasure decorative widgets.",
       "id": "pirate_treasures",
