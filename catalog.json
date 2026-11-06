@@ -1,6 +1,6 @@
 {
   "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793954186555,
+  "lastUpdated": 1793954377616,
   "packs": [
     {
       "category": "SPORTS",
@@ -24,8 +24,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Pirate Treasures",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954372755,
+          "id": "pirate_treasures_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden Compass",
+          "packId": "pirate_treasures",
+          "tags": ["compass", "navigation", "direction", "gold", "travel", "adventure", "map", "pirate_treasures", "pirate", "treasures", "golden"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954367958,
+          "id": "pirate_treasures_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Ship Wheel",
+          "packId": "pirate_treasures",
+          "tags": ["steering", "wheel", "ship", "boat", "nautical", "brown", "yellow", "travel", "pirate_treasures", "pirate", "treasures"]
+        },
+        {
+          "category": "GAMES",
+          "createdAt": 1793954362615,
+          "id": "pirate_treasures_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Treasure Chest",
+          "packId": "pirate_treasures",
+          "tags": ["chest", "treasure", "gold", "brown", "adventure", "lock", "cartoon", "pirate_treasures", "games", "pirate", "treasures"]
+        },
+        {
+          "category": "GAMES",
+          "createdAt": 1793954357102,
+          "id": "pirate_treasures_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Treasure Chest",
+          "packId": "pirate_treasures",
+          "tags": ["treasure", "chest", "gold", "wealth", "adventure", "pirate", "brown", "yellow", "pirate_treasures", "games", "treasures"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954351818,
+          "id": "pirate_treasures_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Treasure Map",
+          "packId": "pirate_treasures",
+          "tags": ["map", "treasure", "adventure", "paper", "compass", "red", "brown", "vintage", "pirate_treasures", "travel", "pirate", "treasures"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954347000,
+          "id": "pirate_treasures_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden Telescope",
+          "packId": "pirate_treasures",
+          "tags": ["telescope", "spyglass", "adventure", "exploration", "optic", "brown", "yellow", "blue", "pirate_treasures", "travel", "pirate", "treasures", "golden"]
+        },
+        {
+          "category": "TOOLS",
+          "createdAt": 1793954342336,
+          "id": "pirate_treasures_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Crossed Swords",
+          "packId": "pirate_treasures",
+          "tags": ["swords", "weapons", "pirate", "crossed", "silver", "gold", "brown", "combat", "pirate_treasures", "tools", "treasures"]
+        },
+        {
+          "category": "GAMES",
+          "createdAt": 1793954337560,
+          "id": "pirate_treasures_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pirate Flag",
+          "packId": "pirate_treasures",
+          "tags": ["pirate", "flag", "skull", "bones", "black", "red", "banner", "symbol", "pirate_treasures", "games", "treasures"]
+        },
+        {
+          "category": "UNUSUAL",
+          "createdAt": 1793954332955,
+          "id": "pirate_treasures_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pirate Skull",
+          "packId": "pirate_treasures",
+          "tags": ["pirate", "skull", "bones", "red", "eyepatch", "cartoon", "danger", "pirate_treasures", "unusual", "treasures"]
+        },
+        {
+          "category": "GAMES",
+          "createdAt": 1793954327962,
+          "id": "pirate_treasures_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Royal Treasure",
+          "packId": "pirate_treasures",
+          "tags": ["crown", "gold", "coins", "gems", "treasure", "wealth", "yellow", "shiny", "pirate_treasures", "games", "pirate", "treasures", "royal"]
+        },
+        {
+          "category": "GAMES",
+          "createdAt": 1793954322838,
+          "id": "pirate_treasures_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Loot Bag",
+          "packId": "pirate_treasures",
+          "tags": ["bag", "money", "gold", "coins", "skull", "treasure", "brown", "yellow", "pirate_treasures", "games", "pirate", "treasures", "loot"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954317878,
+          "id": "pirate_treasures_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Vintage Lantern",
+          "packId": "pirate_treasures",
+          "tags": ["lantern", "light", "fire", "glow", "vintage", "brown", "orange", "lamp", "pirate_treasures", "travel", "pirate", "treasures"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1793954312759,
+          "id": "pirate_treasures_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pirate Parrot",
+          "packId": "pirate_treasures",
+          "tags": ["parrot", "pirate", "bird", "cute", "colorful", "hat", "cartoon", "pet", "pirate_treasures", "animal", "treasures"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793954308401,
+          "id": "pirate_treasures_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Tropical Island",
+          "packId": "pirate_treasures",
+          "tags": ["palm", "trees", "island", "beach", "summer", "green", "brown", "sand", "pirate_treasures", "nature", "pirate", "treasures", "tropical"]
+        },
+        {
+          "category": "HISTORICAL",
+          "createdAt": 1793954303235,
+          "id": "pirate_treasures_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Old Cannon",
+          "packId": "pirate_treasures",
+          "tags": ["cannon", "weapon", "artillery", "historical", "pirate", "black", "orange", "combat", "pirate_treasures", "treasures", "old"]
+        },
+        {
+          "category": "UNUSUAL",
+          "createdAt": 1793954298684,
+          "id": "pirate_treasures_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Poison Barrel",
+          "packId": "pirate_treasures",
+          "tags": ["barrel", "skull", "danger", "pirate", "brown", "hazard", "wooden", "cartoon", "pirate_treasures", "unusual", "treasures", "poison"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954293875,
+          "id": "pirate_treasures_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Nautical Anchor",
+          "packId": "pirate_treasures",
+          "tags": ["anchor", "rope", "ocean", "sea", "marine", "blue", "yellow", "travel", "pirate_treasures", "pirate", "treasures", "nautical"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793954288755,
+          "id": "pirate_treasures_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pirate Ship",
+          "packId": "pirate_treasures",
+          "tags": ["ship", "pirate", "ocean", "adventure", "skull", "boat", "watercolor", "blue", "pirate_treasures", "travel", "treasures"]
+        },
+        {
+          "category": "UNUSUAL",
+          "createdAt": 1793954283939,
+          "id": "pirate_treasures_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Jolly Roger",
+          "packId": "pirate_treasures",
+          "tags": ["pirate", "flag", "skull", "bones", "black", "danger", "symbol", "pirate_treasures", "unusual", "treasures", "jolly", "roger"]
+        },
+        {
+          "category": "WEAR",
+          "createdAt": 1793954279478,
+          "id": "pirate_treasures_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pirate Hat",
+          "packId": "pirate_treasures",
+          "tags": ["pirate", "hat", "skull", "bones", "black", "red", "yellow", "pirate_treasures", "wear", "treasures"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "aesthetic", "pirate", "decor", "customization", "treasure"]
     },
     {
@@ -8368,6 +8589,226 @@
   ],
   "stickers": [
     {
+      "category": "TRAVEL",
+      "createdAt": 1793954372755,
+      "id": "pirate_treasures_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Compass",
+      "packId": "pirate_treasures",
+      "tags": ["compass", "navigation", "direction", "gold", "travel", "adventure", "map", "pirate_treasures", "pirate", "treasures", "golden"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954367958,
+      "id": "pirate_treasures_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Ship Wheel",
+      "packId": "pirate_treasures",
+      "tags": ["steering", "wheel", "ship", "boat", "nautical", "brown", "yellow", "travel", "pirate_treasures", "pirate", "treasures"]
+    },
+    {
+      "category": "GAMES",
+      "createdAt": 1793954362615,
+      "id": "pirate_treasures_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Treasure Chest",
+      "packId": "pirate_treasures",
+      "tags": ["chest", "treasure", "gold", "brown", "adventure", "lock", "cartoon", "pirate_treasures", "games", "pirate", "treasures"]
+    },
+    {
+      "category": "GAMES",
+      "createdAt": 1793954357102,
+      "id": "pirate_treasures_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Treasure Chest",
+      "packId": "pirate_treasures",
+      "tags": ["treasure", "chest", "gold", "wealth", "adventure", "pirate", "brown", "yellow", "pirate_treasures", "games", "treasures"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954351818,
+      "id": "pirate_treasures_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Treasure Map",
+      "packId": "pirate_treasures",
+      "tags": ["map", "treasure", "adventure", "paper", "compass", "red", "brown", "vintage", "pirate_treasures", "travel", "pirate", "treasures"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954347000,
+      "id": "pirate_treasures_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Telescope",
+      "packId": "pirate_treasures",
+      "tags": ["telescope", "spyglass", "adventure", "exploration", "optic", "brown", "yellow", "blue", "pirate_treasures", "travel", "pirate", "treasures", "golden"]
+    },
+    {
+      "category": "TOOLS",
+      "createdAt": 1793954342336,
+      "id": "pirate_treasures_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Crossed Swords",
+      "packId": "pirate_treasures",
+      "tags": ["swords", "weapons", "pirate", "crossed", "silver", "gold", "brown", "combat", "pirate_treasures", "tools", "treasures"]
+    },
+    {
+      "category": "GAMES",
+      "createdAt": 1793954337560,
+      "id": "pirate_treasures_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Flag",
+      "packId": "pirate_treasures",
+      "tags": ["pirate", "flag", "skull", "bones", "black", "red", "banner", "symbol", "pirate_treasures", "games", "treasures"]
+    },
+    {
+      "category": "UNUSUAL",
+      "createdAt": 1793954332955,
+      "id": "pirate_treasures_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Skull",
+      "packId": "pirate_treasures",
+      "tags": ["pirate", "skull", "bones", "red", "eyepatch", "cartoon", "danger", "pirate_treasures", "unusual", "treasures"]
+    },
+    {
+      "category": "GAMES",
+      "createdAt": 1793954327962,
+      "id": "pirate_treasures_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Royal Treasure",
+      "packId": "pirate_treasures",
+      "tags": ["crown", "gold", "coins", "gems", "treasure", "wealth", "yellow", "shiny", "pirate_treasures", "games", "pirate", "treasures", "royal"]
+    },
+    {
+      "category": "GAMES",
+      "createdAt": 1793954322838,
+      "id": "pirate_treasures_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Loot Bag",
+      "packId": "pirate_treasures",
+      "tags": ["bag", "money", "gold", "coins", "skull", "treasure", "brown", "yellow", "pirate_treasures", "games", "pirate", "treasures", "loot"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954317878,
+      "id": "pirate_treasures_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Vintage Lantern",
+      "packId": "pirate_treasures",
+      "tags": ["lantern", "light", "fire", "glow", "vintage", "brown", "orange", "lamp", "pirate_treasures", "travel", "pirate", "treasures"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1793954312759,
+      "id": "pirate_treasures_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Parrot",
+      "packId": "pirate_treasures",
+      "tags": ["parrot", "pirate", "bird", "cute", "colorful", "hat", "cartoon", "pet", "pirate_treasures", "animal", "treasures"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793954308401,
+      "id": "pirate_treasures_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Tropical Island",
+      "packId": "pirate_treasures",
+      "tags": ["palm", "trees", "island", "beach", "summer", "green", "brown", "sand", "pirate_treasures", "nature", "pirate", "treasures", "tropical"]
+    },
+    {
+      "category": "HISTORICAL",
+      "createdAt": 1793954303235,
+      "id": "pirate_treasures_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Old Cannon",
+      "packId": "pirate_treasures",
+      "tags": ["cannon", "weapon", "artillery", "historical", "pirate", "black", "orange", "combat", "pirate_treasures", "treasures", "old"]
+    },
+    {
+      "category": "UNUSUAL",
+      "createdAt": 1793954298684,
+      "id": "pirate_treasures_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Poison Barrel",
+      "packId": "pirate_treasures",
+      "tags": ["barrel", "skull", "danger", "pirate", "brown", "hazard", "wooden", "cartoon", "pirate_treasures", "unusual", "treasures", "poison"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954293875,
+      "id": "pirate_treasures_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Nautical Anchor",
+      "packId": "pirate_treasures",
+      "tags": ["anchor", "rope", "ocean", "sea", "marine", "blue", "yellow", "travel", "pirate_treasures", "pirate", "treasures", "nautical"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793954288755,
+      "id": "pirate_treasures_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Ship",
+      "packId": "pirate_treasures",
+      "tags": ["ship", "pirate", "ocean", "adventure", "skull", "boat", "watercolor", "blue", "pirate_treasures", "travel", "treasures"]
+    },
+    {
+      "category": "UNUSUAL",
+      "createdAt": 1793954283939,
+      "id": "pirate_treasures_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Jolly Roger",
+      "packId": "pirate_treasures",
+      "tags": ["pirate", "flag", "skull", "bones", "black", "danger", "symbol", "pirate_treasures", "unusual", "treasures", "jolly", "roger"]
+    },
+    {
+      "category": "WEAR",
+      "createdAt": 1793954279478,
+      "id": "pirate_treasures_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Hat",
+      "packId": "pirate_treasures",
+      "tags": ["pirate", "hat", "skull", "bones", "black", "red", "yellow", "pirate_treasures", "wear", "treasures"]
+    },
+    {
       "category": "AUTOMOTIVE",
       "createdAt": 1793954182173,
       "id": "flying_machines_9",
@@ -16707,6 +17148,6 @@
     }
   ],
   "totalPacks": 42,
-  "totalStickers": 758,
+  "totalStickers": 778,
   "version": 1
 }
