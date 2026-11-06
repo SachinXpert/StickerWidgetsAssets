@@ -1,6 +1,6 @@
 {
   "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793954377616,
+  "lastUpdated": 1793954552245,
   "packs": [
     {
       "category": "SPORTS",
@@ -11,8 +11,42 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Racket Sports",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "SPORTS",
+          "createdAt": 1793954548104,
+          "id": "racket_sports_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pickleball Paddle And Ball",
+          "packId": "racket_sports",
+          "tags": ["pickleball", "paddle", "ball", "sport", "pink", "yellow", "game", "active", "racket_sports", "sports", "racket"]
+        },
+        {
+          "category": "SPORTS",
+          "createdAt": 1793954543710,
+          "id": "racket_sports_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Padel Racket",
+          "packId": "racket_sports",
+          "tags": ["paddle", "tennis", "sport", "blue", "yellow", "game", "ball", "racket", "racket_sports", "sports", "padel"]
+        },
+        {
+          "category": "SPORTS",
+          "createdAt": 1793954538754,
+          "id": "racket_sports_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Ping Pong Paddle",
+          "packId": "racket_sports",
+          "tags": ["pingpong", "paddle", "tennis", "sport", "red", "yellow", "ball", "game", "racket_sports", "sports", "racket", "ping", "pong"]
+        }
+      ],
+      "stickersCount": 3,
       "tags": ["widget", "sports", "tennis", "racket", "aesthetic", "homescreen", "decor"]
     },
     {
@@ -8589,6 +8623,39 @@
   ],
   "stickers": [
     {
+      "category": "SPORTS",
+      "createdAt": 1793954548104,
+      "id": "racket_sports_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pickleball Paddle And Ball",
+      "packId": "racket_sports",
+      "tags": ["pickleball", "paddle", "ball", "sport", "pink", "yellow", "game", "active", "racket_sports", "sports", "racket"]
+    },
+    {
+      "category": "SPORTS",
+      "createdAt": 1793954543710,
+      "id": "racket_sports_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Padel Racket",
+      "packId": "racket_sports",
+      "tags": ["paddle", "tennis", "sport", "blue", "yellow", "game", "ball", "racket", "racket_sports", "sports", "padel"]
+    },
+    {
+      "category": "SPORTS",
+      "createdAt": 1793954538754,
+      "id": "racket_sports_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Ping Pong Paddle",
+      "packId": "racket_sports",
+      "tags": ["pingpong", "paddle", "tennis", "sport", "red", "yellow", "ball", "game", "racket_sports", "sports", "racket", "ping", "pong"]
+    },
+    {
       "category": "TRAVEL",
       "createdAt": 1793954372755,
       "id": "pirate_treasures_9",
@@ -17148,6 +17215,6 @@
     }
   ],
   "totalPacks": 42,
-  "totalStickers": 778,
+  "totalStickers": 781,
   "version": 1
 }
