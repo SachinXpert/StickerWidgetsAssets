@@ -1,10 +1,10 @@
 {
   "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793956110891,
+  "lastUpdated": 1793956144437,
   "packs": [
     {
       "category": "SPORTS",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_1.png",
       "createdAt": 1793954065242,
       "description": "Serve up sporty style with tennis and badminton aesthetic home screen widgets.",
       "id": "racket_sports",
