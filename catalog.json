@@ -1,7 +1,20 @@
 {
-  "categories": ["ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "HISTORICAL", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793872619068,
+  "categories": ["HISTORICAL", "ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
+  "lastUpdated": 1793950100339,
   "packs": [
+    {
+      "category": "HISTORICAL",
+      "coverUrl": "",
+      "createdAt": 1793950099328,
+      "description": "Transform your phone home screen with glowing Diwali sticker widgets and festive decor.",
+      "id": "diwali",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "diwali", "festive", "aesthetic", "decor", "customization"]
+    },
     {
       "category": "ANIMAL",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
@@ -15904,7 +15917,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 38,
+  "totalPacks": 39,
   "totalStickers": 724,
   "version": 1
 }
