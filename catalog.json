@@ -1,10 +1,10 @@
 {
   "categories": ["HISTORICAL", "ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793950282105,
+  "lastUpdated": 1793950330405,
   "packs": [
     {
       "category": "HISTORICAL",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_12.png",
       "createdAt": 1793950099328,
       "description": "Transform your phone home screen with glowing Diwali sticker widgets and festive decor.",
       "id": "diwali",
