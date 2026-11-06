@@ -1,6 +1,6 @@
 {
-  "categories": ["HISTORICAL", "ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "ART", "SPACE", "MUSIC"],
-  "lastUpdated": 1793950100339,
+  "categories": ["HISTORICAL", "ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793950282105,
   "packs": [
     {
       "category": "HISTORICAL",
@@ -11,8 +11,229 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Diwali",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "ART",
+          "createdAt": 1793950277729,
+          "id": "diwali_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Diya",
+          "packId": "diwali",
+          "tags": ["diwali", "diya", "lamp", "light", "festival", "colorful", "celebration", "culture", "art"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950262375,
+          "id": "diwali_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Diya",
+          "packId": "diwali",
+          "tags": ["diya", "festival", "light", "fire", "purple", "yellow", "celebration", "bright", "diwali", "art"]
+        },
+        {
+          "category": "HISTORICAL",
+          "createdAt": 1793950256450,
+          "id": "diwali_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Diya",
+          "packId": "diwali",
+          "tags": ["diya", "diwali", "lamp", "light", "festival", "purple", "yellow", "bright", "historical"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950251224,
+          "id": "diwali_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Diya",
+          "packId": "diwali",
+          "tags": ["diya", "diwali", "light", "festival", "flame", "colorful", "celebration", "tradition", "art"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950245784,
+          "id": "diwali_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Mandala Blossom",
+          "packId": "diwali",
+          "tags": ["flower", "mandala", "colorful", "floral", "bright", "pattern", "blossom", "decorative", "diwali", "nature"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950240425,
+          "id": "diwali_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Mandala",
+          "packId": "diwali",
+          "tags": ["mandala", "flower", "floral", "colorful", "geometric", "pattern", "vibrant", "art", "diwali"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950232654,
+          "id": "diwali_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Floral Mandala",
+          "packId": "diwali",
+          "tags": ["flower", "mandala", "colorful", "circular", "pattern", "pink", "teal", "yellow", "diwali", "nature", "floral"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950226414,
+          "id": "diwali_20",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_20.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Fireworks",
+          "packId": "diwali",
+          "tags": ["fireworks", "celebration", "colorful", "burst", "festive", "happy", "bright", "pink", "diwali", "nature"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950221455,
+          "id": "diwali_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Mandalas",
+          "packId": "diwali",
+          "tags": ["flower", "mandala", "colorful", "pattern", "floral", "bright", "decorative", "art", "diwali", "nature", "mandalas"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950216012,
+          "id": "diwali_19",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_19.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Lotus",
+          "packId": "diwali",
+          "tags": ["lotus", "flower", "pink", "teal", "nature", "bloom", "plant", "diwali"]
+        },
+        {
+          "category": "HISTORICAL",
+          "createdAt": 1793950208869,
+          "id": "diwali_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Kalash",
+          "packId": "diwali",
+          "tags": ["diwali", "kalash", "festival", "traditional", "colorful", "flower", "pot", "celebration", "historical"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950202814,
+          "id": "diwali_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Candles",
+          "packId": "diwali",
+          "tags": ["candles", "flame", "light", "purple", "pink", "yellow", "glow", "cute", "diwali", "nature", "colorful"]
+        },
+        {
+          "category": "UNUSUAL",
+          "createdAt": 1793950195133,
+          "id": "diwali_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sparkler Firecracker",
+          "packId": "diwali",
+          "tags": ["firecracker", "firework", "celebration", "sparkles", "purple", "yellow", "festive", "explosion", "diwali", "unusual", "sparkler"]
+        },
+        {
+          "category": "SPACE",
+          "createdAt": 1793950188217,
+          "id": "diwali_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Rocket",
+          "packId": "diwali",
+          "tags": ["rocket", "space", "colorful", "striped", "fireworks", "launch", "bright", "diwali"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950182456,
+          "id": "diwali_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Piñata Lantern",
+          "packId": "diwali",
+          "tags": ["pinata", "lantern", "colorful", "festive", "zig_zag", "pink", "yellow", "decoration", "diwali", "art", "pi", "ata"]
+        },
+        {
+          "category": "TRAVEL",
+          "createdAt": 1793950177341,
+          "id": "diwali_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Festive Lantern",
+          "packId": "diwali",
+          "tags": ["lantern", "festival", "chinese", "decoration", "colorful", "asian", "bright", "cultural", "diwali", "travel", "festive"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950171738,
+          "id": "diwali_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Colorful Lantern",
+          "packId": "diwali",
+          "tags": ["lantern", "festival", "colorful", "decorative", "bright", "cultural", "geometric", "art", "diwali"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1793950166145,
+          "id": "diwali_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Lantern",
+          "packId": "diwali",
+          "tags": ["lantern", "festival", "diwali", "colorful", "cultural", "decoration", "bright", "paper", "art"]
+        },
+        {
+          "category": "HISTORICAL",
+          "createdAt": 1793950160534,
+          "id": "diwali_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Diwali Diya",
+          "packId": "diwali",
+          "tags": ["diya", "festival", "light", "lamp", "purple", "yellow", "celebration", "hindu", "diwali", "historical"]
+        },
+        {
+          "category": "NATURE",
+          "createdAt": 1793950155897,
+          "id": "diwali_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Floral Mandala",
+          "packId": "diwali",
+          "tags": ["flower", "mandala", "floral", "yellow", "purple", "white", "pattern", "symmetric", "diwali", "nature"]
+        }
+      ],
+      "stickersCount": 20,
       "tags": ["widget", "homescreen", "diwali", "festive", "aesthetic", "decor", "customization"]
     },
     {
@@ -7952,6 +8173,226 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ART",
+      "createdAt": 1793950277729,
+      "id": "diwali_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Diya",
+      "packId": "diwali",
+      "tags": ["diwali", "diya", "lamp", "light", "festival", "colorful", "celebration", "culture", "art"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950262375,
+      "id": "diwali_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Diya",
+      "packId": "diwali",
+      "tags": ["diya", "festival", "light", "fire", "purple", "yellow", "celebration", "bright", "diwali", "art"]
+    },
+    {
+      "category": "HISTORICAL",
+      "createdAt": 1793950256450,
+      "id": "diwali_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Diya",
+      "packId": "diwali",
+      "tags": ["diya", "diwali", "lamp", "light", "festival", "purple", "yellow", "bright", "historical"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950251224,
+      "id": "diwali_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Diya",
+      "packId": "diwali",
+      "tags": ["diya", "diwali", "light", "festival", "flame", "colorful", "celebration", "tradition", "art"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950245784,
+      "id": "diwali_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Mandala Blossom",
+      "packId": "diwali",
+      "tags": ["flower", "mandala", "colorful", "floral", "bright", "pattern", "blossom", "decorative", "diwali", "nature"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950240425,
+      "id": "diwali_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Mandala",
+      "packId": "diwali",
+      "tags": ["mandala", "flower", "floral", "colorful", "geometric", "pattern", "vibrant", "art", "diwali"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950232654,
+      "id": "diwali_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Floral Mandala",
+      "packId": "diwali",
+      "tags": ["flower", "mandala", "colorful", "circular", "pattern", "pink", "teal", "yellow", "diwali", "nature", "floral"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950226414,
+      "id": "diwali_20",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_20.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Fireworks",
+      "packId": "diwali",
+      "tags": ["fireworks", "celebration", "colorful", "burst", "festive", "happy", "bright", "pink", "diwali", "nature"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950221455,
+      "id": "diwali_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Mandalas",
+      "packId": "diwali",
+      "tags": ["flower", "mandala", "colorful", "pattern", "floral", "bright", "decorative", "art", "diwali", "nature", "mandalas"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950216012,
+      "id": "diwali_19",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_19.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Lotus",
+      "packId": "diwali",
+      "tags": ["lotus", "flower", "pink", "teal", "nature", "bloom", "plant", "diwali"]
+    },
+    {
+      "category": "HISTORICAL",
+      "createdAt": 1793950208869,
+      "id": "diwali_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Kalash",
+      "packId": "diwali",
+      "tags": ["diwali", "kalash", "festival", "traditional", "colorful", "flower", "pot", "celebration", "historical"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950202814,
+      "id": "diwali_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Candles",
+      "packId": "diwali",
+      "tags": ["candles", "flame", "light", "purple", "pink", "yellow", "glow", "cute", "diwali", "nature", "colorful"]
+    },
+    {
+      "category": "UNUSUAL",
+      "createdAt": 1793950195133,
+      "id": "diwali_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sparkler Firecracker",
+      "packId": "diwali",
+      "tags": ["firecracker", "firework", "celebration", "sparkles", "purple", "yellow", "festive", "explosion", "diwali", "unusual", "sparkler"]
+    },
+    {
+      "category": "SPACE",
+      "createdAt": 1793950188217,
+      "id": "diwali_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Rocket",
+      "packId": "diwali",
+      "tags": ["rocket", "space", "colorful", "striped", "fireworks", "launch", "bright", "diwali"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950182456,
+      "id": "diwali_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Piñata Lantern",
+      "packId": "diwali",
+      "tags": ["pinata", "lantern", "colorful", "festive", "zig_zag", "pink", "yellow", "decoration", "diwali", "art", "pi", "ata"]
+    },
+    {
+      "category": "TRAVEL",
+      "createdAt": 1793950177341,
+      "id": "diwali_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Festive Lantern",
+      "packId": "diwali",
+      "tags": ["lantern", "festival", "chinese", "decoration", "colorful", "asian", "bright", "cultural", "diwali", "travel", "festive"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950171738,
+      "id": "diwali_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Colorful Lantern",
+      "packId": "diwali",
+      "tags": ["lantern", "festival", "colorful", "decorative", "bright", "cultural", "geometric", "art", "diwali"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1793950166145,
+      "id": "diwali_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Lantern",
+      "packId": "diwali",
+      "tags": ["lantern", "festival", "diwali", "colorful", "cultural", "decoration", "bright", "paper", "art"]
+    },
+    {
+      "category": "HISTORICAL",
+      "createdAt": 1793950160534,
+      "id": "diwali_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Diwali Diya",
+      "packId": "diwali",
+      "tags": ["diya", "festival", "light", "lamp", "purple", "yellow", "celebration", "hindu", "diwali", "historical"]
+    },
+    {
+      "category": "NATURE",
+      "createdAt": 1793950155897,
+      "id": "diwali_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Floral Mandala",
+      "packId": "diwali",
+      "tags": ["flower", "mandala", "floral", "yellow", "purple", "white", "pattern", "symmetric", "diwali", "nature"]
+    },
     {
       "category": "NATURE",
       "createdAt": 1793872575051,
@@ -15918,6 +16359,6 @@
     }
   ],
   "totalPacks": 39,
-  "totalStickers": 724,
+  "totalStickers": 744,
   "version": 1
 }
