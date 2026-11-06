@@ -1,7 +1,20 @@
 {
-  "categories": ["HISTORICAL", "ANIMAL", "NATURE", "CUTE", "AUTOMOTIVE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793950330405,
+  "categories": ["AUTOMOTIVE", "HISTORICAL", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793953955993,
   "packs": [
+    {
+      "category": "AUTOMOTIVE",
+      "coverUrl": "",
+      "createdAt": 1793953949006,
+      "description": "Transform your phone display with aesthetic flying machine home screen widgets.",
+      "id": "flying_machines",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Machines",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "aviation", "decor", "customization", "airplane"]
+    },
     {
       "category": "HISTORICAL",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/diwali/diwali_12.png",
@@ -16358,7 +16371,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 39,
+  "totalPacks": 40,
   "totalStickers": 744,
   "version": 1
 }
