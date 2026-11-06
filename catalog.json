@@ -1,7 +1,20 @@
 {
-  "categories": ["AUTOMOTIVE", "HISTORICAL", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793953955993,
+  "categories": ["HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793954005564,
   "packs": [
+    {
+      "category": "HISTORICAL",
+      "coverUrl": "",
+      "createdAt": 1793953998939,
+      "description": "Transform your phone home screen with aesthetic pirate treasure decorative widgets.",
+      "id": "pirate_treasures",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pirate Treasures",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "pirate", "decor", "customization", "treasure"]
+    },
     {
       "category": "AUTOMOTIVE",
       "coverUrl": "",
@@ -16371,7 +16384,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 40,
+  "totalPacks": 41,
   "totalStickers": 744,
   "version": 1
 }
