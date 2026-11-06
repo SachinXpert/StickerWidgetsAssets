@@ -1,7 +1,20 @@
 {
-  "categories": ["HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
-  "lastUpdated": 1793954005564,
+  "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "ART", "SPACE", "TRAVEL", "MUSIC"],
+  "lastUpdated": 1793954070694,
   "packs": [
+    {
+      "category": "SPORTS",
+      "coverUrl": "",
+      "createdAt": 1793954065242,
+      "description": "Serve up sporty style with tennis and badminton aesthetic home screen widgets.",
+      "id": "racket_sports",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Racket Sports",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "sports", "tennis", "racket", "aesthetic", "homescreen", "decor"]
+    },
     {
       "category": "HISTORICAL",
       "coverUrl": "",
@@ -16384,7 +16397,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 41,
+  "totalPacks": 42,
   "totalStickers": 744,
   "version": 1
 }
