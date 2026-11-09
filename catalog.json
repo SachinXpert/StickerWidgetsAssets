@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204239959,
+  "lastUpdated": 1794204268101,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "ANIMAL",
+          "createdAt": 1794204265107,
+          "id": "duck_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Yellow Duck",
+          "packId": "duck",
+          "tags": ["duck", "yellow", "cute", "bird", "flying", "orange", "cartoon", "animal"]
+        },
         {
           "category": "ANIMAL",
           "createdAt": 1794204235645,
@@ -112,7 +123,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 9,
+      "stickersCount": 10,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8768,6 +8779,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ANIMAL",
+      "createdAt": 1794204265107,
+      "id": "duck_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Yellow Duck",
+      "packId": "duck",
+      "tags": ["duck", "yellow", "cute", "bird", "flying", "orange", "cartoon", "animal"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1794204235645,
@@ -17493,6 +17515,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 793,
+  "totalStickers": 794,
   "version": 1
 }
