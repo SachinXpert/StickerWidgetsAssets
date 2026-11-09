@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205388183,
+  "lastUpdated": 1794205455422,
   "packs": [
     {
       "category": "NATURE",
@@ -1648,7 +1648,7 @@
           "id": "desert_life_7",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_7.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Cute Red Scorpion",
           "packId": "desert_life",
           "tags": ["scorpion", "red", "cute", "cartoon", "friendly", "insect", "arachnid", "happy", "desert_life", "animal", "desert", "life"]
@@ -10369,7 +10369,7 @@
       "id": "desert_life_7",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_7.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Cute Red Scorpion",
       "packId": "desert_life",
       "tags": ["scorpion", "red", "cute", "cartoon", "friendly", "insect", "arachnid", "happy", "desert_life", "animal", "desert", "life"]
