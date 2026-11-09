@@ -1,7 +1,20 @@
 {
-  "categories": ["SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "NATURE", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1793956144437,
+  "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
+  "lastUpdated": 1794198563346,
   "packs": [
+    {
+      "category": "NATURE",
+      "coverUrl": "",
+      "createdAt": 1794198556381,
+      "description": "Quack up your phone aesthetics with adorable duck home screen widgets.",
+      "id": "duck",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Duck",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
+    },
     {
       "category": "SPORTS",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/racket_sports/racket_sports_1.png",
@@ -17280,7 +17293,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 42,
+  "totalPacks": 43,
   "totalStickers": 784,
   "version": 1
 }
