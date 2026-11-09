@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794199352328,
+  "lastUpdated": 1794199374230,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "CUTE",
+          "createdAt": 1794199369844,
+          "id": "duck_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Sprout Duck",
+          "packId": "duck",
+          "tags": ["duck", "sprout", "white", "green", "cute", "animal", "kawaii", "happy"]
+        },
         {
           "category": "CUTE",
           "createdAt": 1794199348008,
@@ -35,7 +46,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 2,
+      "stickersCount": 3,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8693,6 +8704,17 @@
   "stickers": [
     {
       "category": "CUTE",
+      "createdAt": 1794199369844,
+      "id": "duck_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Sprout Duck",
+      "packId": "duck",
+      "tags": ["duck", "sprout", "white", "green", "cute", "animal", "kawaii", "happy"]
+    },
+    {
+      "category": "CUTE",
       "createdAt": 1794199348008,
       "id": "duck_11",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_11.png",
@@ -17339,6 +17361,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 786,
+  "totalStickers": 787,
   "version": 1
 }
