@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209379700,
+  "lastUpdated": 1794209422849,
   "packs": [
     {
       "category": "NATURE",
@@ -1169,7 +1169,7 @@
           "id": "pot_plants_7",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_7.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "String Of Pearls",
           "packId": "pot_plants",
           "tags": ["plant", "succulent", "pearls", "green", "botanical", "vine", "nature", "round", "pot_plants", "pot", "plants", "string", "of"]
@@ -9907,7 +9907,7 @@
       "id": "pot_plants_7",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_7.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "String Of Pearls",
       "packId": "pot_plants",
       "tags": ["plant", "succulent", "pearls", "green", "botanical", "vine", "nature", "round", "pot_plants", "pot", "plants", "string", "of"]
