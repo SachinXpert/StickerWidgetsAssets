@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206286282,
+  "lastUpdated": 1794206333614,
   "packs": [
     {
       "category": "NATURE",
@@ -2672,7 +2672,7 @@
           "id": "garden_20",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_20.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Spring Tulips",
           "packId": "garden",
           "tags": ["tulip", "flower", "spring", "pink", "plant", "bloom", "nature", "cute", "garden", "tulips"]
@@ -11326,7 +11326,7 @@
       "id": "garden_20",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_20.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Spring Tulips",
       "packId": "garden",
       "tags": ["tulip", "flower", "spring", "pink", "plant", "bloom", "nature", "cute", "garden", "tulips"]
