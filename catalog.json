@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205256895,
+  "lastUpdated": 1794205285878,
   "packs": [
     {
       "category": "NATURE",
@@ -1502,7 +1502,7 @@
           "id": "cute_fruits_18",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_18.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Happy Green Grapes",
           "packId": "cute_fruits",
           "tags": ["grapes", "fruit", "cute", "happy", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
@@ -10237,7 +10237,7 @@
       "id": "cute_fruits_18",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_18.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Happy Green Grapes",
       "packId": "cute_fruits",
       "tags": ["grapes", "fruit", "cute", "happy", "green", "sweet", "kawaii", "cute_fruits", "food", "fruits"]
