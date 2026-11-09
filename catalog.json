@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794198563346,
+  "lastUpdated": 1794199332697,
   "packs": [
     {
       "category": "NATURE",
@@ -11,8 +11,20 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "Duck",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "CUTE",
+          "createdAt": 1794199328562,
+          "id": "duck_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Wizard Duck",
+          "packId": "duck",
+          "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
+        }
+      ],
+      "stickersCount": 1,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8669,6 +8681,17 @@
   ],
   "stickers": [
     {
+      "category": "CUTE",
+      "createdAt": 1794199328562,
+      "id": "duck_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Wizard Duck",
+      "packId": "duck",
+      "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
+    },
+    {
       "category": "SPORTS",
       "createdAt": 1793955864995,
       "id": "racket_sports_3",
@@ -17294,6 +17317,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 784,
+  "totalStickers": 785,
   "version": 1
 }
