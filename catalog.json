@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205107231,
+  "lastUpdated": 1794205140841,
   "packs": [
     {
       "category": "NATURE",
@@ -1034,7 +1034,7 @@
           "id": "coastal_creatures_18",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_18.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Red Coral",
           "packId": "coastal_creatures",
           "tags": ["coral", "ocean", "sea", "marine", "red", "nature", "underwater", "coastal_creatures", "coastal", "creatures"]
@@ -9797,7 +9797,7 @@
       "id": "coastal_creatures_18",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_18.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Red Coral",
       "packId": "coastal_creatures",
       "tags": ["coral", "ocean", "sea", "marine", "red", "nature", "underwater", "coastal_creatures", "coastal", "creatures"]
