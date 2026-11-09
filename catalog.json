@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206692791,
+  "lastUpdated": 1794206719532,
   "packs": [
     {
       "category": "NATURE",
@@ -2226,7 +2226,7 @@
           "id": "origami_15",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_15.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Origami Tulip",
           "packId": "origami",
           "tags": ["flower", "origami", "paper", "pink", "green", "craft", "spring", "nature", "tulip"]
@@ -10908,7 +10908,7 @@
       "id": "origami_15",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_15.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Origami Tulip",
       "packId": "origami",
       "tags": ["flower", "origami", "paper", "pink", "green", "craft", "spring", "nature", "tulip"]
