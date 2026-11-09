@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206135484,
+  "lastUpdated": 1794206162382,
   "packs": [
     {
       "category": "NATURE",
@@ -3966,7 +3966,7 @@
           "id": "food_8",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/food_bekary/food_8.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pink Cherry Cupcake",
           "packId": "food_bekary",
           "tags": ["cupcake", "cherry", "sweet", "pink", "dessert", "frosting", "sprinkles", "cute", "food_bekary", "food"]
@@ -12701,7 +12701,7 @@
       "id": "food_8",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/food_bekary/food_8.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pink Cherry Cupcake",
       "packId": "food_bekary",
       "tags": ["cupcake", "cherry", "sweet", "pink", "dessert", "frosting", "sprinkles", "cute", "food_bekary", "food"]
