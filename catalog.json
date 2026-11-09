@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206719532,
+  "lastUpdated": 1794209217175,
   "packs": [
     {
       "category": "NATURE",
@@ -299,7 +299,7 @@
           "id": "pirate_treasures_8",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_8.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Ship Wheel",
           "packId": "pirate_treasures",
           "tags": ["steering", "wheel", "ship", "boat", "nautical", "brown", "yellow", "travel", "pirate_treasures", "pirate", "treasures"]
@@ -9093,7 +9093,7 @@
       "id": "pirate_treasures_8",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_8.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Ship Wheel",
       "packId": "pirate_treasures",
       "tags": ["steering", "wheel", "ship", "boat", "nautical", "brown", "yellow", "travel", "pirate_treasures", "pirate", "treasures"]
