@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204875641,
+  "lastUpdated": 1794204949588,
   "packs": [
     {
       "category": "NATURE",
@@ -2526,7 +2526,7 @@
           "id": "clothes_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Grey Hoodie",
           "packId": "clothes",
           "tags": ["hoodie", "grey", "clothing", "sweatshirt", "fashion", "apparel", "casual", "clothes", "wear"]
@@ -11205,7 +11205,7 @@
       "id": "clothes_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Grey Hoodie",
       "packId": "clothes",
       "tags": ["hoodie", "grey", "clothing", "sweatshirt", "fashion", "apparel", "casual", "clothes", "wear"]
