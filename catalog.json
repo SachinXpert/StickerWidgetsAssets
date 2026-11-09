@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204212854,
+  "lastUpdated": 1794204239959,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "ANIMAL",
+          "createdAt": 1794204235645,
+          "id": "duck_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Walking Duck",
+          "packId": "duck",
+          "tags": ["duck", "cute", "bird", "scarf", "walking", "white", "orange", "cartoon", "animal"]
+        },
         {
           "category": "CUTE",
           "createdAt": 1794204208633,
@@ -101,7 +112,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 8,
+      "stickersCount": 9,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8757,6 +8768,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ANIMAL",
+      "createdAt": 1794204235645,
+      "id": "duck_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Walking Duck",
+      "packId": "duck",
+      "tags": ["duck", "cute", "bird", "scarf", "walking", "white", "orange", "cartoon", "animal"]
+    },
     {
       "category": "CUTE",
       "createdAt": 1794204208633,
@@ -17471,6 +17493,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 792,
+  "totalStickers": 793,
   "version": 1
 }
