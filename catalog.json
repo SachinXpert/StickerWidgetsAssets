@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206477708,
+  "lastUpdated": 1794206558534,
   "packs": [
     {
       "category": "NATURE",
@@ -2281,7 +2281,7 @@
           "id": "origami_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Origami Fish",
           "packId": "origami",
           "tags": ["fish", "origami", "paper", "pink", "cute", "craft", "animal"]
@@ -10963,7 +10963,7 @@
       "id": "origami_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Origami Fish",
       "packId": "origami",
       "tags": ["fish", "origami", "paper", "pink", "cute", "craft", "animal"]
