@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205027979,
+  "lastUpdated": 1794205067072,
   "packs": [
     {
       "category": "NATURE",
@@ -1012,7 +1012,7 @@
           "id": "coastal_creatures_2",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Orange Starfish",
           "packId": "coastal_creatures",
           "tags": ["starfish", "sea", "ocean", "orange", "nature", "marine", "animal", "coastal_creatures", "coastal", "creatures"]
@@ -9775,7 +9775,7 @@
       "id": "coastal_creatures_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_2.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Orange Starfish",
       "packId": "coastal_creatures",
       "tags": ["starfish", "sea", "ocean", "orange", "nature", "marine", "animal", "coastal_creatures", "coastal", "creatures"]
