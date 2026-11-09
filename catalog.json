@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794202591431,
+  "lastUpdated": 1794202609183,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "ANIMAL",
+          "createdAt": 1794202605184,
+          "id": "duck_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Ducky Hat",
+          "packId": "duck",
+          "tags": ["duck", "cute", "yellow", "hat", "animal", "bird", "cartoon", "ducky"]
+        },
         {
           "category": "CUTE",
           "createdAt": 1794202587387,
@@ -57,7 +68,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 4,
+      "stickersCount": 5,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8713,6 +8724,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ANIMAL",
+      "createdAt": 1794202605184,
+      "id": "duck_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Ducky Hat",
+      "packId": "duck",
+      "tags": ["duck", "cute", "yellow", "hat", "animal", "bird", "cartoon", "ducky"]
+    },
     {
       "category": "CUTE",
       "createdAt": 1794202587387,
@@ -17383,6 +17405,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 788,
+  "totalStickers": 789,
   "version": 1
 }
