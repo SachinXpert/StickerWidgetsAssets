@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206080072,
+  "lastUpdated": 1794206119505,
   "packs": [
     {
       "category": "NATURE",
@@ -658,20 +658,9 @@
           "name": "Flying Drone",
           "packId": "flying_machines",
           "tags": ["drone", "quadcopter", "technology", "camera", "flying", "blue", "white", "gadget", "flying_machines", "automotive", "machines"]
-        },
-        {
-          "category": "TRAVEL",
-          "createdAt": 1793954111197,
-          "id": "flying_machines_1",
-          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_1.png",
-          "isFeatured": false,
-          "isPremium": false,
-          "name": "Airship And Parachute",
-          "packId": "flying_machines",
-          "tags": ["airship", "blimp", "parachute", "flight", "blue", "red", "adventure", "sky", "flying_machines", "travel", "flying", "machines"]
         }
       ],
-      "stickersCount": 14,
+      "stickersCount": 13,
       "tags": ["widget", "homescreen", "aesthetic", "aviation", "decor", "customization", "airplane"]
     },
     {
@@ -9451,17 +9440,6 @@
       "tags": ["drone", "quadcopter", "technology", "camera", "flying", "blue", "white", "gadget", "flying_machines", "automotive", "machines"]
     },
     {
-      "category": "TRAVEL",
-      "createdAt": 1793954111197,
-      "id": "flying_machines_1",
-      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_1.png",
-      "isFeatured": false,
-      "isPremium": false,
-      "name": "Airship And Parachute",
-      "packId": "flying_machines",
-      "tags": ["airship", "blimp", "parachute", "flight", "blue", "red", "adventure", "sky", "flying_machines", "travel", "flying", "machines"]
-    },
-    {
       "category": "ART",
       "createdAt": 1793950277729,
       "id": "diwali_9",
@@ -17647,6 +17625,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 800,
+  "totalStickers": 799,
   "version": 1
 }
