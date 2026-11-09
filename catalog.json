@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204415245,
+  "lastUpdated": 1794204729725,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1794204725513,
+          "id": "duck_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Duck",
+          "packId": "duck",
+          "tags": ["duck", "bird", "cute", "green", "orange", "animal", "cartoon", "nature", "little"]
+        },
         {
           "category": "ANIMAL",
           "createdAt": 1794204410987,
@@ -178,7 +189,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 15,
+      "stickersCount": 16,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8834,6 +8845,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "NATURE",
+      "createdAt": 1794204725513,
+      "id": "duck_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Duck",
+      "packId": "duck",
+      "tags": ["duck", "bird", "cute", "green", "orange", "animal", "cartoon", "nature", "little"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1794204410987,
@@ -17625,6 +17647,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 799,
+  "totalStickers": 800,
   "version": 1
 }
