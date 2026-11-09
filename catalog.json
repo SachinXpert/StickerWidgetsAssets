@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209452181,
+  "lastUpdated": 1794209483081,
   "packs": [
     {
       "category": "NATURE",
@@ -1345,7 +1345,7 @@
           "id": "pot_plants_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Green Succulent",
           "packId": "pot_plants",
           "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "nature", "cute", "pot_plants", "pot", "plants"]
@@ -10083,7 +10083,7 @@
       "id": "pot_plants_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pot_plants/pot_plants_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Green Succulent",
       "packId": "pot_plants",
       "tags": ["succulent", "plant", "green", "red", "botanical", "leaf", "nature", "cute", "pot_plants", "pot", "plants"]
