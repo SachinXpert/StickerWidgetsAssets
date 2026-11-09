@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205455422,
+  "lastUpdated": 1794205490811,
   "packs": [
     {
       "category": "NATURE",
@@ -1747,7 +1747,7 @@
           "id": "desert_life_17",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_17.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Wise Little Owl",
           "packId": "desert_life",
           "tags": ["owl", "cute", "bird", "brown", "wise", "cartoon", "animal", "orange", "desert_life", "desert", "life", "little"]
@@ -10468,7 +10468,7 @@
       "id": "desert_life_17",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_17.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Wise Little Owl",
       "packId": "desert_life",
       "tags": ["owl", "cute", "bird", "brown", "wise", "cartoon", "animal", "orange", "desert_life", "desert", "life", "little"]
