@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206558534,
+  "lastUpdated": 1794206658612,
   "packs": [
     {
       "category": "NATURE",
@@ -2138,7 +2138,7 @@
           "id": "origami_4",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_4.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Origami Rabbit",
           "packId": "origami",
           "tags": ["rabbit", "origami", "paper", "cute", "purple", "art", "animal"]
@@ -10820,7 +10820,7 @@
       "id": "origami_4",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_4.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Origami Rabbit",
       "packId": "origami",
       "tags": ["rabbit", "origami", "paper", "cute", "purple", "art", "animal"]
