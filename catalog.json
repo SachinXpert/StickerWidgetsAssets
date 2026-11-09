@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209306586,
+  "lastUpdated": 1794209332537,
   "packs": [
     {
       "category": "NATURE",
@@ -497,7 +497,7 @@
           "id": "pirate_treasures_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_1.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pirate Hat",
           "packId": "pirate_treasures",
           "tags": ["pirate", "hat", "skull", "bones", "black", "red", "yellow", "pirate_treasures", "wear", "treasures"]
@@ -9291,7 +9291,7 @@
       "id": "pirate_treasures_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_1.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pirate Hat",
       "packId": "pirate_treasures",
       "tags": ["pirate", "hat", "skull", "bones", "black", "red", "yellow", "pirate_treasures", "wear", "treasures"]
