@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794199332697,
+  "lastUpdated": 1794199352328,
   "packs": [
     {
       "category": "NATURE",
@@ -14,6 +14,17 @@
       "stickers": [
         {
           "category": "CUTE",
+          "createdAt": 1794199348008,
+          "id": "duck_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Daisy Duckling",
+          "packId": "duck",
+          "tags": ["duck", "animal", "flower", "cute", "happy", "kawaii", "white", "orange", "daisy", "duckling"]
+        },
+        {
+          "category": "CUTE",
           "createdAt": 1794199328562,
           "id": "duck_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_10.png",
@@ -24,7 +35,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 1,
+      "stickersCount": 2,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8682,6 +8693,17 @@
   "stickers": [
     {
       "category": "CUTE",
+      "createdAt": 1794199348008,
+      "id": "duck_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Daisy Duckling",
+      "packId": "duck",
+      "tags": ["duck", "animal", "flower", "cute", "happy", "kawaii", "white", "orange", "daisy", "duckling"]
+    },
+    {
+      "category": "CUTE",
       "createdAt": 1794199328562,
       "id": "duck_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_10.png",
@@ -17317,6 +17339,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 785,
+  "totalStickers": 786,
   "version": 1
 }
