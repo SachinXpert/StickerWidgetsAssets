@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205205057,
+  "lastUpdated": 1794205256895,
   "packs": [
     {
       "category": "NATURE",
@@ -1392,7 +1392,7 @@
           "id": "cute_fruits_9",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_9.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Cute Cherries",
           "packId": "cute_fruits",
           "tags": ["cherry", "fruit", "cute", "happy", "red", "green", "kawaii", "cute_fruits", "food", "fruits", "cherries"]
@@ -10127,7 +10127,7 @@
       "id": "cute_fruits_9",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/cute_fruits/cute_fruits_9.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Cute Cherries",
       "packId": "cute_fruits",
       "tags": ["cherry", "fruit", "cute", "happy", "red", "green", "kawaii", "cute_fruits", "food", "fruits", "cherries"]
