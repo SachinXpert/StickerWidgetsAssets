@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204297524,
+  "lastUpdated": 1794204415245,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,50 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "ANIMAL",
+          "createdAt": 1794204410987,
+          "id": "duck_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cool Duck",
+          "packId": "duck",
+          "tags": ["duck", "cool", "sunglasses", "yellow", "cute", "bird", "cartoon", "animal"]
+        },
+        {
+          "category": "ANIMAL",
+          "createdAt": 1794204407031,
+          "id": "duck_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Drinking Duck",
+          "packId": "duck",
+          "tags": ["duck", "cute", "water", "drinking", "white", "orange", "cartoon", "bird", "animal"]
+        },
+        {
+          "category": "CUTE",
+          "createdAt": 1794204401632,
+          "id": "duck_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Cute Dressed Duck",
+          "packId": "duck",
+          "tags": ["duck", "animal", "cute", "purple", "orange", "happy", "cartoon", "flower", "dressed"]
+        },
+        {
+          "category": "CUTE",
+          "createdAt": 1794204395663,
+          "id": "duck_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Duck",
+          "packId": "duck",
+          "tags": ["duck", "bird", "cute", "white", "yellow", "chubby", "animal", "little"]
+        },
         {
           "category": "CUTE",
           "createdAt": 1794204293105,
@@ -134,7 +178,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 11,
+      "stickersCount": 15,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8790,6 +8834,50 @@
     }
   ],
   "stickers": [
+    {
+      "category": "ANIMAL",
+      "createdAt": 1794204410987,
+      "id": "duck_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cool Duck",
+      "packId": "duck",
+      "tags": ["duck", "cool", "sunglasses", "yellow", "cute", "bird", "cartoon", "animal"]
+    },
+    {
+      "category": "ANIMAL",
+      "createdAt": 1794204407031,
+      "id": "duck_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Drinking Duck",
+      "packId": "duck",
+      "tags": ["duck", "cute", "water", "drinking", "white", "orange", "cartoon", "bird", "animal"]
+    },
+    {
+      "category": "CUTE",
+      "createdAt": 1794204401632,
+      "id": "duck_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Cute Dressed Duck",
+      "packId": "duck",
+      "tags": ["duck", "animal", "cute", "purple", "orange", "happy", "cartoon", "flower", "dressed"]
+    },
+    {
+      "category": "CUTE",
+      "createdAt": 1794204395663,
+      "id": "duck_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Duck",
+      "packId": "duck",
+      "tags": ["duck", "bird", "cute", "white", "yellow", "chubby", "animal", "little"]
+    },
     {
       "category": "CUTE",
       "createdAt": 1794204293105,
@@ -17537,6 +17625,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 795,
+  "totalStickers": 799,
   "version": 1
 }
