@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205715980,
+  "lastUpdated": 1794205763179,
   "packs": [
     {
       "category": "NATURE",
@@ -1959,7 +1959,7 @@
           "id": "electric_mobility_19",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pink Tuk Tuk",
           "packId": "electric_mobility",
           "tags": ["vehicle", "transport", "pink", "cute", "colorful", "auto", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility", "tuk"]
@@ -10666,7 +10666,7 @@
       "id": "electric_mobility_19",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_19.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pink Tuk Tuk",
       "packId": "electric_mobility",
       "tags": ["vehicle", "transport", "pink", "cute", "colorful", "auto", "illustration", "travel", "electric_mobility", "automotive", "electric", "mobility", "tuk"]
