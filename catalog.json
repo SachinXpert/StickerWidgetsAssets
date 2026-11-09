@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204166611,
+  "lastUpdated": 1794204190302,
   "packs": [
     {
       "category": "NATURE",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "Duck",
       "stickers": [
+        {
+          "category": "CUTE",
+          "createdAt": 1794204186324,
+          "id": "duck_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Little Duck In Grass",
+          "packId": "duck",
+          "tags": ["duck", "cute", "yellow", "green", "flowers", "animal", "kawaii", "little", "in", "grass"]
+        },
         {
           "category": "ANIMAL",
           "createdAt": 1794204162158,
@@ -79,7 +90,7 @@
           "tags": ["duck", "wizard", "hat", "cute", "animal", "white", "purple", "star"]
         }
       ],
-      "stickersCount": 6,
+      "stickersCount": 7,
       "tags": ["widget", "homescreen", "aesthetic", "duck", "decor", "cute", "customization"]
     },
     {
@@ -8735,6 +8746,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "CUTE",
+      "createdAt": 1794204186324,
+      "id": "duck_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Little Duck In Grass",
+      "packId": "duck",
+      "tags": ["duck", "cute", "yellow", "green", "flowers", "animal", "kawaii", "little", "in", "grass"]
+    },
     {
       "category": "ANIMAL",
       "createdAt": 1794204162158,
@@ -17427,6 +17449,6 @@
     }
   ],
   "totalPacks": 43,
-  "totalStickers": 790,
+  "totalStickers": 791,
   "version": 1
 }
