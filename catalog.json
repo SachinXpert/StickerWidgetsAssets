@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205490811,
+  "lastUpdated": 1794205519153,
   "packs": [
     {
       "category": "NATURE",
@@ -1824,7 +1824,7 @@
           "id": "desert_life_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Cute Tabby Cat",
           "packId": "desert_life",
           "tags": ["cat", "cute", "tabby", "pet", "orange", "happy", "cartoon", "animal", "desert_life", "desert", "life"]
@@ -10545,7 +10545,7 @@
       "id": "desert_life_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Cute Tabby Cat",
       "packId": "desert_life",
       "tags": ["cat", "cute", "tabby", "pet", "orange", "happy", "cartoon", "animal", "desert_life", "desert", "life"]
