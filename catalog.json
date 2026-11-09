@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206162382,
+  "lastUpdated": 1794206195280,
   "packs": [
     {
       "category": "NATURE",
@@ -4065,7 +4065,7 @@
           "id": "food_18",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/food_bekary/food_18.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Blueberry Muffin",
           "packId": "food_bekary",
           "tags": ["muffin", "blueberry", "sweet", "bakery", "yellow", "blue", "delicious", "food", "food_bekary"]
@@ -12800,7 +12800,7 @@
       "id": "food_18",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/food_bekary/food_18.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blueberry Muffin",
       "packId": "food_bekary",
       "tags": ["muffin", "blueberry", "sweet", "bakery", "yellow", "blue", "delicious", "food", "food_bekary"]
