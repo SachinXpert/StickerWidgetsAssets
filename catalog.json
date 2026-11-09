@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205140841,
+  "lastUpdated": 1794205179897,
   "packs": [
     {
       "category": "NATURE",
@@ -1133,7 +1133,7 @@
           "id": "coastal_creatures_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_1.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Red Crab",
           "packId": "coastal_creatures",
           "tags": ["crab", "crustacean", "red", "ocean", "marine", "claws", "animal", "coastal_creatures", "coastal", "creatures"]
@@ -9896,7 +9896,7 @@
       "id": "coastal_creatures_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_1.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Red Crab",
       "packId": "coastal_creatures",
       "tags": ["crab", "crustacean", "red", "ocean", "marine", "claws", "animal", "coastal_creatures", "coastal", "creatures"]
