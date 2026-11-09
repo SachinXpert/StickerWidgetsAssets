@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205179897,
+  "lastUpdated": 1794205205057,
   "packs": [
     {
       "category": "NATURE",
@@ -1122,7 +1122,7 @@
           "id": "coastal_creatures_10",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_10.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Blue Jellyfish",
           "packId": "coastal_creatures",
           "tags": ["jellyfish", "blue", "ocean", "aquatic", "glowing", "ethereal", "nature", "coastal_creatures", "animal", "coastal", "creatures"]
@@ -9885,7 +9885,7 @@
       "id": "coastal_creatures_10",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_10.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blue Jellyfish",
       "packId": "coastal_creatures",
       "tags": ["jellyfish", "blue", "ocean", "aquatic", "glowing", "ethereal", "nature", "coastal_creatures", "animal", "coastal", "creatures"]
