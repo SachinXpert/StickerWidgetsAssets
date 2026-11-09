@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205763179,
+  "lastUpdated": 1794205787496,
   "packs": [
     {
       "category": "NATURE",
@@ -1904,7 +1904,7 @@
           "id": "electric_mobility_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Purple Skateboard",
           "packId": "electric_mobility",
           "tags": ["skateboard", "purple", "pink", "yellow", "sport", "skate", "wheels", "active", "electric_mobility", "travel", "electric", "mobility"]
@@ -10611,7 +10611,7 @@
       "id": "electric_mobility_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Purple Skateboard",
       "packId": "electric_mobility",
       "tags": ["skateboard", "purple", "pink", "yellow", "sport", "skate", "wheels", "active", "electric_mobility", "travel", "electric", "mobility"]
