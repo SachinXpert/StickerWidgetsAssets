@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209276339,
+  "lastUpdated": 1794209306586,
   "packs": [
     {
       "category": "NATURE",
@@ -475,7 +475,7 @@
           "id": "pirate_treasures_11",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_11.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pirate Ship",
           "packId": "pirate_treasures",
           "tags": ["ship", "pirate", "ocean", "adventure", "skull", "boat", "watercolor", "blue", "pirate_treasures", "travel", "treasures"]
@@ -9269,7 +9269,7 @@
       "id": "pirate_treasures_11",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_11.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pirate Ship",
       "packId": "pirate_treasures",
       "tags": ["ship", "pirate", "ocean", "adventure", "skull", "boat", "watercolor", "blue", "pirate_treasures", "travel", "treasures"]
