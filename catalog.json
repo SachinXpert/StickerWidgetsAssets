@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205067072,
+  "lastUpdated": 1794205107231,
   "packs": [
     {
       "category": "NATURE",
@@ -968,7 +968,7 @@
           "id": "coastal_creatures_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Golden Seahorse",
           "packId": "coastal_creatures",
           "tags": ["seahorse", "ocean", "marine", "gold", "nature", "aquatic", "wildlife", "coastal_creatures", "animal", "coastal", "creatures", "golden"]
@@ -9731,7 +9731,7 @@
       "id": "coastal_creatures_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/coastal_creatures/coastal_creatures_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Golden Seahorse",
       "packId": "coastal_creatures",
       "tags": ["seahorse", "ocean", "marine", "gold", "nature", "aquatic", "wildlife", "coastal_creatures", "animal", "coastal", "creatures", "golden"]
