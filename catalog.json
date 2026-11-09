@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206333614,
+  "lastUpdated": 1794206400852,
   "packs": [
     {
       "category": "NATURE",
@@ -2661,7 +2661,7 @@
           "id": "garden_21",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_21.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pink Flower Bloom",
           "packId": "garden",
           "tags": ["flower", "pink", "plant", "nature", "green", "bloom", "garden", "cute"]
@@ -11315,7 +11315,7 @@
       "id": "garden_21",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_21.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pink Flower Bloom",
       "packId": "garden",
       "tags": ["flower", "pink", "plant", "nature", "green", "bloom", "garden", "cute"]
