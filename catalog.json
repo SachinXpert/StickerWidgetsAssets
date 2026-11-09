@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206400852,
+  "lastUpdated": 1794206477708,
   "packs": [
     {
       "category": "NATURE",
@@ -2738,7 +2738,7 @@
           "id": "garden_15",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_15.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Sunflower Plant",
           "packId": "garden",
           "tags": ["sunflower", "flower", "plant", "yellow", "green", "nature", "cute", "bloom", "garden"]
@@ -11392,7 +11392,7 @@
       "id": "garden_15",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_15.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Sunflower Plant",
       "packId": "garden",
       "tags": ["sunflower", "flower", "plant", "yellow", "green", "nature", "cute", "bloom", "garden"]
