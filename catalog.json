@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206232197,
+  "lastUpdated": 1794206256320,
   "packs": [
     {
       "category": "NATURE",
@@ -2716,7 +2716,7 @@
           "id": "garden_17",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Potted Cactus",
           "packId": "garden",
           "tags": ["cactus", "plant", "pot", "green", "succulent", "nature", "cute", "garden", "potted"]
@@ -11370,7 +11370,7 @@
       "id": "garden_17",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_17.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Potted Cactus",
       "packId": "garden",
       "tags": ["cactus", "plant", "pot", "green", "succulent", "nature", "cute", "garden", "potted"]
