@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205787496,
+  "lastUpdated": 1794205815657,
   "packs": [
     {
       "category": "NATURE",
@@ -1981,7 +1981,7 @@
           "id": "electric_mobility_17",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Electric Map Pin",
           "packId": "electric_mobility",
           "tags": ["map", "pin", "electric", "charging", "station", "navigation", "green", "location", "electric_mobility", "automotive", "mobility"]
@@ -10688,7 +10688,7 @@
       "id": "electric_mobility_17",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/electric_mobility/electric_mobility_17.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Electric Map Pin",
       "packId": "electric_mobility",
       "tags": ["map", "pin", "electric", "charging", "station", "navigation", "green", "location", "electric_mobility", "automotive", "mobility"]
