@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206658612,
+  "lastUpdated": 1794206692791,
   "packs": [
     {
       "category": "NATURE",
@@ -2193,7 +2193,7 @@
           "id": "origami_18",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_18.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Origami Pine Tree",
           "packId": "origami",
           "tags": ["tree", "pine", "origami", "paper", "green", "brown", "nature", "craft"]
@@ -10875,7 +10875,7 @@
       "id": "origami_18",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/origami/origami_18.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Origami Pine Tree",
       "packId": "origami",
       "tags": ["tree", "pine", "origami", "paper", "green", "brown", "nature", "craft"]
