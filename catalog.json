@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204809914,
+  "lastUpdated": 1794204850055,
   "packs": [
     {
       "category": "NATURE",
@@ -13658,7 +13658,7 @@
       "id": "butterfly_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_2.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blue Morpho",
       "packId": "",
       "tags": ["butterfly", "blue", "insect", "wings", "nature", "bright", "beautiful", "morpho"]
