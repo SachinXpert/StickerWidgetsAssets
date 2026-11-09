@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205000441,
+  "lastUpdated": 1794205027979,
   "packs": [
     {
       "category": "NATURE",
@@ -2372,7 +2372,7 @@
           "id": "clothes_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pink Shoulder Bag",
           "packId": "clothes",
           "tags": ["bag", "purse", "pink", "fashion", "accessory", "cute", "style", "clothes", "wear", "shoulder"]
@@ -11051,7 +11051,7 @@
       "id": "clothes_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/clothes/clothes_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pink Shoulder Bag",
       "packId": "clothes",
       "tags": ["bag", "purse", "pink", "fashion", "accessory", "cute", "style", "clothes", "wear", "shoulder"]
