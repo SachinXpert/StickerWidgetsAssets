@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206119505,
+  "lastUpdated": 1794206135484,
   "packs": [
     {
       "category": "NATURE",
@@ -588,7 +588,7 @@
           "id": "flying_machines_3",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_3.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Blue Airship",
           "packId": "flying_machines",
           "tags": ["airship", "blimp", "transport", "sky", "blue", "travel", "flight", "flying_machines", "flying", "machines"]
@@ -9368,7 +9368,7 @@
       "id": "flying_machines_3",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_3.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blue Airship",
       "packId": "flying_machines",
       "tags": ["airship", "blimp", "transport", "sky", "blue", "travel", "flight", "flying_machines", "flying", "machines"]
