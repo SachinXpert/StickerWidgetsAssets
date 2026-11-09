@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205657088,
+  "lastUpdated": 1794205689765,
   "packs": [
     {
       "category": "NATURE",
@@ -62,7 +62,7 @@
           "id": "duck_6",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_6.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Little Duck",
           "packId": "duck",
           "tags": ["duck", "bird", "cute", "white", "yellow", "chubby", "animal", "little"]
@@ -8895,7 +8895,7 @@
       "id": "duck_6",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_6.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Little Duck",
       "packId": "duck",
       "tags": ["duck", "bird", "cute", "white", "yellow", "chubby", "animal", "little"]
