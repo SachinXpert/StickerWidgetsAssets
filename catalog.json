@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209247996,
+  "lastUpdated": 1794209276339,
   "packs": [
     {
       "category": "NATURE",
@@ -431,7 +431,7 @@
           "id": "pirate_treasures_15",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_15.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Tropical Island",
           "packId": "pirate_treasures",
           "tags": ["palm", "trees", "island", "beach", "summer", "green", "brown", "sand", "pirate_treasures", "nature", "pirate", "treasures", "tropical"]
@@ -9225,7 +9225,7 @@
       "id": "pirate_treasures_15",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pirate_treasures/pirate_treasures_15.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Tropical Island",
       "packId": "pirate_treasures",
       "tags": ["palm", "trees", "island", "beach", "summer", "green", "brown", "sand", "pirate_treasures", "nature", "pirate", "treasures", "tropical"]
