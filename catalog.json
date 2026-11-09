@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206256320,
+  "lastUpdated": 1794206286282,
   "packs": [
     {
       "category": "NATURE",
@@ -2705,7 +2705,7 @@
           "id": "garden_18",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Cozy Hanging Plant",
           "packId": "garden",
           "tags": ["plant", "green", "hanging", "leaves", "pot", "nature", "cozy", "botanical", "garden"]
@@ -11359,7 +11359,7 @@
       "id": "garden_18",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/garden/garden_18.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Cozy Hanging Plant",
       "packId": "garden",
       "tags": ["plant", "green", "hanging", "leaves", "pot", "nature", "cozy", "botanical", "garden"]
