@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794206059277,
+  "lastUpdated": 1794206080072,
   "packs": [
     {
       "category": "NATURE",
@@ -544,7 +544,7 @@
           "id": "flying_machines_7",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_7.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Colorful Hot Air Balloon",
           "packId": "flying_machines",
           "tags": ["balloon", "travel", "colorful", "sky", "adventure", "bright", "flight", "vector", "flying_machines", "flying", "machines", "hot", "air"]
@@ -9335,7 +9335,7 @@
       "id": "flying_machines_7",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_7.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Colorful Hot Air Balloon",
       "packId": "flying_machines",
       "tags": ["balloon", "travel", "colorful", "sky", "adventure", "bright", "flight", "vector", "flying_machines", "flying", "machines", "hot", "air"]
