@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205815657,
+  "lastUpdated": 1794206059277,
   "packs": [
     {
       "category": "NATURE",
@@ -555,7 +555,7 @@
           "id": "flying_machines_6",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_6.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Skydiving Adventure",
           "packId": "flying_machines",
           "tags": ["parachute", "skydiving", "adventure", "blue", "yellow", "extreme", "flight", "sport", "flying_machines", "sports", "flying", "machines"]
@@ -9346,7 +9346,7 @@
       "id": "flying_machines_6",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/flying_machines/flying_machines_6.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Skydiving Adventure",
       "packId": "flying_machines",
       "tags": ["parachute", "skydiving", "adventure", "blue", "yellow", "extreme", "flight", "sport", "flying_machines", "sports", "flying", "machines"]
