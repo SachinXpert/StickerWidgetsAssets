@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794205367210,
+  "lastUpdated": 1794205388183,
   "packs": [
     {
       "category": "NATURE",
@@ -1692,7 +1692,7 @@
           "id": "desert_life_3",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_3.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Cute Meerkat",
           "packId": "desert_life",
           "tags": ["meerkat", "cute", "happy", "brown", "pink", "animal", "cartoon", "desert_life", "desert", "life"]
@@ -10413,7 +10413,7 @@
       "id": "desert_life_3",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/desert_life/desert_life_3.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Cute Meerkat",
       "packId": "desert_life",
       "tags": ["meerkat", "cute", "happy", "brown", "pink", "animal", "cartoon", "desert_life", "desert", "life"]
