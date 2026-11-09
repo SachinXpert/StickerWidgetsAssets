@@ -1,6 +1,6 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794204729725,
+  "lastUpdated": 1794204809914,
   "packs": [
     {
       "category": "NATURE",
@@ -13625,7 +13625,7 @@
       "id": "butterfly_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/butterfly_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Ruby Butterfly",
       "packId": "",
       "tags": ["butterfly", "red", "insect", "nature", "wings", "bright", "spring", "ruby"]
