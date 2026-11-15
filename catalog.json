@@ -1,6 +1,6 @@
 {
   "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794723817505,
+  "lastUpdated": 1794723968192,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -11,8 +11,207 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "spiderman",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723963495,
+          "id": "spiderman_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "marvel", "red", "blue", "masked", "action", "character", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723957967,
+          "id": "spiderman_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "red", "blue", "action", "marvel", "jumping", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723952050,
+          "id": "spiderman_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "action", "red", "blue", "web", "marvel", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723944315,
+          "id": "spiderman_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man Web Slinging",
+          "packId": "spiderman",
+          "tags": ["spider", "hero", "action", "red", "blue", "web", "jumping", "marvel", "spiderman", "superheros", "man", "slinging"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723938883,
+          "id": "spiderman_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "red", "blue", "marvel", "action", "powerful", "mask", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723933007,
+          "id": "spiderman_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man Mask",
+          "packId": "spiderman",
+          "tags": ["spiderman", "hero", "mask", "red", "black", "comic", "web", "marvel", "superheros", "spider", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723928565,
+          "id": "spiderman_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spiderman Reflection",
+          "packId": "spiderman",
+          "tags": ["spiderman", "hero", "reflection", "marvel", "red", "masked", "movie", "portrait", "superheros"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723922766,
+          "id": "spiderman_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Red Spider Emblem",
+          "packId": "spiderman",
+          "tags": ["spider", "red", "hero", "emblem", "symbol", "logo", "arachnid", "icon", "spiderman", "superheros"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723917329,
+          "id": "spiderman_18",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_18.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man Action",
+          "packId": "spiderman",
+          "tags": ["spiderman", "hero", "action", "marvel", "red", "blue", "web", "superheros", "spider", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723910288,
+          "id": "spiderman_17",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_17.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["spider", "hero", "marvel", "red", "blue", "action", "suit", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723903889,
+          "id": "spiderman_16",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_16.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Flying Spider",
+          "packId": "spiderman",
+          "tags": ["spider", "hero", "action", "red", "blue", "flying", "character", "spiderman", "superheros"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723898785,
+          "id": "spiderman_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "red", "blue", "action", "marvel", "masked", "crouching", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723892527,
+          "id": "spiderman_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "red", "blue", "action", "marvel", "character", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723886503,
+          "id": "spiderman_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["spiderman", "hero", "marvel", "red", "spider", "gesture", "character", "action", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723879828,
+          "id": "spiderman_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["hero", "spider", "action", "red", "blue", "crouch", "marvel", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723873514,
+          "id": "spiderman_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Damaged Spider Man",
+          "packId": "spiderman",
+          "tags": ["spiderman", "hero", "damaged", "injured", "red", "costume", "movie", "surprised", "superheros", "spider", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723867895,
+          "id": "spiderman_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spider Man",
+          "packId": "spiderman",
+          "tags": ["spider", "hero", "action", "red", "blue", "web", "marvel", "comic", "spiderman", "superheros", "man"]
+        },
+        {
+          "category": "SUPERHEROS",
+          "createdAt": 1794723862306,
+          "id": "spiderman_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "White Spider Emblem",
+          "packId": "spiderman",
+          "tags": ["spider", "hero", "symbol", "white", "emblem", "icon", "vector", "arachnid", "spiderman", "superheros"]
+        }
+      ],
+      "stickersCount": 18,
       "tags": ["widget", "homescreen", "aesthetic", "spiderman", "decor", "customization", "marvel"]
     },
     {
@@ -8848,6 +9047,204 @@
   ],
   "stickers": [
     {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723963495,
+      "id": "spiderman_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "marvel", "red", "blue", "masked", "action", "character", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723957967,
+      "id": "spiderman_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "red", "blue", "action", "marvel", "jumping", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723952050,
+      "id": "spiderman_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "action", "red", "blue", "web", "marvel", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723944315,
+      "id": "spiderman_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man Web Slinging",
+      "packId": "spiderman",
+      "tags": ["spider", "hero", "action", "red", "blue", "web", "jumping", "marvel", "spiderman", "superheros", "man", "slinging"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723938883,
+      "id": "spiderman_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "red", "blue", "marvel", "action", "powerful", "mask", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723933007,
+      "id": "spiderman_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man Mask",
+      "packId": "spiderman",
+      "tags": ["spiderman", "hero", "mask", "red", "black", "comic", "web", "marvel", "superheros", "spider", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723928565,
+      "id": "spiderman_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spiderman Reflection",
+      "packId": "spiderman",
+      "tags": ["spiderman", "hero", "reflection", "marvel", "red", "masked", "movie", "portrait", "superheros"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723922766,
+      "id": "spiderman_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Red Spider Emblem",
+      "packId": "spiderman",
+      "tags": ["spider", "red", "hero", "emblem", "symbol", "logo", "arachnid", "icon", "spiderman", "superheros"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723917329,
+      "id": "spiderman_18",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_18.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man Action",
+      "packId": "spiderman",
+      "tags": ["spiderman", "hero", "action", "marvel", "red", "blue", "web", "superheros", "spider", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723910288,
+      "id": "spiderman_17",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_17.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["spider", "hero", "marvel", "red", "blue", "action", "suit", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723903889,
+      "id": "spiderman_16",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_16.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Flying Spider",
+      "packId": "spiderman",
+      "tags": ["spider", "hero", "action", "red", "blue", "flying", "character", "spiderman", "superheros"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723898785,
+      "id": "spiderman_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "red", "blue", "action", "marvel", "masked", "crouching", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723892527,
+      "id": "spiderman_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "red", "blue", "action", "marvel", "character", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723886503,
+      "id": "spiderman_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["spiderman", "hero", "marvel", "red", "spider", "gesture", "character", "action", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723879828,
+      "id": "spiderman_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["hero", "spider", "action", "red", "blue", "crouch", "marvel", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723873514,
+      "id": "spiderman_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Damaged Spider Man",
+      "packId": "spiderman",
+      "tags": ["spiderman", "hero", "damaged", "injured", "red", "costume", "movie", "surprised", "superheros", "spider", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723867895,
+      "id": "spiderman_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spider Man",
+      "packId": "spiderman",
+      "tags": ["spider", "hero", "action", "red", "blue", "web", "marvel", "comic", "spiderman", "superheros", "man"]
+    },
+    {
+      "category": "SUPERHEROS",
+      "createdAt": 1794723862306,
+      "id": "spiderman_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "White Spider Emblem",
+      "packId": "spiderman",
+      "tags": ["spider", "hero", "symbol", "white", "emblem", "icon", "vector", "arachnid", "spiderman", "superheros"]
+    },
+    {
       "category": "NATURE",
       "createdAt": 1794204725513,
       "id": "duck_1",
@@ -17638,6 +18035,6 @@
     }
   ],
   "totalPacks": 44,
-  "totalStickers": 799,
+  "totalStickers": 817,
   "version": 1
 }
