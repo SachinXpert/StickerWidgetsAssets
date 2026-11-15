@@ -1,10 +1,10 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794736889769,
+  "lastUpdated": 1794737020409,
   "packs": [
     {
       "category": "UNUSUAL",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_17.png",
       "createdAt": 1794736603031,
       "description": "Transform your home screen with unique retro pixel art widget decorations.",
       "id": "pixel_art",
