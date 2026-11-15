@@ -1,6 +1,6 @@
 {
   "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794726219414,
+  "lastUpdated": 1794726278234,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -9048,6 +9048,17 @@
   "stickers": [
     {
       "category": "SUPERHEROS",
+      "createdAt": 1794726277567,
+      "id": "dr_doom_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/dr_doom_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Doctor Doom",
+      "packId": "",
+      "tags": ["villain", "marvel", "masked", "green", "armor", "hood", "comic", "intense", "superheros", "dr", "doom", "doctor"]
+    },
+    {
+      "category": "SUPERHEROS",
       "createdAt": 1794726218682,
       "id": "dr_doom_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/dr_doom_2.png",
@@ -18046,6 +18057,6 @@
     }
   ],
   "totalPacks": 44,
-  "totalStickers": 818,
+  "totalStickers": 819,
   "version": 1
 }
