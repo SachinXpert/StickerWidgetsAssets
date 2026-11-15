@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739561657,
+  "lastUpdated": 1794739581712,
   "packs": [
     {
       "category": "OBJECTS",
@@ -318,7 +318,7 @@
           "id": "3d_objects_33",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_33.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Twin Cherries",
           "packId": "3d_objects",
           "tags": ["cherries", "fruit", "sweet", "red", "green", "glossy", "fresh", "3d_objects", "food", "3d", "objects", "twin"]
@@ -10392,7 +10392,7 @@
       "id": "3d_objects_33",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_33.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Twin Cherries",
       "packId": "3d_objects",
       "tags": ["cherries", "fruit", "sweet", "red", "green", "glossy", "fresh", "3d_objects", "food", "3d", "objects", "twin"]
