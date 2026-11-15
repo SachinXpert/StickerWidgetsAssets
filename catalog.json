@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737264812,
+  "lastUpdated": 1794737292266,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -659,7 +659,7 @@
           "id": "spiderman_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_1.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "White Spider Emblem",
           "packId": "spiderman",
           "tags": ["spider", "hero", "symbol", "white", "emblem", "icon", "vector", "arachnid", "spiderman", "superheros"]
@@ -10155,7 +10155,7 @@
       "id": "spiderman_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_1.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "White Spider Emblem",
       "packId": "spiderman",
       "tags": ["spider", "hero", "symbol", "white", "emblem", "icon", "vector", "arachnid", "spiderman", "superheros"]
