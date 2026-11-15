@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737020409,
+  "lastUpdated": 1794737056992,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -447,7 +447,7 @@
           "id": "pixel_art_1",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_1.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Game Controller",
           "packId": "pixel_art",
           "tags": ["controller", "gamepad", "pixel", "gaming", "retro", "white", "arcade", "console", "pixel_art", "games", "art", "game"]
@@ -9935,7 +9935,7 @@
       "id": "pixel_art_1",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_1.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Game Controller",
       "packId": "pixel_art",
       "tags": ["controller", "gamepad", "pixel", "gaming", "retro", "white", "arcade", "console", "pixel_art", "games", "art", "game"]
