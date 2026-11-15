@@ -1,16 +1,16 @@
 {
   "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794723968192,
+  "lastUpdated": 1794724018262,
   "packs": [
     {
       "category": "SUPERHEROS",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_4.png",
       "createdAt": 1794723811883,
       "description": "Transform your phone screen with dynamic superhero sticker widget designs.",
       "id": "spiderman",
       "isFeatured": false,
       "isPremium": false,
-      "name": "spiderman",
+      "name": "Spiderman",
       "stickers": [
         {
           "category": "SUPERHEROS",
