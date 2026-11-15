@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737353501,
+  "lastUpdated": 1794737367724,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -516,7 +516,7 @@
           "id": "spiderman_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Spider Man",
           "packId": "spiderman",
           "tags": ["hero", "spider", "red", "blue", "marvel", "action", "powerful", "mask", "spiderman", "superheros", "man"]
@@ -10012,7 +10012,7 @@
       "id": "spiderman_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Spider Man",
       "packId": "spiderman",
       "tags": ["hero", "spider", "red", "blue", "marvel", "action", "powerful", "mask", "spiderman", "superheros", "man"]
