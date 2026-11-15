@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737212080,
+  "lastUpdated": 1794737264812,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -392,7 +392,7 @@
           "id": "pixel_art_14",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_14.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Level Up",
           "packId": "pixel_art",
           "tags": ["game", "pixel", "yellow", "green", "text", "achievement", "arcade", "pixel_art", "games", "art", "level", "up"]
@@ -9880,7 +9880,7 @@
       "id": "pixel_art_14",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_14.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Level Up",
       "packId": "pixel_art",
       "tags": ["game", "pixel", "yellow", "green", "text", "achievement", "arcade", "pixel_art", "games", "art", "level", "up"]
