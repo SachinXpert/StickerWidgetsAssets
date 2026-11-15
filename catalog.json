@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737322511,
+  "lastUpdated": 1794737340271,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -505,7 +505,7 @@
           "id": "spiderman_6",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_6.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Spider Man Web Slinging",
           "packId": "spiderman",
           "tags": ["spider", "hero", "action", "red", "blue", "web", "jumping", "marvel", "spiderman", "superheros", "man", "slinging"]
@@ -10001,7 +10001,7 @@
       "id": "spiderman_6",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_6.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Spider Man Web Slinging",
       "packId": "spiderman",
       "tags": ["spider", "hero", "action", "red", "blue", "web", "jumping", "marvel", "spiderman", "superheros", "man", "slinging"]
