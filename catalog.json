@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737151362,
+  "lastUpdated": 1794737166564,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -73,7 +73,7 @@
           "id": "pixel_art_40",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_40.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Computer",
           "packId": "pixel_art",
           "tags": ["computer", "screen", "pixel", "monitor", "technology", "blue", "retro", "device", "pixel_art", "tools", "art"]
@@ -9561,7 +9561,7 @@
       "id": "pixel_art_40",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_40.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Computer",
       "packId": "pixel_art",
       "tags": ["computer", "screen", "pixel", "monitor", "technology", "blue", "retro", "device", "pixel_art", "tools", "art"]
