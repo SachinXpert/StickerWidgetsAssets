@@ -1,7 +1,20 @@
 {
-  "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794723761027,
+  "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
+  "lastUpdated": 1794723817505,
   "packs": [
+    {
+      "category": "SUPERHEROS",
+      "coverUrl": "",
+      "createdAt": 1794723811883,
+      "description": "Transform your phone screen with dynamic superhero sticker widget designs.",
+      "id": "spiderman",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "spiderman",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "spiderman", "decor", "customization", "marvel"]
+    },
     {
       "category": "NATURE",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_1.png",
@@ -17624,7 +17637,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 43,
+  "totalPacks": 44,
   "totalStickers": 799,
   "version": 1
 }
