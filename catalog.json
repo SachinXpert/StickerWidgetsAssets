@@ -1,7 +1,20 @@
 {
-  "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794726651303,
+  "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
+  "lastUpdated": 1794736604144,
   "packs": [
+    {
+      "category": "UNUSUAL",
+      "coverUrl": "",
+      "createdAt": 1794736603031,
+      "description": "Transform your home screen with unique retro pixel art widget decorations.",
+      "id": "pixel_art",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pixel Art",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["pixel", "retro", "widget", "aesthetic", "homescreen", "decor", "unusual", "8bit"]
+    },
     {
       "category": "SUPERHEROS",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_4.png",
@@ -18056,7 +18069,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 44,
+  "totalPacks": 45,
   "totalStickers": 819,
   "version": 1
 }
