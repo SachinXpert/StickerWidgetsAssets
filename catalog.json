@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737123453,
+  "lastUpdated": 1794737136457,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -18,7 +18,7 @@
           "id": "pixel_art_9",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_9.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Blue Mana Potion",
           "packId": "pixel_art",
           "tags": ["potion", "mana", "pixel", "magic", "blue", "bottle", "game", "flask", "pixel_art", "games", "art"]
@@ -9506,7 +9506,7 @@
       "id": "pixel_art_9",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_9.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blue Mana Potion",
       "packId": "pixel_art",
       "tags": ["potion", "mana", "pixel", "magic", "blue", "bottle", "game", "flask", "pixel_art", "games", "art"]
