@@ -1,10 +1,10 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739473850,
+  "lastUpdated": 1794739524062,
   "packs": [
     {
       "category": "OBJECTS",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_13.png",
       "createdAt": 1794739368967,
       "description": "Transform your phone display with delightful 3D clay home screen widgets.",
       "id": "3d_clay_objects",
