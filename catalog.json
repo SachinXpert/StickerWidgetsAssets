@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737136457,
+  "lastUpdated": 1794737151362,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -40,7 +40,7 @@
           "id": "pixel_art_7",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_7.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Green Mushroom",
           "packId": "pixel_art",
           "tags": ["mushroom", "green", "pixel", "gaming", "retro", "cute", "life", "nintendo", "pixel_art", "games", "art"]
@@ -9528,7 +9528,7 @@
       "id": "pixel_art_7",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_7.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Green Mushroom",
       "packId": "pixel_art",
       "tags": ["mushroom", "green", "pixel", "gaming", "retro", "cute", "life", "nintendo", "pixel_art", "games", "art"]
