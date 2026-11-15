@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739618484,
+  "lastUpdated": 1794739648175,
   "packs": [
     {
       "category": "OBJECTS",
@@ -340,7 +340,7 @@
           "id": "3d_objects_31",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_31.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pink Ice Cream",
           "packId": "3d_objects",
           "tags": ["icecream", "dessert", "sweet", "pink", "cone", "yummy", "cute", "3d_objects", "food", "3d", "objects", "ice", "cream"]
@@ -10414,7 +10414,7 @@
       "id": "3d_objects_31",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_31.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pink Ice Cream",
       "packId": "3d_objects",
       "tags": ["icecream", "dessert", "sweet", "pink", "cone", "yummy", "cute", "3d_objects", "food", "3d", "objects", "ice", "cream"]
