@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737166564,
+  "lastUpdated": 1794737182751,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -425,7 +425,7 @@
           "id": "pixel_art_11",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_11.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Diamond",
           "packId": "pixel_art",
           "tags": ["diamond", "pixel", "gem", "blue", "shiny", "retro", "crystal", "pixel_art", "games", "art"]
@@ -9913,7 +9913,7 @@
       "id": "pixel_art_11",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_11.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Diamond",
       "packId": "pixel_art",
       "tags": ["diamond", "pixel", "gem", "blue", "shiny", "retro", "crystal", "pixel_art", "games", "art"]
