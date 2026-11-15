@@ -1,7 +1,20 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "MUSIC", "TRAVEL", "ART"],
-  "lastUpdated": 1794738867879,
+  "lastUpdated": 1794739370311,
   "packs": [
+    {
+      "category": "OBJECTS",
+      "coverUrl": "",
+      "createdAt": 1794739368967,
+      "description": "Transform your phone display with delightful 3D clay home screen widgets.",
+      "id": "3d_clay_objects",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "3d Clay Objects",
+      "stickers": [],
+      "stickersCount": 0,
+      "tags": ["widget", "homescreen", "aesthetic", "clay", "3d", "decor", "customization"]
+    },
     {
       "category": "OBJECTS",
       "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_23.png",
@@ -19778,7 +19791,7 @@
       "tags": ["cat", "cute", "happy", "wave", "white"]
     }
   ],
-  "totalPacks": 46,
+  "totalPacks": 47,
   "totalStickers": 896,
   "version": 1
 }
