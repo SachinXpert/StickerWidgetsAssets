@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737107378,
+  "lastUpdated": 1794737123453,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -62,7 +62,7 @@
           "id": "pixel_art_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Super Star",
           "packId": "pixel_art",
           "tags": ["star", "pixel", "gold", "yellow", "gaming", "powerup", "retro", "pixel_art", "games", "art", "super"]
@@ -9550,7 +9550,7 @@
       "id": "pixel_art_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Super Star",
       "packId": "pixel_art",
       "tags": ["star", "pixel", "gold", "yellow", "gaming", "powerup", "retro", "pixel_art", "games", "art", "super"]
