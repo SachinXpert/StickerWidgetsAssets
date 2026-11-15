@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "MUSIC", "TRAVEL", "ART"],
-  "lastUpdated": 1794738695412,
+  "lastUpdated": 1794738832949,
   "packs": [
     {
       "category": "OBJECTS",
@@ -12,6 +12,17 @@
       "isPremium": false,
       "name": "3d Objects",
       "stickers": [
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794738832279,
+          "id": "3d_objects_23",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_23.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Golden Bell",
+          "packId": "3d_objects",
+          "tags": ["bell", "golden", "yellow", "3d", "metal", "sound", "ring", "cute", "3d_objects", "objects"]
+        },
         {
           "category": "OBJECTS",
           "createdAt": 1794738694558,
@@ -409,7 +420,7 @@
           "tags": ["headphones", "music", "audio", "blue", "white", "3d", "listening", "sound", "3d_objects", "objects"]
         }
       ],
-      "stickersCount": 36,
+      "stickersCount": 37,
       "tags": []
     },
     {
@@ -9910,6 +9921,17 @@
     }
   ],
   "stickers": [
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794738832279,
+      "id": "3d_objects_23",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_23.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Golden Bell",
+      "packId": "3d_objects",
+      "tags": ["bell", "golden", "yellow", "3d", "metal", "sound", "ring", "cute", "3d_objects", "objects"]
+    },
     {
       "category": "OBJECTS",
       "createdAt": 1794738694558,
@@ -19757,6 +19779,6 @@
     }
   ],
   "totalPacks": 46,
-  "totalStickers": 895,
+  "totalStickers": 896,
   "version": 1
 }
