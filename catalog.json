@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737071432,
+  "lastUpdated": 1794737091711,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -227,7 +227,7 @@
           "id": "pixel_art_28",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_28.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Rocket",
           "packId": "pixel_art",
           "tags": ["rocket", "space", "pixel", "retro", "ship", "fire", "red", "white", "pixel_art", "art"]
@@ -9715,7 +9715,7 @@
       "id": "pixel_art_28",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_28.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Rocket",
       "packId": "pixel_art",
       "tags": ["rocket", "space", "pixel", "retro", "ship", "fire", "red", "white", "pixel_art", "art"]
