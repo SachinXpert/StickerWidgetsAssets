@@ -1,10 +1,10 @@
 {
   "categories": ["NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "SUPERHEROS", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794209483081,
+  "lastUpdated": 1794723761027,
   "packs": [
     {
       "category": "NATURE",
-      "coverUrl": "",
+      "coverUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/duck/duck_1.png",
       "createdAt": 1794198556381,
       "description": "Quack up your phone aesthetics with adorable duck home screen widgets.",
       "id": "duck",
