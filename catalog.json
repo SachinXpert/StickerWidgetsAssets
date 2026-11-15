@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737091711,
+  "lastUpdated": 1794737107378,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -205,7 +205,7 @@
           "id": "pixel_art_3",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_3.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Heart",
           "packId": "pixel_art",
           "tags": ["pixel", "heart", "love", "retro", "red", "game", "cute", "pixel_art", "games", "art"]
@@ -9693,7 +9693,7 @@
       "id": "pixel_art_3",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_3.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Heart",
       "packId": "pixel_art",
       "tags": ["pixel", "heart", "love", "retro", "red", "game", "cute", "pixel_art", "games", "art"]
