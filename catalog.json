@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737182751,
+  "lastUpdated": 1794737212080,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -260,7 +260,7 @@
           "id": "pixel_art_25",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_25.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Pixel Space Invader",
           "packId": "pixel_art",
           "tags": ["alien", "pixel", "retro", "green", "arcade", "gaming", "vintage", "pixel_art", "games", "art", "space", "invader"]
@@ -9748,7 +9748,7 @@
       "id": "pixel_art_25",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_25.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Pixel Space Invader",
       "packId": "pixel_art",
       "tags": ["alien", "pixel", "retro", "green", "arcade", "gaming", "vintage", "pixel_art", "games", "art", "space", "invader"]
