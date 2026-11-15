@@ -1,6 +1,6 @@
 {
   "categories": ["SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "UNUSUAL", "BRAND", "GAMES", "ANIME", "TRAVEL", "SPACE", "ART", "MUSIC"],
-  "lastUpdated": 1794724018262,
+  "lastUpdated": 1794726219414,
   "packs": [
     {
       "category": "SUPERHEROS",
@@ -9048,6 +9048,17 @@
   "stickers": [
     {
       "category": "SUPERHEROS",
+      "createdAt": 1794726218682,
+      "id": "dr_doom_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/stickers/dr_doom_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Doctor Doom",
+      "packId": "",
+      "tags": ["villain", "marvel", "mask", "armor", "green", "metal", "powerful", "comic", "superheros", "dr", "doom", "doctor"]
+    },
+    {
+      "category": "SUPERHEROS",
       "createdAt": 1794723963495,
       "id": "spiderman_9",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/spiderman/spiderman_9.png",
@@ -18035,6 +18046,6 @@
     }
   ],
   "totalPacks": 44,
-  "totalStickers": 817,
+  "totalStickers": 818,
   "version": 1
 }
