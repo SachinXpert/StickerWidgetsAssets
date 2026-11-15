@@ -1,6 +1,6 @@
 {
   "categories": ["UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "TRAVEL", "ART", "MUSIC"],
-  "lastUpdated": 1794737056992,
+  "lastUpdated": 1794737071432,
   "packs": [
     {
       "category": "UNUSUAL",
@@ -370,7 +370,7 @@
           "id": "pixel_art_16",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_16.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Mystery Block",
           "packId": "pixel_art",
           "tags": ["mario", "question", "block", "pixel", "yellow", "retro", "gaming", "pixel_art", "games", "art", "mystery"]
@@ -9858,7 +9858,7 @@
       "id": "pixel_art_16",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/pixel_art/pixel_art_16.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Mystery Block",
       "packId": "pixel_art",
       "tags": ["mario", "question", "block", "pixel", "yellow", "retro", "gaming", "pixel_art", "games", "art", "mystery"]
