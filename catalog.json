@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739598600,
+  "lastUpdated": 1794739618484,
   "packs": [
     {
       "category": "OBJECTS",
@@ -560,7 +560,7 @@
           "id": "3d_objects_12",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_12.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Potted Plant",
           "packId": "3d_objects",
           "tags": ["plant", "pot", "green", "leaves", "nature", "cute", "growth", "3d", "3d_objects", "objects", "potted"]
@@ -10634,7 +10634,7 @@
       "id": "3d_objects_12",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_12.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Potted Plant",
       "packId": "3d_objects",
       "tags": ["plant", "pot", "green", "leaves", "nature", "cute", "growth", "3d", "3d_objects", "objects", "potted"]
