@@ -1,6 +1,6 @@
 {
-  "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "MUSIC", "TRAVEL", "ART"],
-  "lastUpdated": 1794739370311,
+  "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
+  "lastUpdated": 1794739473850,
   "packs": [
     {
       "category": "OBJECTS",
@@ -11,8 +11,174 @@
       "isFeatured": false,
       "isPremium": false,
       "name": "3d Clay Objects",
-      "stickers": [],
-      "stickersCount": 0,
+      "stickers": [
+        {
+          "category": "NATURE",
+          "createdAt": 1794739472384,
+          "id": "3d_clay_objects_9",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_9.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Blob Flower",
+          "packId": "3d_clay_objects",
+          "tags": ["flower", "pink", "cute", "blob", "shape", "minimal", "soft", "pastel", "3d_clay_objects", "nature", "3d", "clay", "objects"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739468704,
+          "id": "3d_clay_objects_8",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_8.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Crystal",
+          "packId": "3d_clay_objects",
+          "tags": ["crystal", "gem", "diamond", "pink", "shiny", "faceted", "mineral", "stone", "3d_clay_objects", "objects", "3d", "clay"]
+        },
+        {
+          "category": "SPACE",
+          "createdAt": 1794739464077,
+          "id": "3d_clay_objects_7",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_7.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Planet Orbit",
+          "packId": "3d_clay_objects",
+          "tags": ["planet", "orbit", "space", "pink", "silver", "glossy", "cute", "universe", "3d_clay_objects", "3d", "clay", "objects"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739457720,
+          "id": "3d_clay_objects_6",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_6.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Spheres",
+          "packId": "3d_clay_objects",
+          "tags": ["spheres", "balls", "pink", "grey", "glass", "round", "smooth", "3d_clay_objects", "objects", "3d", "clay"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739452235,
+          "id": "3d_clay_objects_5",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_5.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Star App Icon",
+          "packId": "3d_clay_objects",
+          "tags": ["icon", "star", "purple", "3d", "smooth", "app", "minimal", "widget", "3d_clay_objects", "objects", "clay"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739447274,
+          "id": "3d_clay_objects_4",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_4.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Star Balloon",
+          "packId": "3d_clay_objects",
+          "tags": ["star", "balloon", "pink", "glossy", "shiny", "puffy", "cute", "3d_clay_objects", "objects", "3d", "clay"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739441836,
+          "id": "3d_clay_objects_3",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_3.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Glass Torus",
+          "packId": "3d_clay_objects",
+          "tags": ["glass", "torus", "ring", "transparent", "pink", "blue", "shiny", "abstract", "3d_clay_objects", "objects", "3d", "clay"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739435883,
+          "id": "3d_clay_objects_2",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_2.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Stone Cubes",
+          "packId": "3d_clay_objects",
+          "tags": ["cube", "stone", "grey", "rock", "ice", "glass", "geometric", "3d_clay_objects", "objects", "3d", "clay", "cubes"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739429911,
+          "id": "3d_clay_objects_15",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_15.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Holographic Bubble",
+          "packId": "3d_clay_objects",
+          "tags": ["holographic", "bubble", "glass", "shiny", "pink", "purple", "abstract", "glossy", "3d_clay_objects", "objects", "3d", "clay"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739424841,
+          "id": "3d_clay_objects_14",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_14.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Floating Cubes",
+          "packId": "3d_clay_objects",
+          "tags": ["cubes", "ice", "stone", "transparent", "grey", "geometric", "3d", "3d_clay_objects", "objects", "clay", "floating"]
+        },
+        {
+          "category": "FOOD",
+          "createdAt": 1794739420050,
+          "id": "3d_clay_objects_13",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_13.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Donut",
+          "packId": "3d_clay_objects",
+          "tags": ["donut", "sweet", "pink", "dessert", "food", "baked", "snack", "pastry", "3d_clay_objects", "3d", "clay", "objects"]
+        },
+        {
+          "category": "ART",
+          "createdAt": 1794739415420,
+          "id": "3d_clay_objects_12",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_12.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Geometric Abstract Shapes",
+          "packId": "3d_clay_objects",
+          "tags": ["abstract", "shapes", "geometric", "grey", "modern", "sculpture", "minimalist", "3d_clay_objects", "art", "3d", "clay", "objects"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739407531,
+          "id": "3d_clay_objects_11",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_11.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Pill",
+          "packId": "3d_clay_objects",
+          "tags": ["capsule", "medicine", "pink", "clear", "glass", "pharmacy", "object", "3d_clay_objects", "objects", "3d", "clay", "pill"]
+        },
+        {
+          "category": "OBJECTS",
+          "createdAt": 1794739400887,
+          "id": "3d_clay_objects_10",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_10.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Stacked Erasers",
+          "packId": "3d_clay_objects",
+          "tags": ["eraser", "pink", "grey", "office", "school", "stack", "stationery", "3d_clay_objects", "objects", "3d", "clay", "stacked", "erasers"]
+        },
+        {
+          "category": "SPACE",
+          "createdAt": 1794739394478,
+          "id": "3d_clay_objects_1",
+          "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_1.png",
+          "isFeatured": false,
+          "isPremium": false,
+          "name": "Pink Planet",
+          "packId": "3d_clay_objects",
+          "tags": ["planet", "pink", "saturn", "space", "universe", "cute", "glossy", "3d_clay_objects", "3d", "clay", "objects"]
+        }
+      ],
+      "stickersCount": 15,
       "tags": ["widget", "homescreen", "aesthetic", "clay", "3d", "decor", "customization"]
     },
     {
@@ -9935,6 +10101,171 @@
   ],
   "stickers": [
     {
+      "category": "NATURE",
+      "createdAt": 1794739472384,
+      "id": "3d_clay_objects_9",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_9.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Blob Flower",
+      "packId": "3d_clay_objects",
+      "tags": ["flower", "pink", "cute", "blob", "shape", "minimal", "soft", "pastel", "3d_clay_objects", "nature", "3d", "clay", "objects"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739468704,
+      "id": "3d_clay_objects_8",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_8.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Crystal",
+      "packId": "3d_clay_objects",
+      "tags": ["crystal", "gem", "diamond", "pink", "shiny", "faceted", "mineral", "stone", "3d_clay_objects", "objects", "3d", "clay"]
+    },
+    {
+      "category": "SPACE",
+      "createdAt": 1794739464077,
+      "id": "3d_clay_objects_7",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_7.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Planet Orbit",
+      "packId": "3d_clay_objects",
+      "tags": ["planet", "orbit", "space", "pink", "silver", "glossy", "cute", "universe", "3d_clay_objects", "3d", "clay", "objects"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739457720,
+      "id": "3d_clay_objects_6",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_6.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Spheres",
+      "packId": "3d_clay_objects",
+      "tags": ["spheres", "balls", "pink", "grey", "glass", "round", "smooth", "3d_clay_objects", "objects", "3d", "clay"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739452235,
+      "id": "3d_clay_objects_5",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_5.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Star App Icon",
+      "packId": "3d_clay_objects",
+      "tags": ["icon", "star", "purple", "3d", "smooth", "app", "minimal", "widget", "3d_clay_objects", "objects", "clay"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739447274,
+      "id": "3d_clay_objects_4",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_4.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Star Balloon",
+      "packId": "3d_clay_objects",
+      "tags": ["star", "balloon", "pink", "glossy", "shiny", "puffy", "cute", "3d_clay_objects", "objects", "3d", "clay"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739441836,
+      "id": "3d_clay_objects_3",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_3.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Glass Torus",
+      "packId": "3d_clay_objects",
+      "tags": ["glass", "torus", "ring", "transparent", "pink", "blue", "shiny", "abstract", "3d_clay_objects", "objects", "3d", "clay"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739435883,
+      "id": "3d_clay_objects_2",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_2.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Stone Cubes",
+      "packId": "3d_clay_objects",
+      "tags": ["cube", "stone", "grey", "rock", "ice", "glass", "geometric", "3d_clay_objects", "objects", "3d", "clay", "cubes"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739429911,
+      "id": "3d_clay_objects_15",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_15.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Holographic Bubble",
+      "packId": "3d_clay_objects",
+      "tags": ["holographic", "bubble", "glass", "shiny", "pink", "purple", "abstract", "glossy", "3d_clay_objects", "objects", "3d", "clay"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739424841,
+      "id": "3d_clay_objects_14",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_14.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Floating Cubes",
+      "packId": "3d_clay_objects",
+      "tags": ["cubes", "ice", "stone", "transparent", "grey", "geometric", "3d", "3d_clay_objects", "objects", "clay", "floating"]
+    },
+    {
+      "category": "FOOD",
+      "createdAt": 1794739420050,
+      "id": "3d_clay_objects_13",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_13.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Donut",
+      "packId": "3d_clay_objects",
+      "tags": ["donut", "sweet", "pink", "dessert", "food", "baked", "snack", "pastry", "3d_clay_objects", "3d", "clay", "objects"]
+    },
+    {
+      "category": "ART",
+      "createdAt": 1794739415420,
+      "id": "3d_clay_objects_12",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_12.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Geometric Abstract Shapes",
+      "packId": "3d_clay_objects",
+      "tags": ["abstract", "shapes", "geometric", "grey", "modern", "sculpture", "minimalist", "3d_clay_objects", "art", "3d", "clay", "objects"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739407531,
+      "id": "3d_clay_objects_11",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_11.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Pill",
+      "packId": "3d_clay_objects",
+      "tags": ["capsule", "medicine", "pink", "clear", "glass", "pharmacy", "object", "3d_clay_objects", "objects", "3d", "clay", "pill"]
+    },
+    {
+      "category": "OBJECTS",
+      "createdAt": 1794739400887,
+      "id": "3d_clay_objects_10",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_10.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Stacked Erasers",
+      "packId": "3d_clay_objects",
+      "tags": ["eraser", "pink", "grey", "office", "school", "stack", "stationery", "3d_clay_objects", "objects", "3d", "clay", "stacked", "erasers"]
+    },
+    {
+      "category": "SPACE",
+      "createdAt": 1794739394478,
+      "id": "3d_clay_objects_1",
+      "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_clay_objects/3d_clay_objects_1.png",
+      "isFeatured": false,
+      "isPremium": false,
+      "name": "Pink Planet",
+      "packId": "3d_clay_objects",
+      "tags": ["planet", "pink", "saturn", "space", "universe", "cute", "glossy", "3d_clay_objects", "3d", "clay", "objects"]
+    },
+    {
       "category": "OBJECTS",
       "createdAt": 1794738832279,
       "id": "3d_objects_23",
@@ -19792,6 +20123,6 @@
     }
   ],
   "totalPacks": 47,
-  "totalStickers": 896,
+  "totalStickers": 911,
   "version": 1
 }
