@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739581712,
+  "lastUpdated": 1794739598600,
   "packs": [
     {
       "category": "OBJECTS",
@@ -252,7 +252,7 @@
           "id": "3d_objects_5",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_5.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Purple Earbuds",
           "packId": "3d_objects",
           "tags": ["earbuds", "audio", "purple", "music", "gadget", "wireless", "tech", "3d_objects", "objects", "3d"]
@@ -10326,7 +10326,7 @@
       "id": "3d_objects_5",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_5.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Purple Earbuds",
       "packId": "3d_objects",
       "tags": ["earbuds", "audio", "purple", "music", "gadget", "wireless", "tech", "3d_objects", "objects", "3d"]
