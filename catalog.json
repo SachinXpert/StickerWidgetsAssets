@@ -1,6 +1,6 @@
 {
   "categories": ["OBJECTS", "UNUSUAL", "SUPERHEROS", "NATURE", "SPORTS", "HISTORICAL", "AUTOMOTIVE", "ANIMAL", "CUTE", "WEAR", "TOOLS", "FOOD", "BRAND", "GAMES", "ANIME", "SPACE", "ART", "MUSIC", "TRAVEL"],
-  "lastUpdated": 1794739524062,
+  "lastUpdated": 1794739561657,
   "packs": [
     {
       "category": "OBJECTS",
@@ -472,7 +472,7 @@
           "id": "3d_objects_2",
           "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_2.png",
           "isFeatured": false,
-          "isPremium": false,
+          "isPremium": true,
           "name": "Blue Camera",
           "packId": "3d_objects",
           "tags": ["camera", "photography", "device", "blue", "orange", "3d", "cute", "3d_objects", "objects"]
@@ -10546,7 +10546,7 @@
       "id": "3d_objects_2",
       "imageUrl": "https://SachinXpert.github.io/StickerWidgetsAssets/packs/3d_objects/3d_objects_2.png",
       "isFeatured": false,
-      "isPremium": false,
+      "isPremium": true,
       "name": "Blue Camera",
       "packId": "3d_objects",
       "tags": ["camera", "photography", "device", "blue", "orange", "3d", "cute", "3d_objects", "objects"]
